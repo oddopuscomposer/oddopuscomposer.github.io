@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Alexandra Leonhart
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1988
     - name: Languages
-      value: English, German
+      value: English, Inform7, GDScript
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Victoria University of Wellington, Wellington NZ.
+      year: 2028 (expected)
       description:
         - Description 1.
         - Description 2.
