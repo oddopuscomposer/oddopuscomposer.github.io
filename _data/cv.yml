@@ -17,33 +17,34 @@
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
+        - title: Ludonarrative Design
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Procedural Generation and Story
+            - LGBT Representation in Video Games
+    - title: MFA
+      institution: Maryland Institute College of Art & Design, Baltimore MD
+      year: 2014
       description:
-        - Description 1.
-        - Description 2.
+        - Photographic and Electronic Media
+        - Certificate of Colligate Teaching
+        - Wirelessly Powered Levitating Sculptural Circuitry
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Professor of Experiential Design & Production
+      institution: Pennsylvania College of Art & Design, Lancaster PA
+      year: 2015 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Chair of LiveX
+        - IT Team Lead
+        - title: Director of Aesthetic Technologies
           contents:
             - Sub-description 1.
             - Sub-description 2.
     - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+      institution: JHU & MICA, Baltimore MD
+      year: 2016-2018
       description:
         - Description 1.
         - Description 2.
