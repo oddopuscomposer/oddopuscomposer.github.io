@@ -53,13 +53,11 @@
       year: 2016-2018
       description:
         - Sound Workshop
-        - Description 2.
+        - Senior Project Consultant.
 
     - title: Local Support Providor
       institution: University of Pennsylvania, Philadelphia PA
       year: 2014-2015
-
-
 
 - title: Open Source Projects
   type: time_table
@@ -105,4 +103,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> DIY Electronics, Analog & Modular Synthesizers, Indie Songwriting and Proformance.
+    - <u>Hobbies:</u> DIY Electronics, Analog & Modular Synthesizers, and Indie Songwriting and Proformance.
