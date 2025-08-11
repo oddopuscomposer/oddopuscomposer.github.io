@@ -47,7 +47,7 @@
             - Visual Design & Production I
             - Digital Fabrication
         - title: Chair of LiveX 2022 - 2025
-          year: 2022
+        - year: 2022
           contents:
             - Hybrid role leading newly-formed Live Experience Design & Production department within Pennsylvania College of Art & Design, a small, dually-accredited, not-for-profit independent arts college in Lancaster, PA.
         - title: IT Team Lead 2018 - 2022
@@ -79,6 +79,33 @@
       items:
         - Wellington Doctoral Scholarship ($91,500 over 3 years at VUW)
     - year: 2024
+      items:
+        - PCAD Faculty Research & Practice Professional Development Grant
+    - year: 2020
+      items:
+        - Trustees’ Award for Staff Excellence (Inaugural)l
+    - year: 2018
+      items:
+        - Unity Game Engine grant ($20,000)
+    - year: 2012 - 2014
+      items:
+        - Leadership Award (merit scholarship), Fall 2012 - Spring 2014 MICA
+
+- title: Experience Test
+  type: time_table
+  contents:
+    - title: Work as cool interesting professor
+      institution: PCAD
+    - year: 2025
+      contents:
+        - Evolution of Video Game Design & Culture
+      items:
+        - Wellington Doctoral Scholarship ($91,500 over 3 years at VUW)
+        - Sensory Design
+    - year: 2024
+    - items:
+        - Wellington Doctoral Scholarship ($91,500 over 3 years at VUW)
+        - Sensory Design
       items:
         - PCAD Faculty Research & Practice Professional Development Grant
     - year: 2020
