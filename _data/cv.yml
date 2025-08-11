@@ -25,7 +25,7 @@
       year: 2014
       description:
         - Certificate in the College Teaching of Art, 2014
-        - Thesis: Wirelessly Powered Levitating Sculptural Circuitry
+        - Thesis - Wirelessly Powered Levitating Sculptural Circuitry
 
 - title: Experience
   type: time_table
@@ -34,12 +34,11 @@
       institution: Pennsylvania College of Art & Design, Lancaster PA
       year: 2015 - 2025
       description:
+        - Over 10 years of committed working for the PCA&D
         - title: Associate Professor
           contents:
             year: 2017 - 2025
-            description: 
-            - Designed & developed the curriculum and syllabus from the ground up for all courses taught
-            items:
+              - Designed & developed the curriculum and syllabus from the ground up for all courses taught
               - Evolution of Video Game Design & Culture, GE 293, Fall 2025, Spring 2025, Fall 2024
               - Sensory Design, LEX 332, Spring 2025
               - Livex Capstone Internship, LEX 399, Spring 2025
@@ -57,7 +56,8 @@
         - title: IT Support Specialist
           contents:
           year: 2015 - 2018
-            - Provided technical guidance and maintenance for students, faculty, and administration, along with creative lab management and instructional classroom technology.     
+            - Provided technical guidance and maintenance for students, faculty, and administration, along with creative lab management and instructional classroom technology.
+
 
     - title: IT Team Lead
       institution: Pennsylvania College of Art & Design, Lancaster PA
