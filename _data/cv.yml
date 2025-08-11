@@ -11,30 +11,58 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD Design
       institution: Victoria University of Wellington, Wellington NZ.
       year: 2028 (expected)
       description:
-        - Description 1.
-        - Description 2.
+        - Fully funded with living stipend.
         - title: Ludonarrative Design
           contents:
             - Procedural Generation and Story
             - LGBT Representation in Video Games
-    - title: MFA
+    - title: MFA Photographic and Electronic Media
       institution: Maryland Institute College of Art & Design, Baltimore MD
       year: 2014
       description:
-        - Photographic and Electronic Media
-        - Certificate of Colligate Teaching
-        - Wirelessly Powered Levitating Sculptural Circuitry
+        - Certificate in the College Teaching of Art, 2014
+        - Thesis: Wirelessly Powered Levitating Sculptural Circuitry
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Experiential Design & Production
+    - title: Professor of Experiential Design & Production and Director of Aesthetic Technologies
       institution: Pennsylvania College of Art & Design, Lancaster PA
       year: 2015 - 2025
+      description:
+        - title: Associate Professor
+          contents:
+            year: 2017 - 2025
+            description:
+            - title: Designed & developed the curriculum and syllabus from the ground up for all courses taught
+              contents:
+              - ● Evolution of Video Game Design & Culture, GE 293, Fall 2025, Spring 2025, Fall 2024
+              - ● Sensory Design, LEX 332, Spring 2025
+              - ● Livex Capstone Internship, LEX 399, Spring 2025
+              - ● Sound Design & Production I (& equavalants), LEX 223 - Spring 2024, LXD 201 - Fall 2021, PH 325 - Spring 2017, DM 204 - Spring 2017
+              - ● Intro Live Experience Design & Production, LEX 101, Spring 2024, Fall 2023, Spring 2023, Fall 2022
+              - ● Visual Design & Production I, LEX 222, Fall 2023
+              - ● Digital Fabrication, LXD 201, Spring 2022
+        - title: Chair of LiveX
+          contents:
+            year: 2022 - 2025
+            - Hybrid role leading newly-formed Live Experience Design & Production department within Pennsylvania College of Art & Design, a small, dually-accredited, not-for-profit independent arts college in Lancaster, PA.
+        - title: IT Team Lead
+          contents:
+            year: 2018 - 2022
+            - Position as an IT Support Specialist grew to take on additional responsibilities, such as budget and project management, and vendor negotiation. Special projects included hardware design implementation, resource research, and budget proposals for facility spaces and equipment acquisition.
+        - title: IT Support Specialist
+          contents:
+            year: 2015 - 2018
+            - Provided technical guidance and maintenance for students, faculty, and administration, along with creative lab management and instructional classroom technology.     
+
+    - title: IT Team Lead
+      institution: Pennsylvania College of Art & Design, Lancaster PA
+      year: 2015 - 2022
       description:
         - Chair of LiveX
         - IT Team Lead
@@ -42,12 +70,12 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
+    - title: Visiting Professor & Artist
       institution: JHU & MICA, Baltimore MD
       year: 2016-2018
       description:
-        - Description 1.
-        - Description 2.
+        - Provided technical instruction on sound recording studio equipment and sound capture techniques in conjunction with the opening of the Johns Hopkins University and Maryland Institute College of Art jointly-administered Film Centre.
+        - Hired by MICA as an outside consultant to provide professional guidance and extensive feedback to senior film students on the sound design and audio production quality of their capstone works.
     - title: Visiting Artist
       institution: JHU & MICA, Baltimore MD
       year: 2016-2018
@@ -58,6 +86,10 @@
     - title: Local Support Providor
       institution: University of Pennsylvania, Philadelphia PA
       year: 2014-2015
+      description:
+        - Tier 1 Local Support Provider for faculty, students, and staff of the University of Pennsylvania’s Anthropology and History departments.
+        - Provided prompt and efficient assistance with hardware and software navigation, fixed user interface disputes, and provided on-call A/V classroom support.
+        - Maintained cybersecurity detail for localised HIPAA and personal information, and implemented malware removal procedures.
 
 - title: Open Source Projects
   type: time_table
@@ -69,22 +101,21 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Wellington Doctoral Scholarship ($91,500 over 3 years at VUW)
     - year: 2024
       items:
-        - Artist Award
+        - PCAD Faculty Research & Practice Professional Development Grant
     - year: 2020
       items:
-        - Staff Award of Excellence
-        - Matteucci Medal
+        - Trustees’ Award for Staff Excellence (Inaugural)l
     - year: 2018
       items:
-        - Max Planck Medal
-    - year: 2016
-      items:
-        - Max Planck Medal
+        - Unity Game Engine grant ($20,000)
     - year: 2012 - 2014
       items:
-        - Max Planck Medal
+        - Leadership Award (merit scholarship), Fall 2012 - Spring 2014 MICA
 
 - title: Academic Interests
   type: nested_list
@@ -94,13 +125,20 @@
         - Procedural Generation of Story
         - LGBT Representation in Video Games
         - Indie Game Development
-        - Interactive Fiction and Computational Text
+        - Interactive Fiction
+        - Computational Text
     - title: Sound Design
       items:
         - Sound capture technology
         - Sonic post Processing & DAW
+        - Sound Art
+    - title: Creative Technology for Artists
+      items:
+        - Sensory Design
+        - Touch Designer 
+        - Conceptual Hardware Hacking  
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> DIY Electronics, Analog & Modular Synthesizers, and Indie Songwriting and Proformance.
+    - <u>Hobbies:</u> Quirky Song Writing, Music Performance, DIY Electronics, and Analog & Modular Synthesizers.
