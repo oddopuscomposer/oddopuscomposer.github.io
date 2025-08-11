@@ -91,32 +91,6 @@
       items:
         - Leadership Award (merit scholarship), Fall 2012 - Spring 2014 MICA
 
-- title: Experience Test
-  type: time_table
-  contents:
-    - title: Work as cool interesting professor
-      institution: PCAD
-    - year: 2025
-      contents:
-        - Evolution of Video Game Design & Culture
-      items:
-        - Wellington Doctoral Scholarship ($91,500 over 3 years at VUW)
-        - Sensory Design
-    - year: 2024
-        - Wellington Doctoral Scholarship ($91,500 over 3 years at VUW)
-        - Sensory Design
-      items:
-        - PCAD Faculty Research & Practice Professional Development Grant
-    - year: 2020
-      items:
-        - Trustees’ Award for Staff Excellence (Inaugural)l
-    - year: 2018
-      items:
-        - Unity Game Engine grant ($20,000)
-    - year: 2012 - 2014
-      items:
-        - Leadership Award (merit scholarship), Fall 2012 - Spring 2014 MICA
-
 - title: Academic Interests
   type: nested_list
   contents:
