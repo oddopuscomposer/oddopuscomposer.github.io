@@ -13,7 +13,7 @@
   contents:
     - title: PhD Design
       institution: Victoria University of Wellington, Wellington NZ.
-      year: 2028 (exspected)
+      year: 2028 (expected)
       description:
         - Fully funded with living stipend.
         - title: Ludonarrative Design
@@ -25,7 +25,7 @@
       year: 2014
       description:
         - Certificate in the College Teaching of Art, 2014
-        - Thesis - Wirelessly Powered Levitating Sculptural Circuitry
+        - "Thesis: Wirelessly Powered Levitating Sculptural Circuitry"
 
 - title: Experience
   type: time_table
@@ -37,15 +37,15 @@
         - Over 10 years of committed working for the PCA&D
         - title: Associate Professor 2017 - 2025
           year: 2017 -2025
-          contents:
+          description:
             - Designed & developed the curriculum and syllabus from the ground up for all courses taught
-            - Evolution of Video Game Design & Culture, GE 293, Fall 2025, Spring 2025, Fall 2024
-            - Sensory Design, LEX 332, Spring 2025
-            - Livex Capstone Internship, LEX 399, Spring 2025
-            - Sound Design & Production I (& equavalants), LEX 223 - Spring 2024, LXD 201 - Fall 2021, PH 325 - Spring 2017, DM 204 - Spring 2017
-            - Intro Live Experience Design & Production, LEX 101, Spring 2024, Fall 2023, Spring 2023, Fall 2022
-            - Visual Design & Production I, LEX 222, Fall 2023
-            - Digital Fabrication, LXD 201, Spring 2022
+          contents:
+            - Evolution of Video Game Design & Culture
+            - Sensory Design
+            - Sound Design & Production I
+            - Intro Live Experience Design & Production
+            - Visual Design & Production I
+            - Digital Fabrication
         - title: Chair of LiveX 2022 - 2025
           year: 2022
           contents:
@@ -57,28 +57,12 @@
           contents:
             - Provided technical guidance and maintenance for students, faculty, and administration, along with creative lab management and instructional classroom technology.
 
-    - title: IT Team Lead
-      institution: Pennsylvania College of Art & Design, Lancaster PA
-      year: 2015 - 2022
-      description:
-        - Chair of LiveX
-        - IT Team Lead
-        - title: Director of Aesthetic Technologies
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Visiting Professor & Artist
       institution: JHU & MICA, Baltimore MD
       year: 2016-2018
       description:
         - Provided technical instruction on sound recording studio equipment and sound capture techniques in conjunction with the opening of the Johns Hopkins University and Maryland Institute College of Art jointly-administered Film Centre.
         - Hired by MICA as an outside consultant to provide professional guidance and extensive feedback to senior film students on the sound design and audio production quality of their capstone works.
-    - title: Visiting Artist
-      institution: JHU & MICA, Baltimore MD
-      year: 2016-2018
-      description:
-        - Sound Workshop
-        - Senior Project Consultant.
 
     - title: Local Support Providor
       institution: University of Pennsylvania, Philadelphia PA
@@ -86,14 +70,7 @@
       description:
         - Tier 1 Local Support Provider for faculty, students, and staff of the University of Pennsylvania’s Anthropology and History departments.
         - Provided prompt and efficient assistance with hardware and software navigation, fixed user interface disputes, and provided on-call A/V classroom support.
-        - Maintained cybersecurity detail for localised HIPAA and personal information, and implemented malware removal procedures.
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Maintained cybersecurity detail for localized HIPAA and personal information, and implemented malware removal procedures.
 
 - title: Honors and Awards
   type: time_table
@@ -126,7 +103,7 @@
         - Computational Text
     - title: Sound Design
       items:
-        - Sound capture technology
+        - Sound Capture Technology
         - Sonic post Processing & DAW
         - Sound Art
     - title: Creative Technology for Artists
