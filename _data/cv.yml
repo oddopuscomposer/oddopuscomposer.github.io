@@ -13,12 +13,12 @@
   contents:
     - title: PhD Design
       institution: Victoria University of Wellington, Wellington NZ.
-      year: 2028 (expected)
+      year: 2028 (exspected)
       description:
         - Fully funded with living stipend.
         - title: Ludonarrative Design
           contents:
-            - Procedural Generation and Story
+            - Procedural Generation of Story
             - LGBT Representation in Video Games
     - title: MFA Photographic and Electronic Media
       institution: Maryland Institute College of Art & Design, Baltimore MD
@@ -45,46 +45,30 @@
             - Intro Live Experience Design & Production, LEX 101, Spring 2024, Fall 2023, Spring 2023, Fall 2022
             - Visual Design & Production I, LEX 222, Fall 2023
             - Digital Fabrication, LXD 201, Spring 2022
-        - title: Chair of LiveX 2022 - 2025
-          contents:
-            - Hybrid role leading newly-formed Live Experience Design & Production department within Pennsylvania College of Art & Design, a small, dually-accredited, not-for-profit independent arts college in Lancaster, PA.
-        - title: IT Team Lead 2018 - 2022
-          contents:
-            - Position as an IT Support Specialist grew to take on additional responsibilities, such as budget and project management, and vendor negotiation. Special projects included hardware design implementation, resource research, and budget proposals for facility spaces and equipment acquisition.
-        - title: IT Support Specialist 2015 - 2018
-          contents:
-            - Provided technical guidance and maintenance for students, faculty, and administration, along with creative lab management and instructional classroom technology.
-
-    - title: IT Team Lead
-      institution: Pennsylvania College of Art & Design, Lancaster PA
-      year: 2015 - 2022
-      description:
-        - Chair of LiveX
-        - IT Team Lead
-        - title: Director of Aesthetic Technologies
-          contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor & Artist
-      institution: JHU & MICA, Baltimore MD
-      year: 2016-2018
+        - title: Associate Professor 2017 - 2025
+          contents:
+            - Designed & developed the curriculum and syllabus from the ground up for all courses taught
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
-        - Provided technical instruction on sound recording studio equipment and sound capture techniques in conjunction with the opening of the Johns Hopkins University and Maryland Institute College of Art jointly-administered Film Centre.
-        - Hired by MICA as an outside consultant to provide professional guidance and extensive feedback to senior film students on the sound design and audio production quality of their capstone works.
-    - title: Visiting Artist
-      institution: JHU & MICA, Baltimore MD
-      year: 2016-2018
-      description:
-        - Sound Workshop
-        - Senior Project Consultant.
+        - Description 1.
+        - Description 2.
 
-    - title: Local Support Providor
-      institution: University of Pennsylvania, Philadelphia PA
-      year: 2014-2015
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
       description:
-        - Tier 1 Local Support Provider for faculty, students, and staff of the University of Pennsylvania’s Anthropology and History departments.
-        - Provided prompt and efficient assistance with hardware and software navigation, fixed user interface disputes, and provided on-call A/V classroom support.
-        - Maintained cybersecurity detail for localised HIPAA and personal information, and implemented malware removal procedures.
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
@@ -96,44 +80,27 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2025
+    - year: 1921
       items:
-        - Wellington Doctoral Scholarship ($91,500 over 3 years at VUW)
-    - year: 2024
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
       items:
-        - PCAD Faculty Research & Practice Professional Development Grant
-    - year: 2020
-      items:
-        - Trustees’ Award for Staff Excellence (Inaugural)l
-    - year: 2018
-      items:
-        - Unity Game Engine grant ($20,000)
-    - year: 2012 - 2014
-      items:
-        - Leadership Award (merit scholarship), Fall 2012 - Spring 2014 MICA
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Ludonarrative Design
+    - title: Topic 1.
       items:
-        - Procedural Generation of Story
-        - LGBT Representation in Video Games
-        - Indie Game Development
-        - Interactive Fiction
-        - Computational Text
-    - title: Sound Design
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
       items:
-        - Sound capture technology
-        - Sonic post Processing & DAW
-        - Sound Art
-    - title: Creative Technology for Artists
-      items:
-        - Sensory Design
-        - Touch Designer 
-        - Conceptual Hardware Hacking  
+        - Description 1.
+        - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Quirky Song Writing, Music Performance, Board Game Design, DIY Electronics, and Analog & Modular Synthesizers.
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
