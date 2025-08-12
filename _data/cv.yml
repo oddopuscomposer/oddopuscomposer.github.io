@@ -25,7 +25,7 @@
       year: 2014
       description:
         - Certificate in the College Teaching of Art, 2014
-        - "Thesis: Wirelessly Powered Levitating Sculptural Circuitry"
+        - Thesis "{{':'}}" Wirelessly Powered Levitating Sculptural Circuitry
 
 - title: Experience
   type: time_table
@@ -61,7 +61,7 @@
         - Provided technical instruction on sound recording studio equipment and sound capture techniques in conjunction with the opening of the Johns Hopkins University and Maryland Institute College of Art jointly-administered Film Centre.
         - Hired by MICA as an outside consultant to provide professional guidance and extensive feedback to senior film students on the sound design and audio production quality of their capstone works.
 
-    - title: Local Support Providor
+    - title: Local Support Provider
       institution: University of Pennsylvania, Philadelphia PA
       year: 2014-2015
       description:
