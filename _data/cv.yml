@@ -92,6 +92,8 @@
   type: nested_list
   contents:
     - title: Ludonarrative Design
+      institution: Pennsylvania College of Art & Design, Lancaster PA
+      year: 2015 - 2025
       items:
         - Procedural Generation of Story
         - LGBT Representation in Video Games

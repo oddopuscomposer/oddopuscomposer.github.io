@@ -3,13 +3,13 @@ layout: distill
 title: a super full template academic blog post
 description: an example of a distill-style blog post and main elements
 tags: distill formatting
-giscus_comments: true
 date: 2025-08-11
 featured: true
 mermaid:
   enabled: true
   zoomable: true
 citation: true
+tabs: true
 
 # The only thing needed is for you to set the `citation` key in the front matter to `true` Probably need to move it to the bottom or perhaps a button?
 
@@ -22,7 +22,7 @@ bibliography: 2018-12-22-distill.bib
 #   - we may want to automate TOC generation in the future using
 #     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
 toc:
-  - name: Citations
+  - name: Basics
     # if a section has subsections, you can add them as follows:
     # subsections:
     #   - name: Example Child Subsection 1
@@ -37,10 +37,22 @@ toc:
 # Below is an example of injecting additional post-specific styles.
 # If you use this post as a template, delete this _styles block.
 ---
+## Basics
 
+Delivering a <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> hyperlink in a sentence.
+
+#### Check List
+
+- [x] Brush Teeth
+- [ ] Put on socks
+  - [x] Put on left sock
+
+#### Quote
+
+> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
+> —Anais Nin
 
 ---
-
 ## Citations
 
 Citations are then used in the article body with the `<d-cite>` tag.
@@ -80,9 +92,6 @@ def foo(x):
       ```
 
    2. The key is to indent your fenced block in the same line as the first character of the line.
-
----
-
 
 ---
 
@@ -159,10 +168,6 @@ direction LR
 ```
 
 With Mermaid, you can easily add clear and dynamic diagrams to enhance your blog content.
-
----
-
-
 
 ---
 
