@@ -64,32 +64,22 @@ The number of the footnote will be automatically generated.<d-footnote>This will
 
 ## Code Blocks
 
-Syntax highlighting is provided within `<d-code>` tags.
-An example of inline code snippets: `<d-code language="html">let x = 10;</d-code>`.
-For larger blocks of code, add a `block` attribute:
-
-<d-code block language="javascript">
-  var x = 25;
-  function(x) {
-    return x * x;
-  }
-</d-code>
-
-**Note:** `<d-code>` blocks do not look good in the dark mode. You can instead use the standard Jekyll syntax highlight with the `highlight` liquid tag.
-
-{% highlight javascript %}
-var x = 25;
-function(x) {
-return x \* x;
-}
-{% endhighlight %}
-
 You can also write standard Markdown code blocks in triple ticks with a language tag, for instance:
 
 ```python
 def foo(x):
   return x
 ```
+
+1. We can put fenced code blocks inside nested bullets, too.
+
+   1. Like this:
+
+      ```c
+      printf("Hello, World!");
+      ```
+
+   2. The key is to indent your fenced block in the same line as the first character of the line.
 
 ---
 
@@ -125,58 +115,10 @@ gantt
 ```
 ````
 
-And here’s how it will be rendered:
 
-```mermaid
-gantt
-    dateFormat  YYYY-MM-DD
-    title A Gantt Diagram
-
-    section Section
-    Task A           :a1, 2025-01-01, 30d
-    Task B           :after a1, 20d
-    Task C           :2025-01-10, 12d
-```
 
 Similarly, you can also use it to create beautiful class diagrams:
 
-````
-```mermaid
-classDiagram
-direction LR
-    class Animal {
-        +String species
-        +int age
-        +makeSound()
-    }
-    class Dog {
-        +String breed
-        +bark()
-    }
-    class Cat {
-        +String color
-        +meow()
-    }
-    class Bird {
-        +String wingSpan
-        +fly()
-    }
-    class Owner {
-        +String name
-        +int age
-        +adoptAnimal(Animal animal)
-    }
-
-    Animal <|-- Dog
-    Animal <|-- Cat
-    Animal <|-- Bird
-    Owner "1" --> "0..*" Animal
-
-    Dog : +fetch()
-    Cat : +purr()
-    Bird : +sing()
-```
-````
 
 It will be presented as:
 
@@ -386,13 +328,37 @@ func _init():
 ```
 {% endtab %}
 {% tab Hello Python %}
-General Python for Posterity 
 ```python
 print('Hello World!')
 ```
 {% endtab %}
 {% endtabs %}
 
+## Another example
+
+{% tabs data-struct %}
+
+{% tab data-struct yaml %}
+
+```yaml
+hello:
+  - "whatsup"
+  - "hi"
+```
+
+{% endtab %}
+
+{% tab data-struct json %}
+
+```json
+{
+  "hello": ["whatsup", "hi"]
+}
+```
+
+{% endtab %}
+
+{% endtabs %}
 
 Colons can be used to align columns.
 
