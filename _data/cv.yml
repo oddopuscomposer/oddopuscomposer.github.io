@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Alexandra Leonhart
-    - name: Date of Birth
-      value: 1988
+#    - name: Date of Birth
+#      value: 1988
     - name: Languages
       value: English, Inform7, GDScript, Python
 
@@ -25,7 +25,7 @@
       year: 2014
       description:
         - Certificate in the College Teaching of Art, 2014
-        - Thesis "{{':'}}" Wirelessly Powered Levitating Sculptural Circuitry
+        - Thesis - Wirelessly Powered Levitating Sculptural Circuitry
 
 - title: Experience
   type: time_table
