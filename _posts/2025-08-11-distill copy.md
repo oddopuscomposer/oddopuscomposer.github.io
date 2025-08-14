@@ -2,7 +2,7 @@
 layout: distill
 title: a super full template academic blog post
 description: an example of a distill-style blog post and main elements
-tags: distill formatting
+tags: procedural-generation roguelike lgbt inform7 game-studies
 date: 2025-08-11
 featured: true
 mermaid:
@@ -52,6 +52,78 @@ Delivering a <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pre
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
 > —Anais Nin
 
+#### Emphasize Tag
+
+The emphasize tag should _italicize_ text.
+
+#### Insert Tag
+
+This tag should denote <ins>inserted</ins> text.
+
+#### Keyboard Tag
+
+This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
+
+
+#### Address Tag
+
+<address>
+  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+</address>
+
+#### Anchor Tag (aka. Link)
+
+This is an example of a [link](http://github.com "GitHub").
+
+#### Abbreviation Tag
+
+The abbreviation CSS stands for "Cascading Style Sheets".
+
+*[CSS]: Cascading Style Sheets
+
+### Preformatted Tag
+
+This tag styles large blocks of code.
+
+<pre>
+.post-title {
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 1.2;
+  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+}
+</pre>
+
+#### Quote Tag
+
+<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
+
+#### Strike Tag
+
+This tag will let you <strike>strikeout text</strike>.
+
+#### Strong Tag
+
+This tag shows **bold text**.
+
+#### Subscript Tag
+
+Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
+
+#### Superscript Tag
+
+Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
+
+#### Variable Tag
+
+This allows you to denote <var>variables</var>.
+
+#### Buttons
+
+Make any link standout more when applying the `.btn` class. `cool.btn`
+
+
 ---
 ## Citations
 
@@ -64,6 +136,8 @@ If you have an appendix, a bibliography is automatically created and populated i
 
 Distill chose a numerical inline citation style to improve readability of citation dense articles and because many of the benefits of longer citations are obviated by displaying more information on hover.
 However, we consider it good style to mention author last names if you discuss something at length and it fits into the flow well — the authors are human and it’s nice for them to have the community associate them with their work.
+
+"Code is poetry." ---<cite>Automattic</cite>
 
 ---
 
