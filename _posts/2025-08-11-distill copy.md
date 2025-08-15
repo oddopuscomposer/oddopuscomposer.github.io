@@ -245,6 +245,7 @@ With Mermaid, you can easily add clear and dynamic diagrams to enhance your blog
 
 ---
 
+
 ## Sidenotes
 
 Distill supports sidenotes, which are like footnotes but placed in the margin of the page.
