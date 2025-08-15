@@ -161,7 +161,7 @@
         "Git/GitHub/"
         "Linux",
         "Bash",
-        "Libcob",
+        "Libcob"
       ]
     },
     {
@@ -173,7 +173,7 @@
         "Illustrator",
         "Premiere",
         "Touch Designer",
-        "Figma",
+        "Figma"
       ]
     },
     {
@@ -184,7 +184,7 @@
         "Logic Pro",
         "Ableton Live",
         "Audition",
-        "Audacity",
+        "Audacity"
       ]
     },
     {
@@ -193,7 +193,7 @@
       "icon": "fa-solid fa-gamepad",
       "keywords": [
         "Godot",
-        "Inform7",
+        "Inform7"
       ]
     }
   ],
