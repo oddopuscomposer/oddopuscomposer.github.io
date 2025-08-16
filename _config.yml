@@ -11,10 +11,9 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A quirky academic exploration of game studies, wonky ditties, and some tangential experiments.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  I'm gay.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  I made this website with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> using the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  and hosting with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+keywords: game-studies, procedural-generation, lgbt-representation, inform7, godot, academic-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: RoguelikeIconfavicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -32,7 +31,7 @@ back_to_top: true # set to false to disable the back to top button
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -86,8 +85,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Odd Opus Composing # blog_name will be displayed in your blog page
+blog_description: A nerdy space to explore ludonarrative studies in procedural generartion and LGBT representation along with the occasional experiment in quirky music and wonky tangential tech art. 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -96,8 +95,9 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
-  max_related: 5
+  enabled: false
+  max_related: 3
+  min_common_tags: 3
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
@@ -385,7 +385,7 @@ enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: false # enables displaying social links in the navbar on the about page
+enable_navbar_social: true # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position

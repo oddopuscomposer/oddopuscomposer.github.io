@@ -38,6 +38,20 @@ toc:
 # If you use this post as a template, delete this _styles block.
 ---
 
+### Fun Word Count Thingy
+
+Totals
+
+Total site words: {% published_posts_word_count total %} (average {% published_posts_word_count average %} per post)
+
+Total site characters: {% published_posts_word_count total_characters %} (average {% published_posts_word_count average_characters %} per post)
+
+#### Published post records 
+
+Longest post: <a href="{% published_posts_word_count longest_post_url %}">{% published_posts_word_count longest_post_title %}</a> ({% published_posts_word_count longest %} words)
+
+Shortest post: <a href="{% published_posts_word_count shortest_post_url %}">{% published_posts_word_count shortest_post_title %}</a> ({% published_posts_word_count shortest %} words)
+
 ## Basics
 
 Delivering a <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> hyperlink in a sentence.
