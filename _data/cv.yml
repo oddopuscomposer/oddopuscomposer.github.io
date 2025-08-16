@@ -3,16 +3,13 @@
   contents:
     - name: Full Name
       value: Alexandra Leonhart
-#    - name: Date of Birth
-#      value: 1988
     - name: Languages
-      value: English, Inform7, GDScript, Python
-
+      value: 'English, Inform7, GDScript, Python'
 - title: Education
   type: time_table
   contents:
     - title: PhD Design
-      institution: Victoria University of Wellington, Wellington NZ.
+      institution: 'Victoria University of Wellington, Wellington NZ.'
       year: 2028 (expected)
       description:
         - Fully funded with living stipend.
@@ -21,23 +18,26 @@
             - Procedural Generation of Story
             - LGBT Representation in Video Games
     - title: MFA Photographic and Electronic Media
-      institution: Maryland Institute College of Art & Design, Baltimore MD
+      institution: 'Maryland Institute College of Art & Design, Baltimore MD'
       year: 2014
       description:
-        - Certificate in the College Teaching of Art, 2014
+        - 'Certificate in the College Teaching of Art, 2014'
         - Thesis - Wirelessly Powered Levitating Sculptural Circuitry
-
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Experiential Design & Production and Director of Aesthetic Technologies
-      institution: Pennsylvania College of Art & Design, Lancaster PA
+    - title: >-
+        Professor of Experiential Design & Production and Director of Aesthetic
+        Technologies
+      institution: 'Pennsylvania College of Art & Design, Lancaster PA'
       year: 2015 - 2025
       description:
         - Over 10 years of committed working for the PCA&D
         - title: Associate Professor 2017 - 2025
           contents:
-            - Designed & developed the curriculum and syllabus from the ground up for all courses taught
+            - >-
+              Designed & developed the curriculum and syllabus from the ground
+              up for all courses taught
             - Evolution of Video Game Design & Culture
             - Sensory Design
             - Sound Design & Production I
@@ -46,35 +46,58 @@
             - Digital Fabrication
         - title: Chair of LiveX 2022 - 2025
           contents:
-            - Hybrid role leading newly-formed Live Experience Design & Production department within Pennsylvania College of Art & Design, a small, dually-accredited, not-for-profit independent arts college in Lancaster, PA.
+            - >-
+              Hybrid role leading newly-formed Live Experience Design &
+              Production department within Pennsylvania College of Art & Design,
+              a small, dually-accredited, not-for-profit independent arts
+              college in Lancaster, PA.
         - title: IT Team Lead 2018 - 2022
           contents:
-            - Position as an IT Support Specialist grew to take on additional responsibilities, such as budget and project management, and vendor negotiation. Special projects included hardware design implementation, resource research, and budget proposals for facility spaces and equipment acquisition.
+            - >-
+              Position as an IT Support Specialist grew to take on additional
+              responsibilities, such as budget and project management, and
+              vendor negotiation. Special projects included hardware design
+              implementation, resource research, and budget proposals for
+              facility spaces and equipment acquisition.
         - title: IT Support Specialist 2015 - 2018
           contents:
-            - Provided technical guidance and maintenance for students, faculty, and administration, along with creative lab management and instructional classroom technology.
-
+            - >-
+              Provided technical guidance and maintenance for students, faculty,
+              and administration, along with creative lab management and
+              instructional classroom technology.
     - title: Visiting Professor & Artist
-      institution: JHU & MICA, Baltimore MD
+      institution: 'JHU & MICA, Baltimore MD'
       year: 2016-2018
       description:
-        - Provided technical instruction on sound recording studio equipment and sound capture techniques in conjunction with the opening of the Johns Hopkins University and Maryland Institute College of Art jointly-administered Film Centre.
-        - Hired by MICA as an outside consultant to provide professional guidance and extensive feedback to senior film students on the sound design and audio production quality of their capstone works.
-
+        - >-
+          Provided technical instruction on sound recording studio equipment and
+          sound capture techniques in conjunction with the opening of the Johns
+          Hopkins University and Maryland Institute College of Art
+          jointly-administered Film Centre.
+        - >-
+          Hired by MICA as an outside consultant to provide professional
+          guidance and extensive feedback to senior film students on the sound
+          design and audio production quality of their capstone works.
     - title: Local Support Provider
-      institution: University of Pennsylvania, Philadelphia PA
+      institution: 'University of Pennsylvania, Philadelphia PA'
       year: 2014-2015
       description:
-        - Tier 1 Local Support Provider for faculty, students, and staff of the University of Pennsylvania’s Anthropology and History departments.
-        - Provided prompt and efficient assistance with hardware and software navigation, fixed user interface disputes, and provided on-call A/V classroom support.
-        - Maintained cybersecurity detail for localized HIPAA and personal information, and implemented malware removal procedures.
-
+        - >-
+          Tier 1 Local Support Provider for faculty, students, and staff of the
+          University of Pennsylvania’s Anthropology and History departments.
+        - >-
+          Provided prompt and efficient assistance with hardware and software
+          navigation, fixed user interface disputes, and provided on-call A/V
+          classroom support.
+        - >-
+          Maintained cybersecurity detail for localized HIPAA and personal
+          information, and implemented malware removal procedures.
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2025
       items:
-        - Wellington Doctoral Scholarship ($91,500 over 3 years at VUW)
+        - 'Wellington Doctoral Scholarship ($91,500 over 3 years at VUW)'
     - year: 2024
       items:
         - PCAD Faculty Research & Practice Professional Development Grant
@@ -83,16 +106,15 @@
         - Trustees’ Award for Staff Excellence (Inaugural)
     - year: 2018
       items:
-        - Unity Game Engine grant ($20,000)
+        - 'Unity Game Engine grant ($20,000)'
     - year: 2012 - 2014
       items:
-        - Leadership Award (merit scholarship), MICA
-
+        - 'Leadership Award (merit scholarship), MICA'
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Ludonarrative Design
-      institution: Pennsylvania College of Art & Design, Lancaster PA
+      institution: 'Pennsylvania College of Art & Design, Lancaster PA'
       year: 2015 - 2025
       items:
         - Procedural Generation of Story
@@ -108,10 +130,11 @@
     - title: Creative Technology for Artists
       items:
         - Sensory Design
-        - Touch Designer 
-        - Conceptual Hardware Hacking  
-
+        - Touch Designer
+        - Conceptual Hardware Hacking
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Quirky Song Writing, Music Performance, Board Game Design, DIY Electronics, and Analog & Modular Synthesizers.
+    - >-
+      <u>Hobbies:</u> Quirky Song Writing, Music Performance, Board Game Design,
+      DIY Electronics, and Analog & Modular Synthesizers.

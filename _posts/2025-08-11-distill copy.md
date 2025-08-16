@@ -122,6 +122,8 @@ This allows you to denote <var>variables</var>.
 #### Buttons
 
 Make any link standout more when applying the `.btn` class. `cool.btn`
+[Link button](https://just-the-docs.com){: .btn }
+[Link button](https://just-the-docs.com){: .btn .btn-pink }
 
 
 ---
