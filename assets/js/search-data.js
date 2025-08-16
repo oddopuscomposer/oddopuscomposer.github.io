@@ -37,11 +37,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-super-full-template-academic-blog-post",
+            },{id: "post-full-academic-blog-post-options-template",
         
-          title: "a super full template academic blog post",
+          title: "Full Academic Blog Post Options Template",
         
-        description: "Test Template",
+        description: "A bunch of useful page tidbits",
         section: "Posts",
         handler: () => {
           
