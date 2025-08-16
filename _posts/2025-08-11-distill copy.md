@@ -1,8 +1,8 @@
 ---
 layout: distill
-title: a super full template academic blog post
-description: Test Template
-tags: procedural
+title: Full Academic Blog Post Options Template
+description: A bunch of useful page tidbits
+tags: procedural-generatino gamestudies ludonarrative lgbt inform7
 date: 2025-08-11
 featured: true
 mermaid:
@@ -52,6 +52,9 @@ Delivering a <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pre
 
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
 > —Anais Nin
+
+>  Oh, you can _put_ **Markdown** into a blockquote too.
+
 
 #### Emphasize Tag
 
@@ -460,16 +463,3 @@ raw Markdown line up prettily. You can also use inline Markdown.
 | _Still_  | `renders` | **nicely** |
 | 1        | 2         | 3          |
 
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
-Quote break.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.
-
-Here's a line for us to start with.
-
-This line is separated from the one above by two newlines, so it will be a _separate paragraph_.
-
-This line is also a separate paragraph, but...
-This line is only separated by a single newline, so it's a separate line in the _same paragraph_.
