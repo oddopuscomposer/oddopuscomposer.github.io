@@ -1,8 +1,8 @@
 ---
 layout: distill
 title: a super full template academic blog post
-description: an example of a distill-style blog post and main elements
-tags: procedural-generation roguelike lgbt inform7 game-studies
+description: Test Template
+tags: procedural
 date: 2025-08-11
 featured: true
 mermaid:
@@ -13,7 +13,7 @@ tabs: true
 
 # The only thing needed is for you to set the `citation` key in the front matter to `true` Probably need to move it to the bottom or perhaps a button?
 
-bibliography: 2018-12-22-distill.bib
+# bibliography: 2018-12-22-distill.bib ?
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:
@@ -37,6 +37,7 @@ toc:
 # Below is an example of injecting additional post-specific styles.
 # If you use this post as a template, delete this _styles block.
 ---
+
 ## Basics
 
 Delivering a <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> hyperlink in a sentence.
