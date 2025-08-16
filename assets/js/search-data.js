@@ -41,7 +41,7 @@ ninja.data = [{
         
           title: "a super full template academic blog post",
         
-        description: "an example of a distill-style blog post and main elements",
+        description: "Test Template",
         section: "Posts",
         handler: () => {
           
