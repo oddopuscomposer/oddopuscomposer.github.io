@@ -97,7 +97,7 @@ pagination:
 related_blog_posts:
   enabled: false
   max_related: 3
-  min_common_tags: 2
+  min_common_tags: 3
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
