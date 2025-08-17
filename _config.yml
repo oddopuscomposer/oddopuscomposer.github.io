@@ -11,8 +11,8 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A quirky academic exploration of game studies, wonky ditties, and some tangential experiments.
 footer_text: >
-  I made this website with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> using the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  and hosting with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  I made this website with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> using the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme
+  and host with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: game-studies, procedural-generation, lgbt-representation, inform7, godot, academic-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: RoguelikeIconfavicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Odd Opus Composing # blog_name will be displayed in your blog page
-blog_description: A nerdy space to explore ludonarrative studies in procedural generartion and LGBT representation along with the occasional experiment in quirky music and wonky tangential tech art. 
+blog_description: A nerdy space to ponder ludonarrative studies and my experiments with procedural generartion and LGBT representation along with the occasional ditty of quirky music or wonky tangential tech art. 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -115,19 +115,19 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+# disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+#external_sources:
+#  - name: medium.com
+#    rss_url: https://medium.com/@al-folio/feed
+#  - name: Google Blog
+#    posts:
+#      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -255,7 +255,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+display_tags: ["Ludonarrative", "Procedural-Generation", "Game-Studies", "LGBT", "Inform7", "Godot", Game-Design", "Tutorial"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Leonhart]
+  first_name: [Alexandra, B.]
 
   style: apa
   locale: en

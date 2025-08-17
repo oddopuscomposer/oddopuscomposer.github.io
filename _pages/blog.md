@@ -196,6 +196,7 @@ pagination:
 </div>
 
 ### Blog Totals
+
 * Total site words: {% published_posts_word_count total %} (average {% published_posts_word_count average %} per post)
 * Total site characters: {% published_posts_word_count total_characters %} (average {% published_posts_word_count average_characters %} per post)
 * Longest post: <a href="{% published_posts_word_count longest_post_url %}">{% published_posts_word_count longest_post_title %}</a> ({% published_posts_word_count longest %} words
