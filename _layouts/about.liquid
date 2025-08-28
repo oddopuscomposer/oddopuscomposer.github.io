@@ -25,7 +25,7 @@ layout: default
             {% assign profile_image_class = 'img-fluid z-depth-1
       rounded' %}
           {% endif %}
-          {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 128px)
+          {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
       30vw, 95vw"{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
@@ -38,20 +38,20 @@ layout: default
             var options = {
               strings: [
                 "🕹️ Studing Ludonarrative Design 🧩",
-                "🎵 Quirky Ditty Composer 🎶",
-                "🥦 Vegetarian 🍅",
-                "🏳️‍🌈 LGBT Community 🏳️‍⚧️",
-                "🎲 D&D: Bardic Artificer 🐉",
-                "🎲 World of Darkness: Toreador 🎨",
-                "🎲 Cyberpunk: Netrunner 💻"
+                "🎵 Quirky Ditty Composer 🎶 ^500",
+                "🥦 Vegetarian 🍅 ^500",
+                "🏳️‍🌈 LGBT Community 🏳️‍⚧️ ^500",
+                "🎲 D&D: Bardic Artificer 🐉 ^500",
+                "🎲 World of Darkness: Toreador 🎨 ^500",
+                "🎲 Cyberpunk: Netrunner 💻 ^500"
               ],
               typeSpeed: 30,
-              backSpeed: 20,
+              backSpeed: 0,
               loop: true,
               shuffle: true,
               showCursor: true,
               cursorChar: '|',
-              // fadeOut: true,
+              fadeOut: true,
             };
           
             var typed = new Typed(".typed-info", options);
