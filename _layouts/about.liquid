@@ -40,19 +40,19 @@ layout: default
             var options = {
               strings: [
                 "🕹️ Studying Ludonarrative Design 🧩",
-                "🎵 Quirky Ditty Composer 🎶 ^900",
-                "🥦 Vegetarian 🍅 ^900",
-                "🏳️‍🌈 LGBT Community 🏳️‍⚧️ ^900",
-                "🎲 D&D: Bardic Artificer 🐉 ^900",
-                "🎲 World of Darkness: Toreador 🎨 ^900",
-                "🎲 Cyberpunk: Netrunner 💻 ^900",
-                "🕹️ Wonky Game Maker 👾 ^900"
+                "🎵 Quirky Ditty Composer 🎶 ",
+                "🥦 Vegetarian 🍅",
+                "🏳️‍🌈 LGBT Community 🏳️‍⚧️",
+                "🎲 D&amp;D: Bardic Artificer 🐉",
+                "🎲 World of Darkness: Toreador 🎨",
+                "🎲 Cyberpunk: Netrunner 💻",
+                "🕹️ Wonky Game Maker 👾"
               ],
               typeSpeed: 20,
               backSpeed: 0,
               loop: true,
               shuffle: true,
-              showCursor: false,
+              showCursor: true,
               cursorChar: '|',
               fadeOut: true,
               fadeOutDelay: 500,
@@ -60,13 +60,17 @@ layout: default
           
             var typed = new Typed(".typed-info", options);
           </script>        
-        
         {% endif %}
       </div>
     {% endif %}
-
     <div class="clearfix">{{ content }}</div>
-
+.margin-example2 {
+  width: 200px;
+  background-color: #aaccee;
+  margin: 0 auto;
+  /* we still need this to get the desired behavior */
+  text-align: center;
+}
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
