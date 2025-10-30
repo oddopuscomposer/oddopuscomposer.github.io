@@ -57,20 +57,16 @@ layout: default
               fadeOut: true,
               fadeOutDelay: 500,
             };
-          
+
             var typed = new Typed(".typed-info", options);
+
+            display inline;
           </script>        
         {% endif %}
       </div>
     {% endif %}
     <div class="clearfix">{{ content }}</div>
-.margin-example2 {
-  width: 200px;
-  background-color: #aaccee;
-  margin: 0 auto;
-  /* we still need this to get the desired behavior */
-  text-align: center;
-}
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
