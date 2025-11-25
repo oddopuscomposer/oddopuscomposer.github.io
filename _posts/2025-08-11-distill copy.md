@@ -387,7 +387,7 @@ func _init():
 
 or Inform7
 
-```inform7
+```infosrm7
 Upon game start:
 	say "Hello World"
 ```
