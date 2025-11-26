@@ -1,4 +1,4 @@
-Hello I am Alix, an eruditic artist who explores quirky game development, composes wonky lyrical indie rock, and pontificates on various nerdery via adventuring through possessed hyper-focused research and practical experiments. Come join me as I build nifty games, write queer tunes, craft tutorials, and share the interesting tidbits and ditties I come across.
+Hello, I am Alix, a nerdy artist who explores quirky game development, composes wonky lyrical indie rock, and pontificates on various geekery via adventuring through possessed hyper-focused research and practical experiments. Come join me as I build nifty games, write queer tunes, craft codeful tutorials, and share interesting tidbits and ditties I come across.
 
 Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
