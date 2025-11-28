@@ -53,8 +53,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-new-website-is-live-and-i-m-working-out-some-of-wrinkles-sparkles-smile",
-          title: 'New website is live and I’m working out some of wrinkles! :sparkles: :smile:...',
+            },},{id: "news-new-website-is-live-and-i-m-working-out-some-of-the-wrinkles-sparkles-blush",
+          title: 'New website is live, and I’m working out some of the wrinkles! :sparkles:...',
           description: "",
           section: "News",},{id: "projects-philanthropic-ghost",
           title: 'Philanthropic Ghost',
