@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Hello & Salutations
+subtitle: Kia ora
 
 profile:
   align: right
