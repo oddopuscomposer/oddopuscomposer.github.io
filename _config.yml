@@ -13,7 +13,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   I made this website with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> using the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme
   and host with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: game-studies, procedural-generation, lgbt-representation, inform7, godot, academic-website # add your own keywords or leave empty
+keywords: game-studies, procedural-generation, lgbt, inform7, godot, academic-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: RoguelikeIconfavicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -28,8 +28,8 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: light # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Odd Opus Composing # blog_name will be displayed in your blog page
-blog_description: A nerdy space to ponder ludonarrative studies and my experiments with procedural generartion and LGBT representation along with the occasional ditty of quirky music or wonky tangential tech art. 
+blog_description: A nerdy space to ponder ludonarrative studies and my experiments with procedural generation and LGBT representation along with the occasional ditty of quirky music or wonky tangential tech art. 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -148,7 +148,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
     output: true
 
@@ -266,7 +266,7 @@ scholar:
   last_name: [Leonhart]
   first_name: [Alexandra, B.]
 
-  style: apa
+  style: mla
   locale: en
 
   source: /_bibliography/
