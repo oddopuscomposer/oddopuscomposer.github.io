@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New website is live and I'm working out some of wrinkles! :sparkles: :smile:
+New website is live, and I'm working out some of the wrinkles! :sparkles: :blush:
