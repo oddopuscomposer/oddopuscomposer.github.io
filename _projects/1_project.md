@@ -1,25 +1,41 @@
 ---
 layout: page
-title: project 1
+title: Philanthropic Ghost
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Games
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This is a text parser experiment coded in Inform 7 language. The idea was to explore with a whole procedural generation microcasm - NPC's with names and goals that adjust each play. The rooms will similarly be adjusted in their location and the placement of objects. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The Narrative is simple: You are a benevolent spirit, a special specter who is driven to do as much good as they can within the witching hour on a university campus. Players have 60 turns to complete as many positive tasks as they can.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+#### Development Check List
+
+- [] Game Systems
+    - [] Actions
+        - [] Ghost Actions
+    - [] Goals
+        - [] Points
+        - [] Relative objects and actions
+    - [] Episcomology
+- [x] Narrative
+- [] Procedural World
+  - [x] Weather
+  - [] People Placement
+  - [] Object Placement
+- [ ] Procedural People
+  - [x] Names
+  - [] Expression
+      - [] Body
+      - [] Clothing
+      - [] Personality
+  - [] History and Relations
+  - [] Placement & Movement
+  - [] Goals
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
