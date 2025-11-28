@@ -3,6 +3,7 @@ layout: distill
 title: Full Academic Blog Post Options Template
 description: A bunch of useful page tidbits
 tags: procedural-generation game-studies ludonarrative lgbt inform7
+categories: Game-Design
 date: 2025-08-11
 featured: true
 mermaid:
