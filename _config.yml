@@ -148,7 +148,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: false
+    output: true
   projects:
     output: true
 
@@ -191,6 +191,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _projects/?_project.md
 keep_files:
   - CNAME
   - .nojekyll
