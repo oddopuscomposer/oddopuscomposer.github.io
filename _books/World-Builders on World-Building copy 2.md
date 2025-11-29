@@ -2,7 +2,7 @@
 layout: book-review
 title: World-Builders on World-Building
 author: Mark J.P Wolf
-cover: assets/img/book_covers/the_godfather.jpg
+cover: assets/img/book_covers/WorldBuildersOnWorldBuilding.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9780429242861 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: classics crime historical-fiction mystery novels thriller

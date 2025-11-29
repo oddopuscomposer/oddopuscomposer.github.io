@@ -2,7 +2,7 @@
 layout: book-review
 title: The Three Wise Monkeys of Research&#58; Epistemology, Ontology, Methodology 
 author: Tara Brabazon
-cover: assets/img/book_covers/the_godfather.jpg
+cover: assets/img/book_covers/ThreeWiseMonkeys.jpg
 olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: classics crime historical-fiction mystery novels thriller

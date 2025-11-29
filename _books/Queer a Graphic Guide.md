@@ -2,7 +2,7 @@
 layout: book-review
 title: Queer&#58; A Graphic Guide
 author: Meg-John Barker & Jules Scheele
-cover: assets/img/book_covers/the_godfather.jpg
+cover: assets/img/book_covers/QueerGraphicGuide.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9781785780721 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: classics crime historical-fiction mystery novels thriller

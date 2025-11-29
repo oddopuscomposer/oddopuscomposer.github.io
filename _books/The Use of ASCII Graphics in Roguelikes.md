@@ -2,7 +2,7 @@
 layout: book-review
 title: The Use of ASCII Graphics in Roguelikes&#58; Aesthetic Nostalgia and Semiotic Difference
 author: Mark R. Johnson
-cover: assets/img/book_covers/the_godfather.jpg
+cover: assets/img/book_covers/ASCIISemiotics.jpg
 olid: 1555412015585884 # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: article academic

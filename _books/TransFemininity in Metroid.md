@@ -2,7 +2,7 @@
 layout: book-review
 title: The Big Reveal: Exploring (Trans)Femininity in Metroid
 author: Evelyn Deshane and R. Travis Morton
-cover: assets/img/book_covers/the_godfather.jpg
+cover: assets/img/book_covers/QueernessInPlay.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9783319905426 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: article academic

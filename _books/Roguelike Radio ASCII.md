@@ -1,8 +1,8 @@
 ---
 layout: book-review
-title: Roguelike Radio - Episode 83: ASCII
+title: Roguelike Radio - Episode 83&#58; ASCII
 author: Mark J.P Wolf
-cover: assets/img/book_covers/the_godfather.jpg
+cover: assets/img/book_covers/RoguelikeRadio.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9780429242861 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: podcast
