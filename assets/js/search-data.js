@@ -45,6 +45,11 @@ ninja.data = [{
           title: '50 Years of Text Games&amp;amp;#58; Further Explorations',
           description: "",
           section: "Books",handler: () => {
+              window.location.href = "/books/50%20Years%20of%20Text%20Games%20Further%20Explorations%20copy/";
+            },},{id: "books-50-years-of-text-games-amp-58-from-oregon-trail-to-a-i-dungeon",
+          title: '50 Years of Text Games&amp;amp;#58; From Oregon Trail to A.I. Dungeon',
+          description: "",
+          section: "Books",handler: () => {
               window.location.href = "/books/50%20Years%20of%20Text%20Games%20Further%20Explorations/";
             },},{id: "books-ascii-sprites-and-symbolic-graphics-rogulike-celebration",
           title: 'ASCII, Sprites, and Symbolic Graphics (Rogulike Celebration)',
@@ -111,8 +116,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/The%20Use%20of%20ASCII%20Graphics%20in%20Roguelikes/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-the-big-reveal-amp-58-exploring-trans-femininity-in-metroid",
+          title: 'The Big Reveal&amp;amp;#58; Exploring Trans Femininity in Metroid',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/TransFemininity_in_Metroid/";
