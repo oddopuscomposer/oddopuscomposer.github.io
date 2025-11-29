@@ -61,11 +61,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Circuits_Edge/";
-            },},{id: "books-cyberpl-y-amp-58-communicating-online",
-          title: 'Cyberpl@y&amp;amp;#58; Communicating Online',
+            },},{id: "books-cyberpl-amp-64-y-amp-58-communicating-online",
+          title: 'Cyberpl&amp;amp;#64;y&amp;amp;#58; Communicating Online',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/CyberPl@y/";
+              window.location.href = "/books/Cyberplay/";
             },},{id: "books-designing-trans-characters-for-positivity",
           title: 'Designing Trans Characters for Positivity',
           description: "",
@@ -96,8 +96,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Rainbow%20Arcade/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-roguelike-radio-episode-83-amp-58-ascii",
+          title: 'Roguelike Radio - Episode 83&amp;amp;#58; ASCII',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Roguelike%20Radio%20ASCII/";
