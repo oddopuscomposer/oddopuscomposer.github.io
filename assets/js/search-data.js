@@ -41,11 +41,86 @@ ninja.data = [{
             window.location.href = "/blog/2025/distill-copy/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-50-years-of-text-games-amp-58-further-explorations",
+          title: '50 Years of Text Games&amp;amp;#58; Further Explorations',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/50%20Years%20of%20Text%20Games%20Further%20Explorations/";
+            },},{id: "books-ascii-sprites-and-symbolic-graphics-rogulike-celebration",
+          title: 'ASCII, Sprites, and Symbolic Graphics (Rogulike Celebration)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ASCII_Sprites_Symbolic_Graphics/";
+            },},{id: "books-acade-game-typography",
+          title: 'Acade Game Typography',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Arcade%20Game%20Typography/";
+            },},{id: "books-circuits-edge",
+          title: 'Circuits Edge',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Circuits_Edge/";
+            },},{id: "books-cyberpl-y-amp-58-communicating-online",
+          title: 'Cyberpl@y&amp;amp;#58; Communicating Online',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/CyberPl@y/";
+            },},{id: "books-designing-trans-characters-for-positivity",
+          title: 'Designing Trans Characters for Positivity',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Designing%20Trans%20Characters%20for%20Positivity/";
+            },},{id: "books-the-making-of-dwarf-fortress",
+          title: 'The Making of Dwarf Fortress',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Making_of_Dwarf_Fortress/";
+            },},{id: "books-procedural-generation-in-game-design",
+          title: 'Procedural Generation in Game Design',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Procedural%20Generation%20in%20Game%20Design/";
+            },},{id: "books-procedural-storytelling-in-game-design",
+          title: 'Procedural Storytelling in Game Design',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Procedural%20Storytelling%20in%20Game%20Design/";
+            },},{id: "books-queer-amp-58-a-graphic-guide",
+          title: 'Queer&amp;amp;#58; A Graphic Guide',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Queer%20a%20Graphic%20Guide/";
+            },},{id: "books-rainbow-arcade-over-30-years-of-queer-video-game-history",
+          title: 'Rainbow Arcade over 30 Years of Queer Video Game History',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Rainbow%20Arcade/";
+            },},{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Roguelike%20Radio%20ASCII/";
+            },},{id: "books-the-three-wise-monkeys-of-research-amp-58-epistemology-ontology-methodology",
+          title: 'The Three Wise Monkeys of Research&amp;amp;#58; Epistemology, Ontology, Methodology',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/The%20Three%20Wise%20Monkeys%20of%20Research:%20Epistemology,%20Ontology,%20Methodology%20/";
+            },},{id: "books-the-use-of-ascii-graphics-in-roguelikes-amp-58-aesthetic-nostalgia-and-semiotic-difference",
+          title: 'The Use of ASCII Graphics in Roguelikes&amp;amp;#58; Aesthetic Nostalgia and Semiotic Difference',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/The%20Use%20of%20ASCII%20Graphics%20in%20Roguelikes/";
+            },},{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/TransFemininity%20in%20Metroid/";
+            },},{id: "books-world-builders-on-world-building",
+          title: 'World-Builders on World-Building',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/World-Builders%20on%20World-Building%20copy%202/";
             },},{id: "news-new-website-is-live-and-i-m-working-out-some-of-the-wrinkles-sparkles-blush",
           title: 'New website is live, and I’m working out some of the wrinkles! :sparkles:...',
           description: "",
