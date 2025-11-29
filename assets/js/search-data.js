@@ -80,17 +80,17 @@ ninja.data = [{
           title: 'Procedural Generation in Game Design',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/Procedural%20Generation%20in%20Game%20Design/";
+              window.location.href = "/books/Procedural_Generation_in_Game_Design/";
             },},{id: "books-procedural-storytelling-in-game-design",
           title: 'Procedural Storytelling in Game Design',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/Procedural%20Storytelling%20in%20Game%20Design/";
+              window.location.href = "/books/Procedural_Storytelling_in_Game_Design/";
             },},{id: "books-queer-amp-58-a-graphic-guide",
           title: 'Queer&amp;amp;#58; A Graphic Guide',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/Queer%20a%20Graphic%20Guide/";
+              window.location.href = "/books/Queer_a_Graphic_Guide/";
             },},{id: "books-rainbow-arcade-over-30-years-of-queer-video-game-history",
           title: 'Rainbow Arcade over 30 Years of Queer Video Game History',
           description: "",
@@ -100,7 +100,7 @@ ninja.data = [{
           title: 'Roguelike Radio - Episode 83&amp;amp;#58; ASCII',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/Roguelike%20Radio%20ASCII/";
+              window.location.href = "/books/Roguelike_Radio_ASCII/";
             },},{id: "books-the-three-wise-monkeys-of-research-amp-58-epistemology-ontology-methodology",
           title: 'The Three Wise Monkeys of Research&amp;amp;#58; Epistemology, Ontology, Methodology',
           description: "",
@@ -115,7 +115,7 @@ ninja.data = [{
           title: '',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/TransFemininity%20in%20Metroid/";
+              window.location.href = "/books/TransFemininity_in_Metroid/";
             },},{id: "books-world-builders-on-world-building",
           title: 'World-Builders on World-Building',
           description: "",
