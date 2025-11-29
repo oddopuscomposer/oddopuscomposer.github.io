@@ -13,7 +13,7 @@ finished: 2024-09-07
 released: 2001
 stars: 5
 goodreads_review: 6318556633
-status: Started
+status: reading
 ---
 
 Cyberpl@y
