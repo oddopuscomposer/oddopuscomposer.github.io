@@ -1359,7 +1359,7 @@ figure.cover {
     vertical-align: bottom;
   }
 
-  figcaption.watching {
+  figcaption.abandoned {
     font-family: monospace;
     color: #23212d;
     text-transform: uppercase;
@@ -1367,7 +1367,8 @@ figure.cover {
   }
 
   figcaption.finished,
-  figcaption.watched {
+  figcaption.watched,
+  figcaption.played {
     font-family: monospace;
     color: #23212d;
     text-transform: uppercase;
@@ -1396,14 +1397,16 @@ figure.cover {
   }
 
   figcaption.reading,
-  figcaption.watching {
+  figcaption.watching,
+  figcaption.playing,
+  figcaption.listening {
     font-family: monospace;
     color: #23212d;
     text-transform: uppercase;
     background-color: #f89406;
   }
 
-  figcaption.playing,
+  figcaption.reread,
   figcaption.rewatch {
     font-family: monospace;
     color: #23212d;

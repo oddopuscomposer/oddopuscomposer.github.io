@@ -2,7 +2,7 @@
 layout: book-review
 title: End-to-End Procedural Generation in Caves of Qud (GDC)
 author: Brian Bucklew & Jason Grinblat
-cover: assets/img/book_covers/EndToEndCavesOfQud.png
+cover: assets/img/book_covers/EndToEndCaveOfQud.png
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: conference academic
