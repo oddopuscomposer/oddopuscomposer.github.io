@@ -30,4 +30,4 @@ latest_posts:
 
 I am Alix, a nerdy artist who explores quirky game development, composes wonky lyrical indie rock, and pontificates on various geekery via adventuring through possessed hyper-focused research and practical experiments. Currently, I am incredibly ecstatic to be a PhD in Design candidate at Victoria University of Wellington in New Zealand.
 
-Come join me and stay awhile as I post about my exciting expeditions and misadventures of building nifty games, writing queer tunes, crafting codeful tutorials, and share interesting tidbits and ditties I come across during my erudite excursions.
+Come join me and stay awhile as I post about my exciting expeditions and misadventures of building nifty games, writing queer tunes, crafting codeful tutorials, and share various interesting tidbits and ditties I come across during my erudite excursions.
