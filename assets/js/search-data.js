@@ -146,6 +146,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Roguelike_Radio_ASCII/";
+            },},{id: "books-roguelike-radio-episode-163-amp-58-interview-with-tanya-x-short",
+          title: 'Roguelike Radio - Episode 163&amp;amp;#58; Interview with Tanya X. Short',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Roguelike_Radio_Interview_TanyaX/";
+            },},{id: "books-roguelike-radio-episode-155-amp-58-magic-systems",
+          title: 'Roguelike Radio - Episode 155&amp;amp;#58; Magic Systems',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Roguelike_Radio_Magic/";
             },},{id: "books-shifting-genres-amp-58-limits-of-video-game-genre-taxonomy-in-roguelikes",
           title: 'Shifting Genres&amp;amp;#58; Limits of Video Game Genre Taxonomy in Roguelikes',
           description: "",
