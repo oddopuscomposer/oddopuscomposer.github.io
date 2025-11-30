@@ -2,9 +2,9 @@
 layout: book-review
 title: Cyberpl&#64;y&#58; Communicating Online
 author: Brenda Danet 
-cover: assets/img/book_covers/Cyberpl@y.jpg
-olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
-isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+cover: assets/img/book_covers/Cyberplay.jpg
+olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
+isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: classics crime historical-fiction mystery novels thriller
 tags: top-100
 buy_link: https://www.amazon.com/Godfather-Deluxe-Mario-Puzo/dp/0593542592

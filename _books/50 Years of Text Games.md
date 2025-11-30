@@ -2,7 +2,7 @@
 layout: book-review
 title: 50 Years of Text Games&#58; From Oregon Trail to A.I. Dungeon
 author: Aaron A. Reed
-cover: assets/img/book_covers/50YearsOfTextGames.jpg
+cover: assets/img/book_covers/50YearsTextGames.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: classics crime historical-fiction mystery novels thriller
