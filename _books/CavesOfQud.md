@@ -2,7 +2,7 @@
 layout: book-review
 title: Caves Of Qud
 author: Developed by Westwood Associates and released by Infocom
-cover: assets/img/book_covers/CavesOfQud.png
+cover: assets/img/book_covers/CavesOfQud.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: game video-game

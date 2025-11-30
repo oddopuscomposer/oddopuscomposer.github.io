@@ -2,7 +2,7 @@
 layout: book-review
 title: Roguelike Radio - Episode 163&#58; Interview with Tanya X. Short
 author: Mark J.P Wolf
-cover: assets/img/book_covers/RoguelikeRadio.png
+cover: assets/img/book_covers/RoguelikeRadioTanyaX.png
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9780429242861 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: podcast
