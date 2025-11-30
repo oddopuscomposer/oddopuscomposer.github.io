@@ -1,19 +1,19 @@
 ---
 layout: book-review
-title: Circuits Edge
-author: Developed by Westwood Associates and released by Infocom
-cover: assets/img/book_covers/CircuitsEdge.png
-olid: # use Open Library ID to fetch cover (if no `cover` is provided)
-isbn: 9780429242861 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: game video-game
-tags: adventure-game
+title: Shifting Genres&#58; Limits of Video Game Genre Taxonomy in Roguelikes
+author: Evelyn Deshane and R. Travis Morton
+cover: assets/img/book_covers/ShiftingGenresTax.png
+olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
+isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+categories: article academic
+tags: roguelike game-studies
 buy_link: https://www.amazon.com/Godfather-Deluxe-Mario-Puzo/dp/0593542592
 started: 2024-08-23
 finished: 2024-09-07
-released: 1990
-stars: 5
+released: 2018
+stars: 0
 goodreads_review: 6318556633
-status: playing
+status: queued
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin eros sit amet ante aliquet, sit amet vulputate lectus mattis. Aenean ullamcorper pretium nunc, sed egestas lorem elementum id. Nulla id mi id neque ultrices egestas ut in urna. Sed ac ultricies nunc. Nam convallis placerat urna id egestas. Nulla porta, est interdum vestibulum venenatis, lorem odio laoreet sapien, in pulvinar tellus eros a dolor. Vivamus sapien justo, ullamcorper a mi eget, scelerisque euismod nunc. In augue augue, ultrices a ornare non, tincidunt quis justo. Donec sit amet consectetur eros. Nullam neque leo, tincidunt id ipsum ac, volutpat lobortis mi. Phasellus consequat ultricies arcu, eu semper ligula ultrices eget. Ut in fringilla elit, ac tincidunt nisi.
