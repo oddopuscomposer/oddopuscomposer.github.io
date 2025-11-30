@@ -50,7 +50,7 @@ ninja.data = [{
           title: '50 Years of Text Games&amp;amp;#58; From Oregon Trail to A.I. Dungeon',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/50%20Years%20of%20Text%20Games%20Further%20Explorations/";
+              window.location.href = "/books/50%20Years%20of%20Text%20Games/";
             },},{id: "books-ascii-sprites-and-symbolic-graphics-rogulike-celebration",
           title: 'ASCII, Sprites, and Symbolic Graphics (Rogulike Celebration)',
           description: "",
