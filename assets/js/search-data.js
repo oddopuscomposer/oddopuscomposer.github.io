@@ -86,21 +86,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/CitizenSleeper2/";
-            },},{id: "books-from-ascii-art-to-comic-sans",
-          title: 'From ASCII Art to Comic Sans',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/Cyberplay%20copy/";
             },},{id: "books-cyberpl-amp-64-y-amp-58-communicating-online",
           title: 'Cyberpl&amp;amp;#64;y&amp;amp;#58; Communicating Online',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Cyberplay/";
-            },},{id: "books-designing-trans-characters-for-positivity",
-          title: 'Designing Trans Characters for Positivity',
+            },},{id: "books-end-to-end-procedural-generation-in-caves-of-qud-gdc",
+          title: 'End-to-End Procedural Generation in Caves of Qud (GDC)',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/Designing%20Trans%20Characters%20for%20Positivity/";
+              window.location.href = "/books/EndToEndProceduralInCavesOfQud/";
+            },},{id: "books-from-ascii-art-to-comic-sans",
+          title: 'From ASCII Art to Comic Sans',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/FromASCIIArtToComicSans/";
             },},{id: "books-hades-ii",
           title: 'Hades II',
           description: "",
