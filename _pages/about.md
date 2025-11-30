@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Kia ora
+subtitle: Kia ora & salutations
 
 profile:
   align: right
@@ -28,5 +28,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Salutations, I am Alix, a nerdy artist who explores quirky game development, composes wonky lyrical indie rock, and pontificates on various geekery via adventuring through possessed hyper-focused research and practical experiments.
-Come join me as I build nifty games, write queer tunes, craft codeful tutorials, and share interesting tidbits and ditties I come across.
+I am Alix, a nerdy artist who explores quirky game development, composes wonky lyrical indie rock, and pontificates on various geekery via adventuring through possessed hyper-focused research and practical experiments. Currently, I am incredibly ecstatic to be a PhD in Design candidate at Victoria University of Wellington in New Zealand.
+Come join me and stay awhile as post on my expeditions and misadventure of building nifty games, writing queer tunes, crafting codeful tutorials, and share interesting tidbits and ditties I come across during my erudite excursions.

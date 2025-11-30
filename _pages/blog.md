@@ -46,7 +46,7 @@ pagination:
       {% endif %}
       {% for category in site.display_categories %}
         <li>
-          <i class="fa-solid fa-icons"></i> <a href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}">{{ category }}</a>
+          <i class="fa-solid fa-icons fa-sm"></i> <a href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}">{{ category }}</a>
         </li>
         {% unless forloop.last %}
           <p>&bull;</p>
@@ -195,7 +195,7 @@ pagination:
 
 </div>
 
-<b>Blog Total Stats</b>
+<b>Blog Stats</b>
 <br>
 Total site words: {% published_posts_word_count total %} (average {% published_posts_word_count average %} per post) <br>
 Total site characters: {% published_posts_word_count total_characters %} (average {% published_posts_word_count average_characters %} per post) <br>
