@@ -61,11 +61,36 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Arcade%20Game%20Typography/";
-            },},{id: "books-circuits-edge",
-          title: 'Circuits Edge',
+            },},{id: "books-baulder-39-s-gate-3",
+          title: 'Baulder&amp;#39;s Gate 3',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/Circuits_Edge/";
+              window.location.href = "/books/BaulderGate3/";
+            },},{id: "books-boyfriend-dungeon",
+          title: 'Boyfriend Dungeon',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/BoyfriendDungeon/";
+            },},{id: "books-caves-of-qud",
+          title: 'Caves Of Qud',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/CavesOfQud/";
+            },},{id: "books-citizen-sleeper",
+          title: 'Citizen Sleeper',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/CitizenSleeper1/";
+            },},{id: "books-citizen-sleeper-2",
+          title: 'Citizen Sleeper 2',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/CitizenSleeper2/";
+            },},{id: "books-from-ascii-art-to-comic-sans",
+          title: 'From ASCII Art to Comic Sans',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Cyberplay%20copy/";
             },},{id: "books-cyberpl-amp-64-y-amp-58-communicating-online",
           title: 'Cyberpl&amp;amp;#64;y&amp;amp;#58; Communicating Online',
           description: "",
@@ -76,6 +101,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Designing%20Trans%20Characters%20for%20Positivity/";
+            },},{id: "books-hades-ii",
+          title: 'Hades II',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/HadesII/";
+            },},{id: "books-haven",
+          title: 'Haven',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Haven/";
+            },},{id: "books-inkenfell",
+          title: 'Inkenfell',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Inkenfell/";
             },},{id: "books-the-making-of-dwarf-fortress",
           title: 'The Making of Dwarf Fortress',
           description: "",
@@ -106,6 +146,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Roguelike_Radio_ASCII/";
+            },},{id: "books-shifting-genres-amp-58-limits-of-video-game-genre-taxonomy-in-roguelikes",
+          title: 'Shifting Genres&amp;amp;#58; Limits of Video Game Genre Taxonomy in Roguelikes',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Shifting_Genres_TaxonomyRoguelikes/";
+            },},{id: "books-slay-the-princess",
+          title: 'Slay The Princess',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/SlayThePrincess/";
             },},{id: "books-the-three-wise-monkeys-of-research-amp-58-epistemology-ontology-methodology",
           title: 'The Three Wise Monkeys of Research&amp;amp;#58; Epistemology, Ontology, Methodology',
           description: "",
@@ -125,7 +175,7 @@ ninja.data = [{
           title: 'World-Builders on World-Building',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/World-Builders%20on%20World-Building%20copy%202/";
+              window.location.href = "/books/World-Builders_on_World-Building/";
             },},{id: "news-new-website-is-live-and-i-m-working-out-some-of-the-wrinkles-sparkles-blush",
           title: 'New website is live, and I’m working out some of the wrinkles! :sparkles:...',
           description: "",
