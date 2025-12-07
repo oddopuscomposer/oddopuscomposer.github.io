@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://oddopuscomposer.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://oddopuscomposer.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-11-30T05:15:28+00:00</updated><id>https://oddopuscomposer.github.io/feed.xml</id><title type="html">blank</title><subtitle>A quirky academic exploration of game studies, wonky ditties, and some tangential experiments. </subtitle><entry><title type="html">Full Academic Blog Post Options Template</title><link href="https://oddopuscomposer.github.io/blog/2025/distill-copy/" rel="alternate" type="text/html" title="Full Academic Blog Post Options Template"/><published>2025-08-11T00:00:00+00:00</published><updated>2025-08-11T00:00:00+00:00</updated><id>https://oddopuscomposer.github.io/blog/2025/distill%20copy</id><content type="html" xml:base="https://oddopuscomposer.github.io/blog/2025/distill-copy/"><![CDATA[<h2 id="basics">Basics</h2> <p>Delivering a <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> hyperlink in a sentence.</p> <h4 id="check-list">Check List</h4> <ul class="task-list"> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/>Brush Teeth</li> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled"/>Put on socks <ul class="task-list"> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/>Put on left sock</li> </ul> </li> </ul> <h4 id="quote">Quote</h4> <blockquote> <p>We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another. —Anais Nin</p> </blockquote> <blockquote> <p>Oh, you can <em>put</em> <strong>Markdown</strong> into a blockquote too.</p> </blockquote> <h4 id="emphasize-tag">Emphasize Tag</h4> <p>The emphasize tag should <em>italicize</em> text.</p> <h4 id="insert-tag">Insert Tag</h4> <p>This tag should denote <ins>inserted</ins> text.</p> <h4 id="keyboard-tag">Keyboard Tag</h4> <p>This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the <code class="language-plaintext highlighter-rouge">&lt;code&gt;</code> tag.</p> <h4 id="address-tag">Address Tag</h4> <address> 1 Infinite Loop<br/> Cupertino, CA 95014<br/> United States </address> <h4 id="anchor-tag-aka-link">Anchor Tag (aka. Link)</h4> <p>This is an example of a <a href="http://github.com" title="GitHub">link</a>.</p> <h4 id="abbreviation-tag">Abbreviation Tag</h4> <p>The abbreviation <abbr title="Cascading Style Sheets">CSS</abbr> stands for “Cascading Style Sheets”.</p> <h3 id="preformatted-tag">Preformatted Tag</h3> <p>This tag styles large blocks of code.</p> <pre>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://oddopuscomposer.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://oddopuscomposer.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-12-07T04:27:55+00:00</updated><id>https://oddopuscomposer.github.io/feed.xml</id><title type="html">blank</title><subtitle>A quirky academic exploration of game studies, wonky ditties, and some tangential experiments. </subtitle><entry><title type="html">Full Academic Blog Post Options Template</title><link href="https://oddopuscomposer.github.io/blog/2025/distill-copy/" rel="alternate" type="text/html" title="Full Academic Blog Post Options Template"/><published>2025-08-11T00:00:00+00:00</published><updated>2025-08-11T00:00:00+00:00</updated><id>https://oddopuscomposer.github.io/blog/2025/distill%20copy</id><content type="html" xml:base="https://oddopuscomposer.github.io/blog/2025/distill-copy/"><![CDATA[<h2 id="basics">Basics</h2> <p>Delivering a <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> hyperlink in a sentence.</p> <h4 id="check-list">Check List</h4> <ul class="task-list"> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/>Brush Teeth</li> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled"/>Put on socks <ul class="task-list"> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/>Put on left sock</li> </ul> </li> </ul> <h4 id="quote">Quote</h4> <blockquote> <p>We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another. —Anais Nin</p> </blockquote> <blockquote> <p>Oh, you can <em>put</em> <strong>Markdown</strong> into a blockquote too.</p> </blockquote> <h4 id="emphasize-tag">Emphasize Tag</h4> <p>The emphasize tag should <em>italicize</em> text.</p> <h4 id="insert-tag">Insert Tag</h4> <p>This tag should denote <ins>inserted</ins> text.</p> <h4 id="keyboard-tag">Keyboard Tag</h4> <p>This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the <code class="language-plaintext highlighter-rouge">&lt;code&gt;</code> tag.</p> <h4 id="address-tag">Address Tag</h4> <address> 1 Infinite Loop<br/> Cupertino, CA 95014<br/> United States </address> <h4 id="anchor-tag-aka-link">Anchor Tag (aka. Link)</h4> <p>This is an example of a <a href="http://github.com" title="GitHub">link</a>.</p> <h4 id="abbreviation-tag">Abbreviation Tag</h4> <p>The abbreviation <abbr title="Cascading Style Sheets">CSS</abbr> stands for “Cascading Style Sheets”.</p> <h3 id="preformatted-tag">Preformatted Tag</h3> <p>This tag styles large blocks of code.</p> <pre>
 .post-title {
   margin: 0 0 5px;
   font-weight: bold;
@@ -68,15 +68,227 @@ direction LR
 	say "Hello World"
 </code></pre> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>No language indicated, so no syntax highlighting.
 But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
-</code></pre></div></div> <h1 id="lets-do-tabs-with-this-to-be-extra-cool">Lets do Tabs with this to be extra cool!</h1> <ul id="hello" class="tab" data-tab="3d9699c1-c7ed-46c0-b2e2-fe923457b0a5" data-name="hello"> <li class="active" id="hello-inform7"> <a href="#">Inform7 </a> </li> <li id="hello-gdscript"> <a href="#">GDscript </a> </li> <li id="hello-python"> <a href="#">Python </a> </li> </ul> <ul class="tab-content" id="3d9699c1-c7ed-46c0-b2e2-fe923457b0a5" data-name="hello"> <li class="active"> <pre><code class="language-inform7">Upon game start:
+</code></pre></div></div> <h1 id="lets-do-tabs-with-this-to-be-extra-cool">Lets do Tabs with this to be extra cool!</h1> <ul id="hello" class="tab" data-tab="5ce636a2-318e-4a3d-b8a3-75f3e8006d06" data-name="hello"> <li class="active" id="hello-inform7"> <a href="#">Inform7 </a> </li> <li id="hello-gdscript"> <a href="#">GDscript </a> </li> <li id="hello-python"> <a href="#">Python </a> </li> </ul> <ul class="tab-content" id="5ce636a2-318e-4a3d-b8a3-75f3e8006d06" data-name="hello"> <li class="active"> <pre><code class="language-inform7">Upon game start:
 	say "Hello World"
 </code></pre> </li> <li> <div class="language-gdscript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">func</span> <span class="nf">_init</span><span class="p">():</span>
 	<span class="nb">print</span><span class="p">(</span><span class="s2">"Hello, world!"</span><span class="p">)</span>
 </code></pre></div></div> </li> <li> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nf">print</span><span class="p">(</span><span class="sh">'</span><span class="s">Hello World!</span><span class="sh">'</span><span class="p">)</span>
-</code></pre></div></div> </li> </ul> <h2 id="another-example">Another example</h2> <ul id="data-struct" class="tab" data-tab="aaaba8b5-0b6c-448d-a503-1c53e4c7fe73" data-name="data-struct"> <li class="active" id="data-struct-yaml"> <a href="#">yaml </a> </li> <li id="data-struct-json"> <a href="#">json </a> </li> </ul> <ul class="tab-content" id="aaaba8b5-0b6c-448d-a503-1c53e4c7fe73" data-name="data-struct"> <li class="active"> <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
+</code></pre></div></div> </li> </ul> <h2 id="another-example">Another example</h2> <ul id="data-struct" class="tab" data-tab="59691a8e-ace7-4610-83ad-0ab2e1de1217" data-name="data-struct"> <li class="active" id="data-struct-yaml"> <a href="#">yaml </a> </li> <li id="data-struct-json"> <a href="#">json </a> </li> </ul> <ul class="tab-content" id="59691a8e-ace7-4610-83ad-0ab2e1de1217" data-name="data-struct"> <li class="active"> <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
   <span class="pi">-</span> <span class="s2">"</span><span class="s">whatsup"</span>
   <span class="pi">-</span> <span class="s2">"</span><span class="s">hi"</span>
 </code></pre></div></div> </li> <li> <div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
   </span><span class="nl">"hello"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"whatsup"</span><span class="p">,</span><span class="w"> </span><span class="s2">"hi"</span><span class="p">]</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre></div></div> </li> </ul> <p>Colons can be used to align columns.</p> <table> <thead> <tr> <th>Tables</th> <th style="text-align: center">Are</th> <th style="text-align: right">Cool</th> </tr> </thead> <tbody> <tr> <td>col 3 is</td> <td style="text-align: center">right-aligned</td> <td style="text-align: right">$1600</td> </tr> <tr> <td>col 2 is</td> <td style="text-align: center">centered</td> <td style="text-align: right">$12</td> </tr> <tr> <td>zebra stripes</td> <td style="text-align: center">are neat</td> <td style="text-align: right">$1</td> </tr> </tbody> </table> <p>There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don’t need to make the raw Markdown line up prettily. You can also use inline Markdown.</p> <table> <thead> <tr> <th>Markdown</th> <th>Less</th> <th>Pretty</th> </tr> </thead> <tbody> <tr> <td><em>Still</em></td> <td><code class="language-plaintext highlighter-rouge">renders</code></td> <td><strong>nicely</strong></td> </tr> <tr> <td>1</td> <td>2</td> <td>3</td> </tr> </tbody> </table>]]></content><author><name></name></author><category term="Game-Design"/><category term="procedural-generation"/><category term="game-studies"/><category term="ludonarrative"/><category term="lgbt"/><category term="inform7"/><summary type="html"><![CDATA[A bunch of useful page tidbits]]></summary></entry></feed>
+</span></code></pre></div></div> </li> </ul> <p>Colons can be used to align columns.</p> <table> <thead> <tr> <th>Tables</th> <th style="text-align: center">Are</th> <th style="text-align: right">Cool</th> </tr> </thead> <tbody> <tr> <td>col 3 is</td> <td style="text-align: center">right-aligned</td> <td style="text-align: right">$1600</td> </tr> <tr> <td>col 2 is</td> <td style="text-align: center">centered</td> <td style="text-align: right">$12</td> </tr> <tr> <td>zebra stripes</td> <td style="text-align: center">are neat</td> <td style="text-align: right">$1</td> </tr> </tbody> </table> <p>There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don’t need to make the raw Markdown line up prettily. You can also use inline Markdown.</p> <table> <thead> <tr> <th>Markdown</th> <th>Less</th> <th>Pretty</th> </tr> </thead> <tbody> <tr> <td><em>Still</em></td> <td><code class="language-plaintext highlighter-rouge">renders</code></td> <td><strong>nicely</strong></td> </tr> <tr> <td>1</td> <td>2</td> <td>3</td> </tr> </tbody> </table>]]></content><author><name></name></author><category term="Game-Design"/><category term="procedural-generation"/><category term="game-studies"/><category term="ludonarrative"/><category term="lgbt"/><category term="inform7"/><summary type="html"><![CDATA[A bunch of useful page tidbits]]></summary></entry><entry><title type="html">a post with typograms</title><link href="https://oddopuscomposer.github.io/blog/2024/typograms/" rel="alternate" type="text/html" title="a post with typograms"/><published>2024-04-29T23:36:10+00:00</published><updated>2024-04-29T23:36:10+00:00</updated><id>https://oddopuscomposer.github.io/blog/2024/typograms</id><content type="html" xml:base="https://oddopuscomposer.github.io/blog/2024/typograms/"><![CDATA[<p>This is an example post with some <a href="https://github.com/google/typograms/">typograms</a> code.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">typograms
+</span><span class="sb">+----+
+|    |---&gt; My first diagram!
++----+</span>
+<span class="p">```</span>
+</code></pre></div></div> <p>Which generates:</p> <pre><code class="language-typograms">+----+
+|    |---&gt; My first diagram!
++----+
+</code></pre> <p>Another example:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">typograms
+</span><span class="sb">.------------------------.
+|.----------------------.|
+||"https://example.com" ||
+|'----------------------'|
+| ______________________ |
+||                      ||
+||   Welcome!           ||
+||                      ||
+||                      ||
+||  .----------------.  ||
+||  | username       |  ||
+||  '----------------'  ||
+||  .----------------.  ||
+||  |"*******"       |  ||
+||  '----------------'  ||
+||                      ||
+||  .----------------.  ||
+||  |   "Sign-up"    |  ||
+||  '----------------'  ||
+||                      ||
+|+----------------------+|
+.------------------------.</span>
+<span class="p">```</span>
+</code></pre></div></div> <p>which generates:</p> <pre><code class="language-typograms">.------------------------.
+|.----------------------.|
+||"https://example.com" ||
+|'----------------------'|
+| ______________________ |
+||                      ||
+||   Welcome!           ||
+||                      ||
+||                      ||
+||  .----------------.  ||
+||  | username       |  ||
+||  '----------------'  ||
+||  .----------------.  ||
+||  |"*******"       |  ||
+||  '----------------'  ||
+||                      ||
+||  .----------------.  ||
+||  |   "Sign-up"    |  ||
+||  '----------------'  ||
+||                      ||
+|+----------------------+|
+.------------------------.
+</code></pre> <pre><code class="language-typograms">
+    /\        .-.      +-----+
+   /  \      |   |    /       \
+  /    \      '-'    /         \
+ +------+           +-----------+
+
++--+--+    +-&gt;    &lt;-+    o--&gt;    &lt;--o
+   |         |      |     |        |
+   v         v      v     v        v
+
++-----+    .-----.    /-----\    +~~~~~+
+|     |    |     |    |     |    :     :
++-----+    '-----'    \-----/    +~~~~~+
+
+  Sender                Mail Server              Receiver
+                             _____
+  .---------.    SMTP       |=====|      POP      .---------.
+  |         |--------------&gt;|     |&lt;--------------|         |
+  |  Alice  |               |     |               |   Bob   |
+  +---------+               |  o  |               +---------+
+ /// _____ \\\              |_____|              /// _____ \\\
+'-------------'                                 '-------------'
+                    +---------------------+
+                    |"To: bob@bar.com"    |
+                    |"From: alice@foo.com"|
+                    |"Body: Hi!"          |
+                    +---------------------+
+
+.-------.                   +
+  | START |                  / \       
+  '---+---'                 /   \      +-+---------+-+    ___________
+      |        .-----.     /     \     | | COMPLEX | |   /           \
+      v        | END |&lt;---+CHOICE +---&gt;| |         | |-&gt;+ PREPARATION +-&gt; X
+   +-------+   '-----'     \     /     | | PROCESS | |   \___________/
+  / INPUT /                 \   /      +-+---------+-+ 
+ +-------+                   \ /
+      |                       +
+      v                       ^
+ +---------+             +----+----+
+ | PROCESS |------------&gt;| PROCESS |&lt;----- x
+ +---------+             +---------+
+
+
+                                      .--&gt;  Alpha
+                                           /
+                                          .----&gt;  Initial Release
+          Planning *-------.             /         \
+                            \           /           '---&gt; Patch 1
+      Initial research       \         /             \
+                *             \       /               '--&gt;  Patch 2
+                 \             \     /---------&gt; Beta
+                  \             \   /
+                   \             o o                     _______
+                    \          .---. *-----.            /       \
+                     '------&gt;  |   |       '------o-&gt;  . Release .
+                               `---' o                  \_______/
+                               o  o o \
+                              /    \ \ \
+                          .--'      \ \ \
+                         /           \ \ '----+-&gt;  Push backs
+                        /             \ \      \
+                       /|              \ \      '----&gt; Setbacks
+                      / |               \ \
+                     V /|                \ '-----&gt; Reception
+                Team  / |                 \
+                     v /|                  \
+             Worklaod / .                   '--&gt;&gt; Career change
+                     V /
+                 PTO  /
+                     V
+                 Bug
+      "+10-15V"          ___0,047R
+      *---------o-----o-|___|-o--o---------o----o-------.
+   "+"|         |     |       |  |         |    |       |
+    -===-      _|_    |       | .+.        |    |       |
+    -===-      .-.    |       | | | 2k2    |    |       |
+    -===-    470|"+"  |       | | |        |    |      _|_
+   "-"|       uF|     '--.    | '+'       .+.   |      \ / LED
+      +---------o        |6   |7 |8    1k | |   |      -+-
+             ___|___   .-+----+--+--.     | |   |       |
+              -═══-    |            |     '+'   |       |
+                -      |            |1     |  |/  BC    |
+               GND     |            +------o--+   547   |
+                       |            |      |  |`&gt;       |
+                       |            |     .+.   |       |
+               .-------+            | 220R| |   o----||-+  IRF9Z34
+               |       |            |     | |   |    |+-&gt;
+               |       |  MC34063   |     `+'   |    ||-+
+               |       |            |      |    |       |  BYV29     -12V6
+               |       |            |      '----'       o--|&lt;-o----o--X OUT
+ 6000 micro "-"|"+"    |            |2                  |     |    |
+ Farad, 40V ___|_____  |            |--o                C|    |    |
+ Capacitor  ~ ~ ~ ~ ~  |            | GND         30uH  C|    |   --- 470
+               |       |            |3      1nF         C|    |   ###  uF
+               |       |            |-------||--.       |     |    | +
+               |       '-----+----+-'           |      GND    |   GND
+               |            5|   4|             |             |
+               |             |    '-------------o-------------o
+               |             |                           ___  |
+               `-------------*------/\/\/------------o--|___|-'
+                                     2k              |       1k0
+                                                    .+.
+                                                    | | 5k6 + 3k3
+                                                    | | in Serie
+                                                    '+'
+                                                     |
+                                                    GND
+
+         +----+     o    |          o       *      *   .----------.
+  *-+---. '-* -+-    |    v         ^         \    /    |.--------.|
+    |   '---&gt;   +----+  -&gt;*&lt;-      /   .-+-&gt;*&lt;-o--+     |'------&gt; ||
+  &lt;-'       *---+     |&lt;-----&gt;|   +----' |  ^   \       '---------'|
+                                         |__|    v      *----------'
+
+                                   .---&gt;  F
+          A       B      C  D     /
+          *-------*-----*---*----*-----&gt;  E
+                   \            ^ \
+                    \          /   '---&gt;  G
+                     B --&gt; C -+
+                                         
+ o-o *-o   /  /  * o  o o o o  * * * *  o o o o  * * * *     o o o o  * * * * 
+ o-* *-*  v  v   ^ ^  | | | |  | | | |   \ \ \ \  \ \ \ \   / / / /  / / / /
+ o-&gt; *-&gt; *  o    | |  o * v    o * v      o * v    o * v   o * v    o * v  
+ o-  *-              
+
+ ^ ^  * o  |  |                           ^ ^ ^ ^             ^ ^ ^
+ | |  ^ ^  v  v   *  o   ^ ^ ^ ^  | | | |  \ \ \ \  \ \ \ \  / / /  / / / /
+ * o       *  o   ^  ^  o * v     o * v     o * v    o * v  o * v  o * v 
+  
+ &lt;-o &lt;-* &lt;-&gt; &lt;-                   -o -* -&gt; -- *&lt;- o&lt;- -&gt;o -&gt;*
+
+    \ | /
+ \   vvv   /           \ | /
+  v+-----+v             vvv
+ -&gt;|     |&lt;-           -&gt;*&lt;-
+  ^+-----+^             ^^^
+ /   ^^^   \           / | \
+    / | \
+  
+
+ A   1    2   4                 8
+ *--&gt;o&lt;--&gt;o&lt;--o---------.       o
+          ^   ^         |       ^
+          |   |         v       |
+          o&lt;-&gt;*&lt;--&gt;o---&gt;*--&gt;o--&gt;o&lt;--&gt;*
+          3   B    5    C   6   7    D
+
+     0       3                         P *              Eye /         ^     /
+     *-------*      +y                    \                +)          \   /  Reflection
+  1 /|    2 /|       ^                     \                \           \ v
+   *-+-----* |       |                v0    \       v3           --------*--------
+   | |4    | |7      | ◄╮               *----\-----*
+   | *-----|-*     ⤹ +-----&gt; +x        /      v X   \                o
+   |/      |/       / ⤴               /        o     \              / \
+   *-------*       v                 /                \            /   \
+  5       6      +z              v1 *------------------* v2       o-----o
+
+</code></pre> <p>For more examples, check out the <a href="https://google.github.io/typograms/#examples">typograms documentation</a>.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="diagrams"/><summary type="html"><![CDATA[this is what included typograms code could look like]]></summary></entry></feed>
