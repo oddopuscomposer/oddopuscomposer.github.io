@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://oddopuscomposer.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://oddopuscomposer.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-12-07T04:27:55+00:00</updated><id>https://oddopuscomposer.github.io/feed.xml</id><title type="html">blank</title><subtitle>A quirky academic exploration of game studies, wonky ditties, and some tangential experiments. </subtitle><entry><title type="html">Full Academic Blog Post Options Template</title><link href="https://oddopuscomposer.github.io/blog/2025/distill-copy/" rel="alternate" type="text/html" title="Full Academic Blog Post Options Template"/><published>2025-08-11T00:00:00+00:00</published><updated>2025-08-11T00:00:00+00:00</updated><id>https://oddopuscomposer.github.io/blog/2025/distill%20copy</id><content type="html" xml:base="https://oddopuscomposer.github.io/blog/2025/distill-copy/"><![CDATA[<h2 id="basics">Basics</h2> <p>Delivering a <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> hyperlink in a sentence.</p> <h4 id="check-list">Check List</h4> <ul class="task-list"> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/>Brush Teeth</li> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled"/>Put on socks <ul class="task-list"> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/>Put on left sock</li> </ul> </li> </ul> <h4 id="quote">Quote</h4> <blockquote> <p>We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another. —Anais Nin</p> </blockquote> <blockquote> <p>Oh, you can <em>put</em> <strong>Markdown</strong> into a blockquote too.</p> </blockquote> <h4 id="emphasize-tag">Emphasize Tag</h4> <p>The emphasize tag should <em>italicize</em> text.</p> <h4 id="insert-tag">Insert Tag</h4> <p>This tag should denote <ins>inserted</ins> text.</p> <h4 id="keyboard-tag">Keyboard Tag</h4> <p>This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the <code class="language-plaintext highlighter-rouge">&lt;code&gt;</code> tag.</p> <h4 id="address-tag">Address Tag</h4> <address> 1 Infinite Loop<br/> Cupertino, CA 95014<br/> United States </address> <h4 id="anchor-tag-aka-link">Anchor Tag (aka. Link)</h4> <p>This is an example of a <a href="http://github.com" title="GitHub">link</a>.</p> <h4 id="abbreviation-tag">Abbreviation Tag</h4> <p>The abbreviation <abbr title="Cascading Style Sheets">CSS</abbr> stands for “Cascading Style Sheets”.</p> <h3 id="preformatted-tag">Preformatted Tag</h3> <p>This tag styles large blocks of code.</p> <pre>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://oddopuscomposer.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://oddopuscomposer.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-12-28T00:58:25+00:00</updated><id>https://oddopuscomposer.github.io/feed.xml</id><title type="html">blank</title><subtitle>A quirky academic exploration of game studies, wonky ditties, and some tangential experiments. </subtitle><entry><title type="html">Full Academic Blog Post Options Template</title><link href="https://oddopuscomposer.github.io/blog/2025/distill-copy/" rel="alternate" type="text/html" title="Full Academic Blog Post Options Template"/><published>2025-08-11T00:00:00+00:00</published><updated>2025-08-11T00:00:00+00:00</updated><id>https://oddopuscomposer.github.io/blog/2025/distill%20copy</id><content type="html" xml:base="https://oddopuscomposer.github.io/blog/2025/distill-copy/"><![CDATA[<h2 id="basics">Basics</h2> <p>Delivering a <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> hyperlink in a sentence.</p> <h4 id="check-list">Check List</h4> <ul class="task-list"> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/>Brush Teeth</li> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled"/>Put on socks <ul class="task-list"> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/>Put on left sock</li> </ul> </li> </ul> <h4 id="quote">Quote</h4> <blockquote> <p>We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another. —Anais Nin</p> </blockquote> <blockquote> <p>Oh, you can <em>put</em> <strong>Markdown</strong> into a blockquote too.</p> </blockquote> <h4 id="emphasize-tag">Emphasize Tag</h4> <p>The emphasize tag should <em>italicize</em> text.</p> <h4 id="insert-tag">Insert Tag</h4> <p>This tag should denote <ins>inserted</ins> text.</p> <h4 id="keyboard-tag">Keyboard Tag</h4> <p>This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the <code class="language-plaintext highlighter-rouge">&lt;code&gt;</code> tag.</p> <h4 id="address-tag">Address Tag</h4> <address> 1 Infinite Loop<br/> Cupertino, CA 95014<br/> United States </address> <h4 id="anchor-tag-aka-link">Anchor Tag (aka. Link)</h4> <p>This is an example of a <a href="http://github.com" title="GitHub">link</a>.</p> <h4 id="abbreviation-tag">Abbreviation Tag</h4> <p>The abbreviation <abbr title="Cascading Style Sheets">CSS</abbr> stands for “Cascading Style Sheets”.</p> <h3 id="preformatted-tag">Preformatted Tag</h3> <p>This tag styles large blocks of code.</p> <pre>
 .post-title {
   margin: 0 0 5px;
   font-weight: bold;
@@ -68,12 +68,12 @@ direction LR
 	say "Hello World"
 </code></pre> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>No language indicated, so no syntax highlighting.
 But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
-</code></pre></div></div> <h1 id="lets-do-tabs-with-this-to-be-extra-cool">Lets do Tabs with this to be extra cool!</h1> <ul id="hello" class="tab" data-tab="5ce636a2-318e-4a3d-b8a3-75f3e8006d06" data-name="hello"> <li class="active" id="hello-inform7"> <a href="#">Inform7 </a> </li> <li id="hello-gdscript"> <a href="#">GDscript </a> </li> <li id="hello-python"> <a href="#">Python </a> </li> </ul> <ul class="tab-content" id="5ce636a2-318e-4a3d-b8a3-75f3e8006d06" data-name="hello"> <li class="active"> <pre><code class="language-inform7">Upon game start:
+</code></pre></div></div> <h1 id="lets-do-tabs-with-this-to-be-extra-cool">Lets do Tabs with this to be extra cool!</h1> <ul id="hello" class="tab" data-tab="6d2e691c-a82b-4994-97e9-b904021dac73" data-name="hello"> <li class="active" id="hello-inform7"> <a href="#">Inform7 </a> </li> <li id="hello-gdscript"> <a href="#">GDscript </a> </li> <li id="hello-python"> <a href="#">Python </a> </li> </ul> <ul class="tab-content" id="6d2e691c-a82b-4994-97e9-b904021dac73" data-name="hello"> <li class="active"> <pre><code class="language-inform7">Upon game start:
 	say "Hello World"
 </code></pre> </li> <li> <div class="language-gdscript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">func</span> <span class="nf">_init</span><span class="p">():</span>
 	<span class="nb">print</span><span class="p">(</span><span class="s2">"Hello, world!"</span><span class="p">)</span>
 </code></pre></div></div> </li> <li> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nf">print</span><span class="p">(</span><span class="sh">'</span><span class="s">Hello World!</span><span class="sh">'</span><span class="p">)</span>
-</code></pre></div></div> </li> </ul> <h2 id="another-example">Another example</h2> <ul id="data-struct" class="tab" data-tab="59691a8e-ace7-4610-83ad-0ab2e1de1217" data-name="data-struct"> <li class="active" id="data-struct-yaml"> <a href="#">yaml </a> </li> <li id="data-struct-json"> <a href="#">json </a> </li> </ul> <ul class="tab-content" id="59691a8e-ace7-4610-83ad-0ab2e1de1217" data-name="data-struct"> <li class="active"> <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
+</code></pre></div></div> </li> </ul> <h2 id="another-example">Another example</h2> <ul id="data-struct" class="tab" data-tab="44a4a2b6-573f-4122-be9e-b98392710181" data-name="data-struct"> <li class="active" id="data-struct-yaml"> <a href="#">yaml </a> </li> <li id="data-struct-json"> <a href="#">json </a> </li> </ul> <ul class="tab-content" id="44a4a2b6-573f-4122-be9e-b98392710181" data-name="data-struct"> <li class="active"> <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
   <span class="pi">-</span> <span class="s2">"</span><span class="s">whatsup"</span>
   <span class="pi">-</span> <span class="s2">"</span><span class="s">hi"</span>
 </code></pre></div></div> </li> <li> <div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
@@ -134,6 +134,47 @@ But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
 |+----------------------+|
 .------------------------.
 </code></pre> <pre><code class="language-typograms">
+.----------.  +-------------------------------+
+|.--------.|  |                               |
+|'------&gt; ||  |           GROUNDS             |
+'---------'|  |                               |
+*----------'  +-------------------------------+
+PENSIVE WALK
+               +-----+      +--------------+
+               | RA  |      |              |
+       +-------+-----++-----+              |
+      / DORMS /       | &gt;   |              |
+     +-------+        '--   +    LYCEUM    |
+       \ DORMS \             \             |
+        +-------+-------+--+--+            |
+               / DORMS /      |            |
+              +-------+       |            |
+                              '------------'
+   _____________                    .-------.
+  /             \                   | GREEN |
+ +               +                  | HOUSE |
+ |    LIBRARY    |      .-.         '--+----'
+ |               +     |   |       .---|-------.
+ |               |      '-'        |     STORE |    
+ +--+.       .+--+                 |  .--------'-------.  
+  \   \     /   /|                 +  |                |
+   \   + + +   /                   |  +      LAB       |
+    \ /     \ /        CAMPUS      |  |                |
+     +-------+         COURT       |  '----.           |
+                       YARD        |       |           |
+      +---------+                  '-----|-'-----------'
+      |         |                       _+__________
+ +----+         +----+                 /            \
+ |       ATRIUM      |                 |            |
+ |         &amp;         |                 +    ROOK    |
+ |       DINING      +                 |            |
+ |        HALL       |                 \____________/
+ |                   |
+ +----+. ~~~~~ .+----+         .-+-.   ~~~~~~~~~~~~~~
+ |    +              |         |   |   ~~~~~~~~~~~~~~
+ '-------------------'         '---'   ~~~~~~~~~~~~~~
+
+
     /\        .-.      +-----+
    /  \      |   |    /       \
   /    \      '-'    /         \
@@ -161,7 +202,7 @@ But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
                     |"Body: Hi!"          |
                     +---------------------+
 
-.-------.                   +
+  .-------.                   +
   | START |                  / \       
   '---+---'                 /   \      +-+---------+-+    ___________
       |        .-----.     /     \     | | COMPLEX | |   /           \
@@ -288,7 +329,7 @@ But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
    | |4    | |7      | ◄╮               *----\-----*
    | *-----|-*     ⤹ +-----&gt; +x        /      v X   \                o
    |/      |/       / ⤴               /        o     \              / \
-   *-------*       v                 /                \            /   \
-  5       6      +z              v1 *------------------* v2       o-----o
+   *-------*       v                 /                \             /   \
+  5       6      +z              v1 *------------------* v2        o-----o
 
 </code></pre> <p>For more examples, check out the <a href="https://google.github.io/typograms/#examples">typograms documentation</a>.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="diagrams"/><summary type="html"><![CDATA[this is what included typograms code could look like]]></summary></entry></feed>
