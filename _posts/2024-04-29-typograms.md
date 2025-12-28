@@ -109,7 +109,7 @@ Enouia Brasswright College of Wondrous Aparati & Gramarye
 #                          |  +-------------+       ####
 #     _____________        |           .-------.        \ 
 #    /             \       |           | GREEN |         #
-#   +               +      .\___       | HOUSE |          \
+#   +               +      /---\       | HOUSE |          \
 #   |    LIBRARY    |     / .-. \      '--|----'           #
 #   |               -----+ | o | .    .---|-------.         \
 #   |>              |     \ '-' /     |     STORE |          #
