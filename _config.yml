@@ -13,7 +13,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   I made this website with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> using the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme
   and host with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: game-studies, procedural-generation, lgbt, inform7, godot, academic-website # add your own keywords or leave empty
+keywords: game-studies, procedural-generation, lgbt, rust, inform7, godot, academic-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: RoguelikeIconfavicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -256,7 +256,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["Ludonarrative", "Procedural-Generation", "Game-Studies", "LGBT", "Inform7", "Godot", "Synthesis", "Composing", "Tutorial"] # these tags will be displayed on the front page of your blog
+display_tags: ["Ludonarrative", "Procedural-Generation", "Game-Studies", "LGBT", "Inform7", "Godot", "Rust", "Composing", "Tutorial"] # these tags will be displayed on the front page of your blog
 display_categories: ["Game-Design", "Sound", "Maunderings"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
