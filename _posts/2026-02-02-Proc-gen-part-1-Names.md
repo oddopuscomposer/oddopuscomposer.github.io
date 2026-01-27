@@ -266,7 +266,7 @@ But let's throw in a <b>tag</b>.
 
 # Lets do Tabs with this to be extra cool!
 But we are also putting the code in a details drop down
-{% details Click here to know more %}
+
 
 {% tabs Hello %}
 {% tab Hello Rust %}
@@ -355,6 +355,9 @@ print('I am still adding a python variant for this example!')
 {% endtab %}
 {% endtabs %}
 
+
+{% details Click here to know more %}
+Maybe this is what was causing issues.
 {% enddetails %}
 
 ## Another example
