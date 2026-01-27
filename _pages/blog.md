@@ -202,12 +202,4 @@ Total site characters: {% published_posts_word_count total_characters %} (averag
 Longest post: <a href="{% published_posts_word_count longest_post_url %}">{% published_posts_word_count longest_post_title %}</a> ({% published_posts_word_count longest %} words) <br>
 Shortest post: <a href="{% published_posts_word_count shortest_post_url %}">{% published_posts_word_count shortest_post_title %}</a> ({% published_posts_word_count shortest %} words)
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('nerdess', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Tip Me',
-    'floating-chat.donateButton.background-color': '#5bc0de',
-    'floating-chat.donateButton.text-color': '#323842'
-  });
-</script>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#df4796', 'D1D11JFTPS');kofiwidget2.draw();</script> 
