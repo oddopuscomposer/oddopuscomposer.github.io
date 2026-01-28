@@ -8,7 +8,7 @@ date: 2026-02-02
 featured: true
 mermaid:
   enabled: true
-  zoomable: true
+  zoomable: false
 citation: true
 tabs: true
 
@@ -38,8 +38,6 @@ toc:
 ## Basics
 
 Delivering a <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> hyperlink in a sentence.
-
-
 
 #### Quote
 
