@@ -4,7 +4,7 @@ title: Procedural Generation of Text Part One names
 description: procedural generation of names and epithets
 tags: procedural-generation game-studies ludonarrative rust inform7
 categories: Game-Design
-date: 2026-02-02
+date: 2026-01-02
 featured: true
 mermaid:
   enabled: true
