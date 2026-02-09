@@ -211,9 +211,7 @@ Inline `code` has `back-ticks around` it.
 # Lets do Tabs with this to be extra cool!
 But we are also putting the code in a details drop down!
 
-```
 {% details Click here to look at and run code%}
-```
 
 {% tabs Hello %}
 {% tab Hello Rust %}
@@ -293,17 +291,17 @@ fn main() {
 
 {% endtabs %}
 
-```
+
 {% enddetails %}
-```
+
 
 Here is the web player of the rust code in action that you can run yourselfs!
  
 ## Another example
 
-```
+
 {% details Click here to look at and run more rust code examples%}
-```
+
 {% tabs data-struct %}
 
 {% tab data-struct Rust Compound Surnames %}
@@ -671,9 +669,9 @@ fn main() {
 
 {% endtabs %}
 
-```
+
 {% enddetails %}
-```
+
 
 | Firstname | surname | surname | filler | descriptor | reputation | filler | descriptor | place |
 | --------- | ------- | ------- | ------ | ---------- | ---------- | ------ | ---------- | ----- |
