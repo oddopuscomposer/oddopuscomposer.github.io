@@ -14,7 +14,7 @@ tabs: true
 
 # The only thing needed is for you to set the `citation` key in the front matter to `true` Probably need to move it to the bottom or perhaps a button?
 
- bibliography: 2018-12-22-distill.bib 
+bibliography: 2018-12-22-distill.bib 
 
 #   - make sure that TOC names match the actual section names
 #     for hyperlinks within the post to work correctly.
@@ -30,7 +30,6 @@ toc:
   - name: Mermaid
   - name: Layouts
   - name: Other Typography?
-  - name: Citations & References
 
 # Below is an example of injecting additional post-specific styles.
 # If you use this post as a template, delete this _styles block.
@@ -672,7 +671,6 @@ fn main() {
 | Wendy     | Red     | bells   | the    | Dark       | Tyrant     | of the | Deep       | Mauw  |
 
 
-## Citations & References
 
 
 
