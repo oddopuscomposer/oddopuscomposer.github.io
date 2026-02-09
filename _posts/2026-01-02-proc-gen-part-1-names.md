@@ -4,7 +4,7 @@ title: Procedural Generation of Text Part One names
 description: procedural generation of names and epithets
 tags: procedural-generation game-studies ludonarrative rust inform7
 categories: Game-Design
-date: 2026-01-02
+date: 2026-02-02
 featured: true
 mermaid:
   enabled: true
@@ -107,7 +107,7 @@ However, we consider it good style to mention author last names if you discuss s
 ## Footnotes
 
 Just wrap the text you would like to show up in a footnote in a `<d-footnote>` tag.
-The number of the footnote will be automatically generated.<d-footnote>This will become a hoverable footnote.</d-footnote>
+The number of the footnote will be automatically generated.<d-footnote>This will become a hoverable footnote.That you can fill with relevence.</d-footnote>
 
 ---
 
@@ -211,7 +211,9 @@ Inline `code` has `back-ticks around` it.
 # Lets do Tabs with this to be extra cool!
 But we are also putting the code in a details drop down!
 
+```
 {% details Click here to look at and run code%}
+```
 
 {% tabs Hello %}
 {% tab Hello Rust %}
@@ -291,13 +293,17 @@ fn main() {
 
 {% endtabs %}
 
+```
 {% enddetails %}
+```
 
 Here is the web player of the rust code in action that you can run yourselfs!
  
 ## Another example
 
+```
 {% details Click here to look at and run more rust code examples%}
+```
 {% tabs data-struct %}
 
 {% tab data-struct Rust Compound Surnames %}
@@ -664,7 +670,10 @@ fn main() {
 {% endtab %}
 
 {% endtabs %}
+
+```
 {% enddetails %}
+```
 
 | Firstname | surname | surname | filler | descriptor | reputation | filler | descriptor | place |
 | --------- | ------- | ------- | ------ | ---------- | ---------- | ------ | ---------- | ----- |
