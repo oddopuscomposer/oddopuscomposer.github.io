@@ -681,6 +681,7 @@ Long name with honorifics and double epiphets:
 | --------- | --------- | -------- | -------- | ------ | ---------- | ---------- | ------ | ---------- | ----- | ----- | ------ | ------ | ------ |
 | Madam     | Wendy     | Red      | bells    | the    | Dark       | Tyrant     | of the | Deep       | Mauw  | Adept | of the | Queens | Shadow |
 
+But naturally, that becomes a bit cumberson, so usually you want these styles of names less often to limit impact of name fatigue. But it could be a fun aspect ot a player character keepign track of titles, earned through biome and action reconition.
 
 {% details More Advanced Code Examples%}
 {% tabs ExamplesThree %}
