@@ -16,8 +16,7 @@ goodreads_review:
 status: finished
 ---
 
-
-While exploring my current fascination with ASCII and tilsets based around glyphs at large I figured it would be good to get a stronger typography founstation and so picked up an old book, Thinking with Type 2nd Edition by Ellen Lupton, I had lying around from one of my collegiate escapades.
+While exploring my current fascination with ASCII and tilsets based around glyphs at large, I figured it would be good to get a stronger typography foundation and so picked up an old book, Thinking with Type 2nd Edition by Ellen Lupton, I had lying around from one of my collegiate escapades.
 
 "Typography is a tool for doing things *with*: shaping content, giving language a physical body, enabling the social flow of messages" (page 8)
 
@@ -29,4 +28,5 @@ I also like the phrase she uses, “flow of information and the corrosiveness of
 
 Another interesting thing Ellen Lupton brings up on page 93 is about spatial versus linear information, initially talking about word processing versus InDesign. Looking at digital aspects and physical (libraries) of databases. But things get more interesting - "My design projects call for the emphasis of space over sequence, system over utterance, simultaneous structure over linear narrative." This certainly speaks to video games, as diegesis of a world's narrative is a database of space informed by sub-narratives emerging and expositional breaks. I also do not believe this war between space and linearity; they, like all artistic intent, inform each other to great effect.
 
-All in all great foundational work, especially for me! And, loved the wrap up page on Sir John LUbbock - Ants, Bees, and Wasps 1893 - Behavoir to intoxicated friends - which suggests that ants should not rely on the kindness of stranger when drunk. an important lesson for us all.
+All in all great foundational work, especially for me! And, loved the wrap up page on Sir John Lubbock -
+Ants, bees, and wasps. A record of observations on the habits of the social Hymenoptera (1882) - Behavoir to intoxicated friends - which suggests that ants should not rely on the kindness of strangers when drunk. An important lesson for us all to be sure.
