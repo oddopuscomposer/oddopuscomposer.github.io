@@ -213,6 +213,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/TransFemininity_in_Metroid/";
+            },},{id: "books-typewriter-art",
+          title: 'Typewriter Art',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Typewriter_Art/";
             },},{id: "books-world-builders-on-world-building",
           title: 'World-Builders on World-Building',
           description: "",
