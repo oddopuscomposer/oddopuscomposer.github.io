@@ -108,6 +108,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/CitizenSleeper2/";
+            },},{id: "books-codex-seraphinianus",
+          title: 'Codex Seraphinianus',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Codex%20Seraphinianus/";
             },},{id: "books-cyberpl-amp-64-y-amp-58-communicating-online",
           title: 'Cyberpl&amp;amp;#64;y&amp;amp;#58; Communicating Online',
           description: "",
@@ -198,6 +203,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/The%20Use%20of%20ASCII%20Graphics%20in%20Roguelikes/";
+            },},{id: "books-thinking-with-type-2nd-edition",
+          title: 'Thinking with Type (2nd Edition)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Thinking%20with%20Type/";
             },},{id: "books-the-big-reveal-amp-58-exploring-trans-femininity-in-metroid",
           title: 'The Big Reveal&amp;amp;#58; Exploring Trans Femininity in Metroid',
           description: "",
