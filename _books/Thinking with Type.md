@@ -10,7 +10,7 @@ tags: semiotics type
 buy_link: 
 started: 2026-01
 finished: 2026-01
-released: 20242010
+released: 2010
 stars: 4
 goodreads_review: 
 status: finished
