@@ -78,8 +78,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/ASCII_Sprites_Symbolic_Graphics/";
-            },},{id: "books-acade-game-typography",
-          title: 'Acade Game Typography',
+            },},{id: "books-arcade-game-typography",
+          title: 'Arcade Game Typography',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Arcade%20Game%20Typography/";
@@ -148,6 +148,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Making_of_Dwarf_Fortress/";
+            },},{id: "books-pictowords-semantic-typography",
+          title: 'Pictowords Semantic Typography',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Pictowords_Semantic_Typography/";
             },},{id: "books-procedural-generation-in-game-design",
           title: 'Procedural Generation in Game Design',
           description: "",
