@@ -22,7 +22,7 @@ Beautiful if strange infographics? Is that the right word when the language is f
 
 Aside from the beautiful and occasionally disturbing illustrations, my version came with a small two-page Decodex, in which the artist reflects on the work and his time making it in his 20s. It was just so lovingly written with such a flavourful tone and turn of phrases. Within, he reveals a few insights, such that he was inspired by children looking at books before they can read, but undoubtedly, there is still a gathered semblance of meaning through the correlation of text and image (even when not understood).
 
-When he writes in a language I read or translate, it is beautiful and evocative, so I will leave you with a few of my favorite quotes.
+When he writes in a language I can read or translate, it is beautiful and evocative, so I will leave you with a few of my favorite quotes.
 
  "as if I was at a cyborg-nude figure drawing school of some Academy of Spatial Fine Arts." - in reference to his work he was doing in his apartment at the time.
 
