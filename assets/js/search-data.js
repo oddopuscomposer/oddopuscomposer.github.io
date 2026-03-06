@@ -32,7 +32,7 @@ ninja.data = [{
               },
             },{id: "post-procedural-generation-of-text-part-one-names",
         
-          title: "Procedural Generation of Text Part One names",
+          title: "Procedural Generation of Text Part One Names",
         
         description: "procedural generation of names and epithets",
         section: "Posts",
