@@ -148,11 +148,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Making_of_Dwarf_Fortress/";
-            },},{id: "books-pictowords-semantic-typography",
-          title: 'Pictowords Semantic Typography',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/Pictowords_Semantic_Typography/";
             },},{id: "books-procedural-generation-in-game-design",
           title: 'Procedural Generation in Game Design',
           description: "",
@@ -193,6 +188,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Shifting_Genres_TaxonomyRoguelikes/";
+            },},{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Sister_Bernadettes_Barking_Dog/";
             },},{id: "books-slay-the-princess",
           title: 'Slay The Princess',
           description: "",
