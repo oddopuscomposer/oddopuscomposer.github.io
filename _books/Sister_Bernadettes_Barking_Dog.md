@@ -11,7 +11,7 @@ buy_link:
 started: 2026-03
 finished: 2026-03
 released: 2006
-stars: 3.5
+stars: 3
 goodreads_review: 
 status: finished
 ---
