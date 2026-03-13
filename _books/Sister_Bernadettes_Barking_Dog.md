@@ -1,12 +1,12 @@
 ---
 layout: book-review
-title: Sister Bernadette's Barking Dog: The Quirky History and Lost Art of Diagramming Sentences
+title: Sister Bernadette's Barking Dog- The Quirky History and Lost Art of Diagramming Sentences
 author: Kitty Burns Florey 
 cover: assets/img/book_covers/SisterBernadettes.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: language
-tags: semiotics history
+categories: semiotics
+tags: language history
 buy_link: 
 started: 2026-03
 finished: 2026-03

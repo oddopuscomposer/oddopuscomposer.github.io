@@ -5,15 +5,15 @@ author: Tanya X. Short & Tarn Adams
 cover: assets/img/book_covers/ProceduralStorytelling.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: classics crime historical-fiction mystery novels thriller
-tags: top-100
-buy_link: https://www.amazon.com/Godfather-Deluxe-Mario-Puzo/dp/0593542592
-started: 2024-08-23
-finished: 2024-09-07
+categories: procedural-generation narrative-design game-design
+tags: Most-useful-for-PHD roguelike emergent-systems
+buy_link:
+started: 2025-11
+finished: 2026-03
 released: 2019
-stars: 5
-goodreads_review: 6318556633
-status: queued
+stars: 4.5
+goodreads_review
+status: reading
 ---
 
 <b>Quick Synoposis</b>:
