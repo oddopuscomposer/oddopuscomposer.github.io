@@ -153,8 +153,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Procedural_Generation_in_Game_Design/";
-            },},{id: "books-procedural-storytelling-in-game-design",
-          title: 'Procedural Storytelling in Game Design',
+            },},{id: "books-",
+          title: '',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Procedural_Storytelling_in_Game_Design/";
@@ -188,8 +188,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Shifting_Genres_TaxonomyRoguelikes/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-sister-bernadette-39-s-barking-dog-the-quirky-history-and-lost-art-of-diagramming-sentences",
+          title: 'Sister Bernadette&amp;#39;s Barking Dog- The Quirky History and Lost Art of Diagramming Sentences...',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Sister_Bernadettes_Barking_Dog/";
