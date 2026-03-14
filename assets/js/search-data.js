@@ -34,7 +34,7 @@ ninja.data = [{
         
           title: "Procedural Generation of Text Part One Names",
         
-        description: "procedural generation of names and epithets",
+        description: "procedural generation of names, honorifics, and epithets",
         section: "Posts",
         handler: () => {
           
