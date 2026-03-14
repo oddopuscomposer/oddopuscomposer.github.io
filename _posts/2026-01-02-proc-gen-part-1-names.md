@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Procedural Generation of Text Part One Names
-description: procedural generation of names and epithets
+description: procedural generation of names, honorifics, and epithets
 tags: procedural-generation game-studies ludonarrative rust inform7
 categories: Game-Design
 date: 2026-02-02
@@ -152,12 +152,12 @@ McGrath, P. and Phillips, E. (2008), Australian findings on Aboriginal cultural 
 Naming things and gifting a name, you impose some power. That Time I was Reincarnated as a Slime shows this as average monsters have no name, and when named, they transform into stronger versions of themselves. (An anime is something to legitimately reference, yes?)
 Through identity, we gain meaning, so it is imposed by our parentsto call forth a precursor to reprimands. (Aside) And yes, I am relating anime, the bible, human history, and speculative fiction.
 
-<aside><p>Once you gave a thing a name, you gave it life
+<aside><p>Once you gave a thing a name, you gave it life</p><p>
 - Terry Pratchett</p></aside>
 
 Names are how we address people, what makes up legal agreements, our signature, identification, and status. plus we need a name to properly curse someone of something. Names give power and is power. Victor never names his composite creature despite its dismay and display of considerable humanity in the book Frankenstein, and so Victor never accepts the being to be treated humanely. Look how that worked out for him, eh? Victor never has power over the creature, really, either something we establish naming would do, and calls his creation deamon (like the Unix system), but likely more in reference to a walker between heaven and earth, a superhuman of sorts as noted by Charles E. Robson's essay in 2017's Frankenstein annotated by etc... so Like a demon, right? like what we previously mentioned, eh? My point is we need to be calling things more than monster, especially those of noted quality. Diablo, Princessrl many procedural games name a procedural monster instead of imp to "the butcher" or some such to give emphasis and denote power, that these entities are of importance and worth consideration before approach.
 
-<aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who *do* things.”
+<aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who *do* things.”</p><p>
 ― Ray Bradbury, The October Country</p></aside>
 
 Names are what are called forth from parents to signify that you are seen and to pay attention to some admonition, in a formal setting, its whats transcribed on degrees, decrees, and identification. They are what we obscure when not wishing to reveal ourselves to authorities, and when we are starting anew without previous connotations. Titles and honourifics, then, are like level increases; we collect them from our deeds, and some are small community nicknames only used by a few relationships or tiny factions. It seems like the foundational semiotics to encapsulate an entity concept through taxonomy, and yet it also has the potential for exceptional uniqueness.
@@ -172,7 +172,7 @@ Titles hold sway and remembrance through the ages and time. Sometimes, honourifi
 
 ## Reclamation of Identity and Queer Introspection
 
-<aside><p> “All things are defined by names. Change the name, and you change the thing.”
+<aside><p> “All things are defined by names. Change the name, and you change the thing.”</p><p>
 ― Terry Pratchett, Pyramids
 (HarperCollins, ed. 2001), Part II. The Book of the Dead, Page 110</p></aside>
 
@@ -185,7 +185,7 @@ A lot of non-queer people also look at adjusting an aspect of their name, sharin
 
 While there are a fair few writings on the cleverness of proper naming of characters that instill visualisation and projected investments, the truth is, we often make our names in all their awkwardness. That is more in the spirit of this exercise, while I certainly curated hundreds of name pieces that are of particular interest to my style and lexicon taste, they will still be some dirpy, clumsy, peculiar outcomes, which just means that those individual narratives will have to overcome and embrace their names in all their glory.
 
-<aside><p>“Names are unique sounds and cadences of words that are attached to one specific individual-sort of like a kind of theme music.”
+<aside><p>“Names are unique sounds and cadences of words that are attached to one specific individual-sort of like a kind of theme music.”</p><p>
 ― Jim Butcher, Storm Front</p></aside>
 
 
@@ -194,19 +194,19 @@ I have a friend who is Bobby; his birth certificate is directly Bobby, not Rober
 If allowed in the temporal diegesis of the world, any name can become impactful, even more so if innocuous. We can only slightly try to mould our addresses through nicknames in the hope of forming a barrier to our names (barrier is a powerful shielding spell), a larger bubble in which we reside that shields some of us in an unknown but often taken on a life that is greater than our birth names.
 
 <aside><p>
-“It ain't what they call you, it's what you answer to.”  
+“It ain't what they call you, it's what you answer to.”</p><p>  
 ― W.C. Fields</p></aside>
 
 
 When choosing a name, we get the unprecedented option to make our names mean something to ourselves or in the greater context of our culture or world. When we have a name we are granted, we can only shape it through our actions, luck, and projected perceptions. It's a rare empowering moment of self-actualization manifested from introspection.
 
-<aside><p>Life ain't easy for a boy named Sue - Johnny Cash - The song *A boy named Sue*
+<aside><p>Life ain't easy for a boy named Sue</p><p> - Johnny Cash - The song *A boy named Sue*
 _(accidental trans man anthem?)_</p></aside>
 
 So there can be fun in authoring a character's sobriquet Scarlet Dewinter, to a personality of bubbly ray of helpful sunshine. It might not reflect traits or heritage/status (unless we get a bit meta and say winter is a prominent place in the fantasy world this character's from, and if perhaps the trait is rebelling against their name to be spiffily optimistic and energised)
 
 <aside><p>“What's in a name? that which we call a rose  
-By any other name would smell as sweet.”  
+By any other name would smell as sweet.”</p><p>  
 ― William Shakespeare, Romeo and Juliet</p></aside>
 
 Nuns all get their Mary name; their second name is preceded by mother. Additionally, in Catholicism, you have popes taking on names, and it is about legacy and building on top of the previous predecessors' vibe of their work or personality. Much like the Roman cognomen surnames durring ancient times.
