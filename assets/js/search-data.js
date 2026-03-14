@@ -153,8 +153,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Procedural_Generation_in_Game_Design/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-procedural-storytelling-in-game-design",
+          title: 'Procedural Storytelling in Game Design',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Procedural_Storytelling_in_Game_Design/";
