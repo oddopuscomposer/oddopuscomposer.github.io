@@ -28,8 +28,9 @@ toc:
   - name: Footnotes
   - name: Code Blocks
   - name: Layouts
-  - name: Other Typography?
+  - name: Procedural Generation
   - name: Names?
+  - name: Code Experiments
   - name: Conclusion
 
 # Below is an example of injecting additional post-specific styles.
@@ -113,7 +114,7 @@ The number of the footnote will be automatically generated.<d-footnote>This will
 ---
 
 
-## Other Typography?
+## Procedural Generation
 
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
@@ -196,31 +197,28 @@ If allowed in the temporal diegesis of the world, any name can become impactful,
 “It ain't what they call you, it's what you answer to.”</p><p><em> 
 ― W.C. Fields</em></p></aside>
 
-
 When choosing a name, we get the unprecedented option to make our names mean something to ourselves or in the greater context of our culture or world. When we have a name we are granted, we can only shape it through our actions, luck, and projected perceptions. It's a rare empowering moment of self-actualization manifested from introspection.
 
-<aside><p>Life ain't easy for a boy named Sue</p><p><em> - Johnny Cash - A boy named Sue</em>
-(accidental trans man anthem?)</p></aside>
+<aside><p>Life ain't easy for a boy named Sue</p><p><em> - Johnny Cash - A boy named Sue</em></p><p>
+(Accidental trans man anthem?)</p></aside>
 
 So there can be fun in authoring a character's sobriquet Scarlet Dewinter, to a personality of bubbly ray of helpful sunshine. It might not reflect traits or heritage/status (unless we get a bit meta and say winter is a prominent place in the fantasy world this character's from, and if perhaps the trait is rebelling against their name to be spiffily optimistic and energised)
 
-<aside><p>“What's in a name? that which we call a rose  
-By any other name would smell as sweet.”</p><p><em> ― William Shakespeare, Romeo and Juliet</em></p></aside>
-
 Nuns all get their Mary name; their second name is preceded by mother. Additionally, in Catholicism, you have popes taking on names, and it is about legacy and building on top of the previous predecessors' vibe of their work or personality. Much like the Roman cognomen surnames durring ancient times.
+
+<aside><p>“What's in a name? That which we call a rose by any other name would smell as sweet.”</p><p><em> ― William Shakespeare, Romeo and Juliet</em></p></aside>
 
 We, of course, can generate our own theophorics, non-denominational and otherwise, for our zealots and clerics. Beloved of, bestowed by, blessed by, blessing from, is the spirit of, beloved of, eternal dweller of %deity%   splendour of, %deity% faithful to, guided by, handmaid of, protected by, provided by,  warrior of, etc.
 
 
 {% include figure.liquid loading="eager" path="assets/img/blog_images/ZotePrecept32.png" class="img-fluid rounded z-depth-1" %}
-*32	Precept Thirty-Two: 'Names Have Power'.*
-*Names have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own!*
-<em>- Zote the Mighty (Hollow Knight)</em>
+<em>32	Precept Thirty-Two: 'Names Have Power'.<br>
+Names have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own!*
+<em>*- Zote the Mighty (Hollow Knight)*</em>
 
 Heck, those who dabble in programming have many inside jokes about the challenges of naming conventions, especially when creating their variables.
 
-
-# Lets do Tabs with this to be extra cool!
+# Code Experiements
 But we are also putting the code in a details drop down!
 
 {% details Click here to look at and run code%}
