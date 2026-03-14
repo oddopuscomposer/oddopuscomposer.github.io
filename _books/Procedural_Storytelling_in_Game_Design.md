@@ -12,12 +12,11 @@ started: 2025-11
 finished: 2026-03
 released: 2019
 stars: 4.5
-goodreads_review
-status: reading
+status: Finished
 ---
 
 <b>Quick Synoposis</b>:
-
+Wonderful book full of essays focusing on Procedural Generative techniques and considerations from narrative standpoint and how to creative interesting results effectively without the results being 1000 bland bowels of oatmeal.
 
 <b>Thoughts</b>:
-I am still reading this work but will give short accessmentonce finished.
+I am still compiling my notes for this book as they are a considerable amount for each of the 23 essays.
