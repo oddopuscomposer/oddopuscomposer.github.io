@@ -183,6 +183,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Roguelike_Radio_Magic/";
+            },},{id: "books-sexuality-amp-58-a-graphic-guide",
+          title: 'Sexuality&amp;amp;#58; A Graphic Guide',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Sexuality_a_Graphic_Guide/";
             },},{id: "books-shifting-genres-amp-58-limits-of-video-game-genre-taxonomy-in-roguelikes",
           title: 'Shifting Genres&amp;amp;#58; Limits of Video Game Genre Taxonomy in Roguelikes',
           description: "",
