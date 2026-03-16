@@ -128,6 +128,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/FromASCIIArtToComicSans/";
+            },},{id: "books-qugendereer-amp-58-a-graphic-guide",
+          title: 'QuGendereer&amp;amp;#58; A Graphic Guide',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Gender_a_Graphic_Guide/";
             },},{id: "books-hades-ii",
           title: 'Hades II',
           description: "",
