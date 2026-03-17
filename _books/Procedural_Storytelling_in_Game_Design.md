@@ -19,4 +19,4 @@ status: Finished
 Wonderful book full of essays focusing on Procedural Generative techniques and considerations from narrative standpoint and how to creative interesting results effectively without the results being 1000 bland bowels of oatmeal.
 
 <b>Thoughts</b>:
-I am still compiling my notes for this book as they are a considerable amount for each of the 23 essays.
+I am still compiling my notes for this book as they are a considerable amount for each of the 28 chapters.
