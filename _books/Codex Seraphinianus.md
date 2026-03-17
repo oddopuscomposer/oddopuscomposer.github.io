@@ -16,7 +16,7 @@ goodreads_review:
 status: finished
 ---
 
-Codex Seraphinianus (1981)– by Italian architect and industrial designer Luigi Serafini, is a case of asemic writing (meaningless), showing off trypophobia lite and Whovillian mechanisms, along with a surreal flora and fauna of a world.
+Codex Seraphinianus by Italian architect and industrial designer Luigi Serafini, is a case of asemic writing (meaningless), showing off trypophobia lite and Whovillian mechanisms, along with a surreal flora and fauna of a world.
 
 Beautiful if strange infographics? Is that the right word when the language is fake? Luigi waited almost 30 years before finally declaring there was no meaning behind the script in 2009. This naturally followed the various cryptographers and Cypherists who had claimed they deciphered some sections of the book. So, note this is not a Finnegans Wake or conlang, but more an artist’s take on world-building with asemic script. No understanding necessary to initially parse.
 
