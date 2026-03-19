@@ -67,7 +67,7 @@ ninja.data = [{
           title: '50 Years of Text Games&amp;amp;#58; Further Explorations',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/50%20Years%20of%20Text%20Games%20Further%20Explorations%20copy/";
+              window.location.href = "/books/50%20Years%20of%20Text%20Games%20Further%20Explorations/";
             },},{id: "books-50-years-of-text-games-amp-58-from-oregon-trail-to-a-i-dungeon",
           title: '50 Years of Text Games&amp;amp;#58; From Oregon Trail to A.I. Dungeon',
           description: "",
