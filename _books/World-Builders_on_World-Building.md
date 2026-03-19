@@ -1,27 +1,50 @@
 ---
 layout: book-review
 title: World-Builders on World-Building
-author: Mark J.P Wolf
+author: Mark J.P. Wolf
 cover: assets/img/book_covers/WorldBuilderOnWorldBuilding.jpeg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9780429242861 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: classics crime historical-fiction mystery novels thriller
-tags: top-100
+categories: game-development
+tags: world-building
 buy_link: 
-started: 2024-08-23
-finished: 2024-09-07
+started: 2025-11
+finished: 2026-03
 released: 2020
-stars: 5
-goodreads_review: 6318556633
+stars: 4
+goodreads_review:
 status: reading
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin eros sit amet ante aliquet, sit amet vulputate lectus mattis. Aenean ullamcorper pretium nunc, sed egestas lorem elementum id. Nulla id mi id neque ultrices egestas ut in urna. Sed ac ultricies nunc. Nam convallis placerat urna id egestas. Nulla porta, est interdum vestibulum venenatis, lorem odio laoreet sapien, in pulvinar tellus eros a dolor. Vivamus sapien justo, ullamcorper a mi eget, scelerisque euismod nunc. In augue augue, ultrices a ornare non, tincidunt quis justo. Donec sit amet consectetur eros. Nullam neque leo, tincidunt id ipsum ac, volutpat lobortis mi. Phasellus consequat ultricies arcu, eu semper ligula ultrices eget. Ut in fringilla elit, ac tincidunt nisi.
+*[MUD]: Multi User Dungeon
+*[MMO]: Massive Multiplayer Online
+*[UUR]: Ultima Ratio Regum
 
-Nunc commodo elit nec turpis feugiat consectetur. Nullam in nisi egestas, fermentum ligula hendrerit, euismod enim. Nulla eu hendrerit eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et velit ante. Vestibulum pretium vitae quam et sagittis. Proin eu nunc vel velit accumsan eleifend. Nulla facilisis, diam tempus imperdiet ultrices, massa ipsum consequat orci, sed efficitur eros mi a felis. Cras lobortis turpis sem, sed lobortis nunc ullamcorper tristique. Nam vehicula rhoncus ante, in faucibus sapien scelerisque et. Donec semper libero et tincidunt mattis. In vestibulum, nulla pretium dictum commodo, risus nulla vestibulum felis, at tincidunt massa mi in odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
-Donec efficitur ultrices purus sit amet imperdiet. Nam consequat metus in erat sodales faucibus. Aliquam maximus fermentum nulla id finibus. Aliquam iaculis sed odio vel rutrum. Curabitur sed odio est. Praesent nec sollicitudin tortor. Praesent pharetra, turpis quis porttitor rhoncus, ante massa fringilla lacus, nec porttitor magna turpis vitae felis. Nullam tristique massa id odio imperdiet, nec sodales massa egestas. Proin nisi metus, euismod sed accumsan vitae, facilisis vel risus. Morbi suscipit auctor erat, nec viverra elit fringilla eu. Mauris congue, purus id tristique facilisis, felis nisi efficitur magna, eu consectetur augue sem vitae lacus. Aliquam erat volutpat. Cras at nibh ultricies, volutpat arcu vitae, dictum est. In ac dolor sagittis, egestas lectus et, semper nisl. Etiam consectetur purus vitae sapien porttitor auctor.
 
-Nulla sit amet venenatis odio. Suspendisse ac lacus quis augue mollis tempus vel in lorem. Donec augue turpis, eleifend nec nibh eu, elementum dictum metus. Proin ut est ligula. Etiam vehicula facilisis metus, sit amet consectetur risus ullamcorper porttitor. In congue nibh quis sollicitudin iaculis. Donec a mollis lorem, non mollis lacus. Nulla et leo ex. Aliquam erat volutpat. Nam sit amet tincidunt mauris. Vivamus vitae est sit amet nisi semper egestas. Donec in diam pharetra, commodo diam vitae, imperdiet ligula. Cras iaculis ac diam eget vehicula. Proin suscipit ante enim, quis vehicula mi porta bibendum. Aliquam a diam porttitor, sollicitudin justo vitae, tempor odio.
 
-Cras fermentum dignissim pretium. Donec quis turpis eu neque lacinia facilisis in sit amet nibh. Nulla non tortor ultricies, euismod est in, blandit nibh. Ut a neque metus. Sed convallis condimentum nibh quis finibus. Praesent aliquam sem iaculis eros maximus accumsan. Nulla venenatis mauris id aliquet maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at enim vitae ex porttitor vestibulum sed eget nibh. Suspendisse accumsan feugiat quam eget ultricies.
+The second essay chapter I want to highlight is **The Place of Culture, Society, and Politics in Video Game World-Building by Mark R. Johnson** (Essay 6)
+
+Johnson takes a look at what it takes to make a more realistic concept of a game world and why don't designers/developers incorporate more focus on history, more reflected through cultural artefacts and systems, rather than an expositional voice (whether spoken or textual). Focusing less on player convenience, such as level design way finding and more thinking on how a world's historicity is messy and layered with culturally distinct and diverse cultures.
+
+So what does it take to make a world feel convincing, not shatter illusions, and feel permanent, like it is a real place within its own history? Its sociological world-building is made up of the macro and micro political, social, economic, and perhaps spatial elements influencing the NPC and its organization. This is reflected in items like clothing, metal, and architecture, societies like systems like governments, guilds, and religions, and spatial/geolocation aspects like dialects, fashion, trade interests, and naming conventions.
+
+Before Johnson delves into a few given examples from his own creative roguelike Ultima Ratio Regum, which he has created a considerable system "as a means to creating fictional spaces with a deep sense of sociological verisimilitude." he give a few mainstream insights with Soulsborn world crafting approach Paradox Interactive game like Crusader Kings, Victoria, and Stellaris - all inspiring examples of his bottom-up approach of having a player be immersed in a realistic world told through the artefacts and NPC action non-expositional often contains a messy histories stacked.
+
+"The temporal reversal of how the world appears to have been built. To put this another way, it genuinely appears that long, complex, and contested sequences of events have led up to the present state of affairs, rather than a present state of affairs having been decided by the world-builder(s) and then historical events inserted to lead up to a predetermined endpoint."
+
+"These are worlds where the flow of 'history' and its impact on the present are just as messy and contested as they are in reality, yet just as visible for someone who invests the time in seeking out their signs and clues."
+
+Here, Johnson is referencing the Soulsbourne world, where the player explores crowded city streets and stairways built for giants, the designers are telling of history through architecture and artifacts, and the way NPCs might offhandedly respond to time or cultural understanding not immediately familiar to a player. This perpetuates the trivial into becoming meaningful; all the items and architecture suggest a world built and lived in - fought over - decayed - a history has happened and is happening, all of which can be missed or harnessed for narrative insight.
+
+He goes into the nuances of how systems might simulate organic interactions, determining realistic outcomes from the simulated cultures in general and his own game UUR. This might be best reflected in his statements about how a system like religion might permeate outward push and pull against various systems at play:
+
+ "Every belief system has a procedurally generated holy book or series of books (which adherents might quote), a set of edicts and expectations, different moral codes, different styles of clothing, and different perspectives on how nonbelievers should be treated. A particularly zealous religion might be the most likely to send preachers to different cities (to potentially be encountered by the player) or send inquisitors throughout their own territory to find potential heretics."
+ -and-
+"For example, a religion might believe that heavy weapons such as maces should not be used because they do too much damage to human bodies (which are perhaps sacred?) and thus no soldiers following that religion will use these weapons." "For example, a religion might believe that heavy weapons such as maces should not be used because they do too much damage to human bodies (which are perhaps sacred?) and thus no soldiers following that religion will use these weapons."
+
+I love this idea of situating a player in an unfamiliar world and how they might reflect that in their excursions, adventures, and their expeditional exhibitions through the hints of change and treatment of society. The idea of cultures reflecting on the player as a potential outsider, how can they tell? How do they treat outsiders? Do they have a history of outsiders like our player character? Will they be judged on their appearance, such as clothes, jewellery, or hair fashion?  Why would the player be let into their home to rummage through their stuff? Should the player have a hometown, and how would we make that feel different and possibly exciting? I mean, what drives someone to roam the world? And how do these things of a biome, culture, player represented in the artefacts, architecture, governance, NPCs practices, etc.
+
+It was quite an enjoyable essay, and as someone looking into diverse history and culture generations, as well as, admittedly, a roguelike fan who was familiar with UUR. I'll end with a quote to the heart of what he is articulating:
+
+ "the goal has always been twofold: to create a world which is less obvious and less transparent than many fictional worlds, and to use bottom-up sociological world-building to build a planet which is not just a complex set of interwoven elements, but also different every time a player creates a new world – yet always one that is, hopefully, as deep as the one which came before it."

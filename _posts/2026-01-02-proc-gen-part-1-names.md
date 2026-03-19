@@ -19,7 +19,7 @@ bibliography: 2018-12-22-distill.bib
 #   - make sure that TOC names match the actual section names
 #     for hyperlinks within the post to work correctly.
 toc:
-  - name: Basics
+  - name: Subject
     # if a section has subsections, you can add them as follows:
     # subsections:
     #   - name: Example Child Subsection 1
@@ -37,58 +37,18 @@ toc:
 # If you use this post as a template, delete this _styles block.
 ---
 
-## Basics
+## Subject
 
-Delivering a <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> hyperlink in a sentence.
+**Main Topic**: Procedural Generation 101, Name Creation and Myth, Ludonarrative Thoughts, Queer Representation, Rust Tinkering
+A Playlist to listen to while you read {<a href="[https://www.w3schools.com/html/default.asp](https://music.apple.com/us/playlist/blog-post-one-proc-gen-names/pl.u-GgA5zr5CqVRE1)">Apple Music</a>, Qobuz}
 
-#### Quote
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-In truth we are non homogeneous beings in all aspects and temporal elements, why do we veiw things in binary why do we act so?
-
->  Oh, you can _put_ **Markdown** into a blockquote too.
+#### Take Away & the TL;DR
 
 
-#### Emphasize Tag
 
-The emphasize tag should _italicize_ text.
-
-#### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-#### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-
-#### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "GitHub").
-
-#### Abbreviation Tag
 
 The abbreviation CSS stands for "Cascading Style Sheets".
-
 *[CSS]: Cascading Style Sheets
-
-
-#### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-
-#### Strong Tag
-
-This tag shows **bold text**.
-
-#### Buttons
-
-Make any link standout more when applying the `.btn` class. `cool.btn`
-[Link button](https://just-the-docs.com){: .btn }
-
 ---
 ## Citations
 
@@ -117,22 +77,7 @@ The number of the footnote will be automatically generated.<d-footnote>This will
 ## Procedural Generation
 
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-
-Inline `code` has `back-ticks around` it.
 
 
 
