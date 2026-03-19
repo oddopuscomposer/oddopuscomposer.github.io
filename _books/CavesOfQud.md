@@ -9,7 +9,7 @@ categories: game video-game
 tags: roguelike rpg
 started: 2024-08-23
 finished: 2025-11
-released: 2026
+released: 2024
 stars: 4.5
 status: playing
 ---

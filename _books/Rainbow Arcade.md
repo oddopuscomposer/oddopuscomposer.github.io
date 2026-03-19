@@ -3,8 +3,8 @@ layout: book-review
 title: Rainbow Arcade over 30 Years of Queer Video Game History
 author: Adrienne Shaw
 cover: assets/img/book_covers/RainbowArcade.jpg
-olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
-isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
+isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: queer-theory queer-studies
 tags: museum lgbt lgbt-games
 buy_link: 
