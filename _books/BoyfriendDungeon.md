@@ -11,7 +11,7 @@ started: 2025
 finished: 2026
 released: 2021
 stars: 4
-status: Finished
+status: Played
 ---
 
 Boyfriend Dungeon is a fun roguelike dating simulator where you, as a plucky new arrival, start delving dungeon in a modern, if urban, fantasy; set in Verona Beach, California USA. You start to make new friends, despite your cousin's awful attempts to assist, and begin to date around the balmy beach city. Soon, you find out there is an old mall, which serves as a procedural roguelike hub of contemporary enemies made up of animated record players, personified cellphones, and other inanimate animated beasts.
