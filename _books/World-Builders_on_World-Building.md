@@ -11,9 +11,9 @@ buy_link:
 started: 2025-11
 finished: 2026-03
 released: 2020
-stars: 4
+stars: 3.5
 goodreads_review:
-status: reading
+status: Finished
 ---
 
 *[MUD]: Multi User Dungeon
