@@ -8,8 +8,8 @@ isbn: 9781785780721 # use ISBN to fetch cover (if no `olid` is provided, dashes 
 categories: queer-theory
 tags: lgbt queer
 buy_link: 
-started: 2024-08-23
-finished: 2024-09-07
+started: 2026-03
+finished: 2026
 released: 2016
 stars: 
 goodreads_review: 
