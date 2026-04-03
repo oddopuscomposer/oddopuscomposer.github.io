@@ -153,6 +153,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Making_of_Dwarf_Fortress/";
+            },},{id: "books-nethack",
+          title: 'Nethack',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Nethack/";
             },},{id: "books-procedural-generation-in-game-design",
           title: 'Procedural Generation in Game Design',
           description: "",
