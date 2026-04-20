@@ -13,7 +13,7 @@ finished: 2015-10
 released: 2025
 stars: 4.5
 goodreads_review: 
-status: finished
+status: watched
 ---
 
 No Clip makes many wonderful documentary films focused on game development and with this latest 4 part series focusing on the origins to the current state of Dwarf Fortress is a must watch for those in love with roguelikes and simulation or just needing an inspirational game development story. The documentary follows tow from Tarn & Zach Adams in how they created the most complex video game of all time. A project of love and obsession.
