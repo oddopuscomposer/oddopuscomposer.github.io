@@ -93,8 +93,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/BoyfriendDungeon/";
-            },},{id: "books-slay-the-princess",
-          title: 'Slay The Princess',
+            },},{id: "books-cave-story",
+          title: 'Cave Story',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/CaveStoryPlus/";
