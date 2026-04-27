@@ -103,6 +103,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/CavesOfQud/";
+            },},{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/CherryTreeHighComedyClub/";
             },},{id: "books-citizen-sleeper",
           title: 'Citizen Sleeper',
           description: "",
