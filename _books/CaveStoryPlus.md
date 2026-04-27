@@ -1,7 +1,7 @@
 ---
 layout: book-review
-title: Slay The Princess
-author: Developed by Westwood Associates and released by Infocom
+title: Cave Story
+author: Developed by Daisuke "Pixel" Amaya
 cover: assets/img/book_covers/CaveStory.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
