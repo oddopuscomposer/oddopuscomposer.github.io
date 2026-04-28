@@ -103,8 +103,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/CavesOfQud/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-cherry-tree-high-comedy-club",
+          title: 'Cherry Tree High Comedy Club',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/CherryTreeHighComedyClub/";
