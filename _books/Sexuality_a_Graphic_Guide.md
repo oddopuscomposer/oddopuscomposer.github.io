@@ -13,7 +13,7 @@ finished: 2024-09-07
 released: 2021
 stars: 
 goodreads_review:
-status: read
+status: finished
 ---
 
 In the process of reading and taking notes for this work.

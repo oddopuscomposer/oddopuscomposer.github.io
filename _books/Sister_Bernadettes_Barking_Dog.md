@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Sister Bernadette's Barking Dog- The Quirky History and Lost Art of Diagramming Sentences
+title: Sister Bernadette's Barking Dog
 author: Kitty Burns Florey 
 cover: assets/img/book_covers/SisterBernadettes.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
@@ -15,6 +15,7 @@ stars: 3
 goodreads_review: 
 status: finished
 ---
+Sister Bernadette's Barking Dog - The Quirky History and Lost Art of Diagramming Sentences
 
 An enjoyable quick read on the history of sentence diagramming with some amusing autobiographical vignettes and nice perculations on a few prominent writers, and whether their style and skill might have been influenced by the presence (or lack of) sentence diagramming in their youthful educations. I particularly enjoyed some zingers by Gertrude Stein and Henry James, which I shall share below:
 
