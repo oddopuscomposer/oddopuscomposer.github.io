@@ -213,8 +213,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Shifting_Genres_TaxonomyRoguelikes/";
-            },},{id: "books-sister-bernadette-39-s-barking-dog-the-quirky-history-and-lost-art-of-diagramming-sentences",
-          title: 'Sister Bernadette&amp;#39;s Barking Dog- The Quirky History and Lost Art of Diagramming Sentences...',
+            },},{id: "books-sister-bernadette-39-s-barking-dog",
+          title: 'Sister Bernadette&amp;#39;s Barking Dog',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Sister_Bernadettes_Barking_Dog/";
