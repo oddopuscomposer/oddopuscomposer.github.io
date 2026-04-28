@@ -12,7 +12,7 @@ started: 2026-03
 finished: 2026-04
 released: 2022
 stars: 4.5
-status: read
+status: finished
 ---
 
 <b>Quick Synoposis</b>:
