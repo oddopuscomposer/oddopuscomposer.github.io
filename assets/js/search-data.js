@@ -223,6 +223,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/SlayThePrincess/";
+            },},{id: "books-spelunky",
+          title: 'Spelunky',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Splunky/";
             },},{id: "books-the-three-wise-monkeys-of-research-amp-58-epistemology-ontology-methodology",
           title: 'The Three Wise Monkeys of Research&amp;amp;#58; Epistemology, Ontology, Methodology',
           description: "",
