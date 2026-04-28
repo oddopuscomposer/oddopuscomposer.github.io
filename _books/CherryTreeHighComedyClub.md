@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: Cherry Tree High Comedy Club
-author:developed by 773 published by Nyu Media
+author: developed by 773 published by Nyu Media
 cover: assets/img/book_covers/CherryHighComedy.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
