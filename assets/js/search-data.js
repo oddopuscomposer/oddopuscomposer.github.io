@@ -138,8 +138,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/FromASCIIArtToComicSans/";
-            },},{id: "books-qugendereer-amp-58-a-graphic-guide",
-          title: 'QuGendereer&amp;amp;#58; A Graphic Guide',
+            },},{id: "books-gender-amp-58-a-graphic-guide",
+          title: 'Gender&amp;amp;#58; A Graphic Guide',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Gender_a_Graphic_Guide/";
@@ -248,6 +248,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Typewriter_Art/";
+            },},{id: "books-videogame-atlas-amp-58-mapping-interactive-worlds",
+          title: 'Videogame Atlas&amp;amp;#58; Mapping Interactive Worlds',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/VideoGameAtlasMappingInteractiveWorlds/";
             },},{id: "books-world-builders-on-world-building",
           title: 'World-Builders on World-Building',
           description: "",
