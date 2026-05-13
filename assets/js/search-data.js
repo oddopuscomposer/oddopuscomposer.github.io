@@ -83,6 +83,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Arcade%20Game%20Typography/";
+            },},{id: "books-balatro",
+          title: 'Balatro',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Balatro/";
             },},{id: "books-baulder-39-s-gate-3",
           title: 'Baulder&amp;#39;s Gate 3',
           description: "",
@@ -188,6 +193,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Rainbow%20Arcade/";
+            },},{id: "books-rise-of-the-videogame-zinster",
+          title: 'Rise of the Videogame Zinster',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Rise%20of%20the%20Videogame%20Zinster/";
             },},{id: "books-roguelike-radio-episode-83-amp-58-ascii",
           title: 'Roguelike Radio - Episode 83&amp;amp;#58; ASCII',
           description: "",
@@ -243,6 +253,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Thinking%20with%20Type/";
+            },},{id: "books-titanium-court",
+          title: 'Titanium Court',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Titanium_Court/";
             },},{id: "books-the-big-reveal-amp-58-exploring-trans-femininity-in-metroid",
           title: 'The Big Reveal&amp;amp;#58; Exploring Trans Femininity in Metroid',
           description: "",
