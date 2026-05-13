@@ -44,11 +44,14 @@ A Playlist to listen to while you read {<a href="[https://www.w3schools.com/html
 
 #### Take Away & the TL;DR
 
-
-
+Salutations & Hello,<br>
+In this inaugural article, we explore a basic definition and methods of procedural generation, starting off with some simple text engendering, as well as contemplate some tangents into the meaning of names and how they might relate to concepts of queer representation. All this while designing some data pools to craft our own!
+This wandering of tutorial and peculation results in various simple random names, eventually expanding to the more exciting and whimsical by way of honourifics and epithets through the basic coding concept of concatenation, or rather mixing and mashing various words from our pools and banks of data.<br>
+<aside><p>**Concatenation** is a fun coding word to describe combining two or more "strings" or rather pieces of text into one. Such as "foos" + "ball" = "**foosball**".  (╭ರ_•́) It's very in the spirit of the German language (• ᴗ • ᵕ)</p></aside>
 
 The abbreviation CSS stands for "Cascading Style Sheets".
 *[CSS]: Cascading Style Sheets
+
 ---
 ## Citations
 
@@ -90,8 +93,6 @@ Names give weight, they hold legacy and symbolic representation, and roles. Plus
 We know the common aspect of demonology is that knowing the true name of a creature or entity holds some sway of power over them, such as summoning a demon to enact your will. Hidden names and elements of oneself that are feared to be discovered, names more reflected in the formal address we treat as a weakness. It gives pause, emphasis, and direction of the surrounding words.
 "Speak of the devil, and they shall appear". Perhaps this is due to the mathematical logics. Demons fear the memory of their possibility of mortality, that which layered spells make up their essence, which they have traded in and reformed over centuries, like a ship of Theseus. A computer AES256 encryption would require billions of years to brute force no to mention exceptional amount of power and many replications of the strongest computers made, but if you know the key its easy. Also apparently, quantum computers might bea bit of a game changer.
 https://johntscott.com/wp-content/uploads/2019/02/aes.brute_.force_.work_.factor.argument.pdf
-
-<aside><p>“What's in a name? That which we call a rose by any other name would smell as sweet.”</p><p><em> ― William Shakespeare, Romeo and Juliet</em></p></aside>
 
 A true name is the key. The mathematical truism of a being is at risk with their true name leading to their unmaking. Judaism, those who know gods true name would have power over all of the creations, thus the Kabbalah. The Ancient Egyptian Book of the Dead is supposed to host the true names of those you meet in your afterlife as a means of controlling them. In christianity god tells Adam to name the animals, thus deeming their subservience to him. Similarly, Jacob and an angel wrestle in Genesis 32:22-32 (and in Hosea), the angel refuses to tell him their name (That's right, first post and we are already quoting philosophical feminism, paganistic structures, fantastical existentialism, computer nerdery, and the fucking Bible. Goddammit, I don't want to talk about the fucking Bible again). In some societies of Aboriginal Australians names are an extension of their bodies, to the point that when one dies, all those with that name adopt new ones as it is buried.
 
@@ -153,7 +154,9 @@ So there can be fun in authoring a character's sobriquet Scarlet Dewinter, to a 
 
 Nuns all get their Mary name; their second name is preceded by mother. Additionally, in Catholicism, you have popes taking on names, and it is about legacy and building on top of the previous predecessors' vibe of their work or personality. Much like the Roman cognomen surnames durring ancient times.
 
-We, of course, can generate our own theophorics, non-denominational and otherwise, for our zealots and clerics. Beloved of, bestowed by, blessed by, blessing from, is the spirit of, beloved of, eternal dweller of &#123;deity&#125;  splendour of, &#123;deity&#125; faithful to, guided by, handmaid of, protected by, provided by,  warrior of, etc.
+<aside><p>“What's in a name? That which we call a rose by any other name would smell as sweet.”</p><p><em> ― William Shakespeare, Romeo and Juliet</em></p></aside>
+
+We, of course, can generate our own theophorics, non-denominational and otherwise, for our zealots and clerics. Beloved of, bestowed by, blessed by, blessing from, is the spirit of, beloved of, eternal dweller of %deity%   splendour of, %deity% faithful to, guided by, handmaid of, protected by, provided by,  warrior of, etc.
 
 
 {% include figure.liquid loading="eager" path="assets/img/blog_images/ZotePrecept32.png" class="img-fluid rounded z-depth-1" %}
