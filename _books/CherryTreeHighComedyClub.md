@@ -21,3 +21,5 @@ Created by a prodominatly one man team 773 handle “Hizume” CTHCC is quite a 
 Major bonus for the heavy shappic/yuri hints.
 
 (Currently compiling notes)
+
+(*While it's always hard to judge when you have "played" or "experienced" a game, I usually identify if I have beat/reached the end of the game or contributed multiple hours to feel confident in identifying progression, narrative, and mechanical relationships.*)

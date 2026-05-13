@@ -6,7 +6,7 @@ cover: assets/img/book_covers/BoyfriendDungeon.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: game video-game
-tags: rpg
+tags: roguelike dating-simulator
 started: 2025
 finished: 2026
 released: 2021
@@ -24,3 +24,5 @@ The roguelike aspect was a little straightforward, but with a good challenge cur
 Dating-wise, I really appreciate for a game named Boyfriend Dungeon, they have a variety of "dating" options. Though dating is not quite the correct term because while there is a refreshing variety of identities and orientations, there is also a more friendship style al la Spelunky platonics, where you can just hang out with a cat... who can also turn into a weapon. Kitfox Games said they wanted to make the game "as inclusive as possible," which feels quite earnest, as even with the player character, you are able to select from a multitude of pronouns, or even if you are polyamorous.
 
 All in all, great game, love the genre mashing of roguelike and relationship simulator, and the relatively quick pace of events to keep things from feeling stagnant, while the roguelike play adds a much-appreciated element (at least for me) of player agency and skill to dating sims. It feels like a kind way to introduce one genre's fans to another's mechanics, but also something refreshing for the general lover of video games, with the added bonus of a good understanding of relationships, identity, and orientation, which helped it feel like a good attempt at providing options for everyone with decent representation.
+
+(*While it's always hard to judge when you have "played" or "experienced" a game, I usually identify if I have beat/reached the end of the game or contributed multiple hours to feel confident in identifying progression, narrative, and mechanical relationships.*)

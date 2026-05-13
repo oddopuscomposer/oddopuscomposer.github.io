@@ -16,3 +16,6 @@ status: playing
 (Enhanced remake version was released 2012)
 
 I have been trying a few runs of this game every couple of days, much to my partners dismay. While I tend to be fairly decent at games, I am exceptionally bad at this realtime roguelike platformer. When I compile more notes, and actually get past the first world I will report back. But a very creative deviation within traditional roguelike structures.
+
+
+(*While it's always hard to judge when you have "played" or "experienced" a game, I usually identify if I have beat/reached the end of the game or contributed multiple hours to feel confident in identifying progression, narrative, and mechanical relationships.*)

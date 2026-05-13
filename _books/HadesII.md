@@ -19,3 +19,5 @@ A first-time sequel from Supergiant Games, Hades II is everything you might want
 The narrative beats still drip between each run, to which I am delighted with small storylets and mechanical adjustment, despite a good night or a lacklustre one, attempting to find and avenge my family. Even if you are not attempting speedrun challenges and meandering from run to run like me, the game is wonderfully accommodating, consistently story-rich, and mechanically diverse, providing exceptional depth and replayability for what on the surface might seem like a proc-gen hack-and-slash.
 
 What can I say, I am a fan, Hades is such a good game, and this time I get to play a more customisable version as Melinoë, the daughter of Hell? Sign me up.
+
+(*While it's always hard to judge when you have "played" or "experienced" a game, I usually identify if I have beat/reached the end of the game or contributed multiple hours to feel confident in identifying progression, narrative, and mechanical relationships.*)

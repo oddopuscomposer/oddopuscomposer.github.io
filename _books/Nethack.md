@@ -30,3 +30,5 @@ Tried a new game and immediately ran into two succubi, one who became enthralled
 This game rocks, but 9/10 for unrealistic sapphic sex portrayal. Should've been able to survive at least 4 additional times... 🙃
 
 Thus ended my initial gameplay log, as did my characters' le petit mort prior to their big one. But I'll be back to keep trying to get to and retrieve the sacred Amulet of Yonder, and meanwhile, work towards improving my stats for more succubus trysts.
+
+(*While it's always hard to judge when you have "played" or "experienced" a game, I usually identify if I have beat/reached the end of the game or contributed multiple hours to feel confident in identifying progression, narrative, and mechanical relationships.*)

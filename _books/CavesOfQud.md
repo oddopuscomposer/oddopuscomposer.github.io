@@ -15,3 +15,6 @@ status: playing
 ---
 
 Given my interest in roguelikes and that I have read several proc-gen articles by Jason Grinblat, I am excited to try out this apocalyptic sci-fi game. I have given it just a smidge of trying, as is common with the joys of losing a few times to learn the systems in traditional roguelike design, but seem promising in its intricacies.
+
+
+(*While it's always hard to judge when you have "played" or "experienced" a game, I usually identify if I have beat/reached the end of the game or contributed multiple hours to feel confident in identifying progression, narrative, and mechanical relationships.*)
