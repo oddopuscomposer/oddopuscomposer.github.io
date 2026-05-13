@@ -78,6 +78,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/ASCII_Sprites_Symbolic_Graphics/";
+            },},{id: "books-a-dark-room",
+          title: 'A Dark Room',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/A_Dark_Room/";
             },},{id: "books-arcade-game-typography",
           title: 'Arcade Game Typography',
           description: "",
