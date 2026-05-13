@@ -5,7 +5,7 @@ author: Anna Anthropy
 cover: assets/img/book_covers/riseofzinsters.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: queer-theory queer-studies
+categories: video-game queer-studies
 tags: indie-games lgbt lgbt-games
 buy_link: 
 started: 2026
