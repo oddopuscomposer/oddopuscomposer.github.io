@@ -4,14 +4,14 @@ title: Gender&#58; A Graphic Guide
 author: Meg-John Barker & Jules Scheele
 cover: assets/img/book_covers/GenderAGraphicGuide.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
-isbn: 9781785780721 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: queer-theory
 tags: lgbt transgender
 buy_link: 
-started: 2024-08-23
-finished: 2024-09-07
-released: 2016
-stars: 
+started: 2026--05
+finished: 2026-05
+released: 2019
+stars: 3
 goodreads_review: 
 status: reading
 ---
