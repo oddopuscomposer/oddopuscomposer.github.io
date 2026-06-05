@@ -83,6 +83,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/A_Dark_Room/";
+            },},{id: "books-a-theory-of-fun",
+          title: 'A Theory of Fun',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/A_Theory_Of_Fun/";
             },},{id: "books-arcade-game-typography",
           title: 'Arcade Game Typography',
           description: "",
@@ -143,6 +148,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/EndToEndProceduralInCavesOfQud/";
+            },},{id: "books-exploring-roguelieks",
+          title: 'Exploring Roguelieks',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Exploring_Roguelikes/";
             },},{id: "books-from-ascii-art-to-comic-sans",
           title: 'From ASCII Art to Comic Sans',
           description: "",
@@ -163,6 +173,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Haven/";
+            },},{id: "books-how-to-lie-with-maps",
+          title: 'How to Lie with Maps',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/How_To_Lie_With_Maps/";
             },},{id: "books-inkenfell",
           title: 'Inkenfell',
           description: "",
@@ -173,6 +188,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Making_of_Dwarf_Fortress/";
+            },},{id: "books-manifestations-of-queerness-in-video-games",
+          title: 'Manifestations of Queerness In Video Games',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Manifestations_Of_Queerness_In_Video_Games/";
             },},{id: "books-nethack",
           title: 'Nethack',
           description: "",
@@ -268,6 +288,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/TransFemininity_in_Metroid/";
+            },},{id: "books-trans-amp-ast-amp-58-a-quick-and-quirky-account-of-gender-variability",
+          title: 'Trans&amp;amp;ast;&amp;amp;#58; A Quick and Quirky Account of Gender Variability',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Trans_A_Quick_And_Quriky/";
             },},{id: "books-typewriter-art",
           title: 'Typewriter Art',
           description: "",
@@ -278,6 +303,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/VideoGameAtlasMappingInteractiveWorlds/";
+            },},{id: "books-when-monsters-speak",
+          title: 'When Monsters Speak',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/When_Monsters_Speak/";
             },},{id: "books-world-builders-on-world-building",
           title: 'World-Builders on World-Building',
           description: "",
