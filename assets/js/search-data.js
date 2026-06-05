@@ -183,6 +183,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Inkenfell/";
+            },},{id: "books-the-game-narrative-kaleidoscope",
+          title: 'The Game Narrative Kaleidoscope',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Kaleidoscope_The_Game_Narrative/";
             },},{id: "books-the-making-of-dwarf-fortress",
           title: 'The Making of Dwarf Fortress',
           description: "",
