@@ -148,8 +148,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/EndToEndProceduralInCavesOfQud/";
-            },},{id: "books-exploring-roguelieks",
-          title: 'Exploring Roguelieks',
+            },},{id: "books-exploring-roguelikes",
+          title: 'Exploring Roguelikes',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Exploring_Roguelikes/";
