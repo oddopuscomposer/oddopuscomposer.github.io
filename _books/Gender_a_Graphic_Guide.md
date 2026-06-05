@@ -13,7 +13,9 @@ finished: 2026-05
 released: 2019
 stars: 3
 goodreads_review: 
-status: reading
+status: Finished
 ---
 
 Part of the trilogy of Graphic Guides (queer, gender, & sexuality), I had been meaning to start some fun queer theory foundation.
+
+I am compiling my notes, while a lot of good concepts and a well-rounded survey of subjects my main critique is still the author lacks providing direct references and when I conduct further research, their claims often seem quantitatively skewed, which is frustrating because generally I agree with almost everything said, but am frustrated at the lack of academic rigor in their referencing.
