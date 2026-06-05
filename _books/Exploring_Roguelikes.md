@@ -1,8 +1,8 @@
 ---
 layout: book-review
-title: Exploring Roguelieks
+title: Exploring Roguelikes
 author: John William Harris
-cover: assets/img/book_covers/ExploringRoguelikes.png
+cover: assets/img/book_covers/ExploringRoguelikes.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: game-history roguelikes
