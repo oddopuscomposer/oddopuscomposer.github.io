@@ -158,6 +158,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/FromASCIIArtToComicSans/";
+            },},{id: "books-game-magic-amp-58-a-designer-39-s-guide-to-magic-systems-in-theory-and-practice",
+          title: 'Game Magic&amp;amp;#58; A Designer&amp;#39;s Guide to Magic Systems in Theory and Practice',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Game_Magic_Designer/";
             },},{id: "books-gender-amp-58-a-graphic-guide",
           title: 'Gender&amp;amp;#58; A Graphic Guide',
           description: "",
