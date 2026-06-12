@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Trans&ast;&#58; A Quick and Quirky Account of Gender Variability
+title: Trans&#42;&#58; A Quick and Quirky Account of Gender Variability
 author: Jack Halberstam
 cover: assets/img/book_covers/TransQuickQuirky.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
