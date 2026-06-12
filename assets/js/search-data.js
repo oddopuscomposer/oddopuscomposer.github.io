@@ -298,8 +298,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/TransFemininity_in_Metroid/";
-            },},{id: "books-trans-amp-ast-amp-58-a-quick-and-quirky-account-of-gender-variability",
-          title: 'Trans&amp;amp;ast;&amp;amp;#58; A Quick and Quirky Account of Gender Variability',
+            },},{id: "books-trans-amp-42-amp-58-a-quick-and-quirky-account-of-gender-variability",
+          title: 'Trans&amp;amp;#42;&amp;amp;#58; A Quick and Quirky Account of Gender Variability',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Trans_A_Quick_And_Quriky/";
