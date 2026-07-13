@@ -14,7 +14,7 @@ tabs: true
 
 # The only thing needed is for you to set the `citation` key in the front matter to `true` Probably need to move it to the bottom or perhaps a button?
 
-bibliography: Textgenpost1.bib 
+bibliography: 2026-07-12.bib 
 
 #   - make sure that TOC names match the actual section names
 #     for hyperlinks within the post to work correctly.
