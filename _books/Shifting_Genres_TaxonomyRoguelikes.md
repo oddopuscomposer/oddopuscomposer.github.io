@@ -16,4 +16,4 @@ goodreads_review:
 status: finished
 ---
 
-Currently compiling notes, while I appreciate some definitions, I largely disagree as a whole, in an old man yells at cloud sort of way, in their taxonomy of reclassifying roguelikes. I just feel they redefine a genre term focusing on uncondusive aspects.
+Currently compiling notes, while I appreciate some definitions, I largely disagree as a whole, in an old man yells at cloud sort of way, in their taxonomy of reclassifying roguelikes. I just feel they redefine a genre term, focusing on less relevant aspects.

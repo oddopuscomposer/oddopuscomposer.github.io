@@ -13,10 +13,10 @@ finished: 2025
 released: 2018
 stars: 
 goodreads_review: 
-status: queued
+status: finished
 ---
 
-Compiling notes
+*Still compiling notes
 
 Chapter 6 What If Zelda Wasn’t a Girl? Problematizing Ocarina of Time’s Great  Gender Debate  Chris Lawrence
 
