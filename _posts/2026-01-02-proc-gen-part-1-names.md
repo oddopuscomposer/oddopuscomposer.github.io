@@ -4,7 +4,7 @@ title: Procedural Generation of Text Part One Names
 description: procedural generation of names, honorifics, and epithets
 tags: procedural-generation game-studies ludonarrative rust inform7
 categories: Game-Design
-date: 2026-02-02
+date: 2026-07-10
 featured: true
 mermaid:
   enabled: true
@@ -14,7 +14,7 @@ tabs: true
 
 # The only thing needed is for you to set the `citation` key in the front matter to `true` Probably need to move it to the bottom or perhaps a button?
 
-bibliography: 2018-12-22-distill.bib 
+bibliography: 2026-07-12.bib 
 
 #   - make sure that TOC names match the actual section names
 #     for hyperlinks within the post to work correctly.
@@ -40,7 +40,7 @@ toc:
 ## Subject
 
 **Main Topic**: Procedural Generation 101, Name Creation and Myth, Ludonarrative Thoughts, Queer Representation, Rust Tinkering
-A Playlist to listen to while you read {<a href="[https://www.w3schools.com/html/default.asp](https://music.apple.com/us/playlist/blog-post-one-proc-gen-names/pl.u-GgA5zr5CqVRE1)">Apple Music</a>, Qobuz}
+A Playlist to listen to while you read {<a href="https://music.apple.com/us/playlist/blog-post-one-proc-gen-names/pl.u-GgA5zr5CqVRE1" target="_blank">Apple Music</a>, Qobuz}
 
 #### Take Away & the TL;DR
 
@@ -96,7 +96,7 @@ https://johntscott.com/wp-content/uploads/2019/02/aes.brute_.force_.work_.factor
 
 A true name is the key. The mathematical truism of a being is at risk with their true name leading to their unmaking. Judaism, those who know gods true name would have power over all of the creations, thus the Kabbalah. The Ancient Egyptian Book of the Dead is supposed to host the true names of those you meet in your afterlife as a means of controlling them. In christianity god tells Adam to name the animals, thus deeming their subservience to him. Similarly, Jacob and an angel wrestle in Genesis 32:22-32 (and in Hosea), the angel refuses to tell him their name (That's right, first post and we are already quoting philosophical feminism, paganistic structures, fantastical existentialism, computer nerdery, and the fucking Bible. Goddammit, I don't want to talk about the fucking Bible again). In some societies of Aboriginal Australians names are an extension of their bodies, to the point that when one dies, all those with that name adopt new ones as it is buried.
 
-McGrath, P. and Phillips, E. (2008), Australian findings on Aboriginal cultural practices associated with clothing, hair, possessions, and use of name of deceased persons. International Journal of Nursing Practice, 14: 57-66. [https://doi.org/10.1111/j.1440-172X.2007.00667.x](https://doi.org/10.1111/j.1440-172X.2007.00667.x)
+McGrath, P. and Phillips, E. (2008), Australian findings on Aboriginal cultural practices associated with clothing, hair, possessions, and use of name of deceased persons.<d-cite key="<mcgrath2008>"></d-cite>
 
 Naming things and gifting a name, you impose some power. That Time I was Reincarnated as a Slime shows this as average monsters have no name, and when named, they transform into stronger versions of themselves. (An anime is something to legitimately reference, yes?)
 Through identity, we gain meaning, so it is imposed by our parentsto call forth a precursor to reprimands. (Aside) And yes, I am relating anime, the bible, human history, and speculative fiction.
