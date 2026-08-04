@@ -41,28 +41,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/proc-gen-part-1-names/";
           
         },
-      },{id: "post-full-academic-blog-post-options-template",
-        
-          title: "Full Academic Blog Post Options Template",
-        
-        description: "A bunch of useful page tidbits",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/distill-copy/";
-          
-        },
-      },{id: "post-a-post-with-typograms",
-        
-          title: "a post with typograms",
-        
-        description: "this is what included typograms code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/typograms/";
-          
-        },
       },{id: "books-50-years-of-text-games-amp-58-further-explorations",
           title: '50 Years of Text Games&amp;amp;#58; Further Explorations',
           description: "",
