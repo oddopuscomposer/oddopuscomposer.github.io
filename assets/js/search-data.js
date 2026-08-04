@@ -131,8 +131,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Exploring_Roguelikes/";
-            },},{id: "books-cherry-tree-high-comedy-club",
-          title: 'Cherry Tree High Comedy Club',
+            },},{id: "books-fire-emblem-three-houses",
+          title: 'Fire Emblem Three Houses',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/FireEmblemThreeHouses/";
