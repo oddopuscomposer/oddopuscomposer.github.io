@@ -109,7 +109,7 @@ a player infiltrating and discovering culture studying from the inside, gatherin
 - Terry Pratchett</em></p></aside>
 
 Names are how we address each other, how legal agreements are signature, our identity status made official. Plus we totally need a name to properly curse someone.
-<img src="assets/img/blog_images/LighthouseSeaCurse.gi" alt="sea curse in the film The Lighthouse" style="width:200px;height:200px;">
+<img src="/assets/img/blog_images/LighthouseSeaCurse.gi" alt="sea curse in the film The Lighthouse" style="width:200px;height:200px;">
 
 Names can give power and are power. Victor never names his composite creature in the book *Frankenstein* despite its clear dismay and display of considerable humanity, and so Victor never accepts the being to be treated humanely. (Look how that worked out for him, eh?) Victor never truely has power over the creature either, the thing naming is supposed to grant and calls his creation "deamon" (like the Unix system), a likely reference to a walker between heaven and earth - a superhuman of sorts as noted by Charles E. Robinson's 2017 annotated edition of *Frankenstein*.
 
