@@ -49,37 +49,14 @@ In this inaugural article, we explore a basic definition and methods of procedur
 This wandering of tutorial and peculation results in various simple random names, eventually expanding to the more exciting and whimsical by way of honourifics and epithets through the basic coding concept of concatenation, or rather mixing and mashing various words from our pools and banks of data.<br>
 <aside><p>**Concatenation** is a fun coding word to describe combining two or more "strings" or rather pieces of text into one. Such as "foos" + "ball" = "**foosball**".  (╭ರ_•́) It's very in the spirit of the German language (• ᴗ • ᵕ)</p></aside>
 
-The abbreviation CSS stands for "Cascading Style Sheets".
-*[CSS]: Cascading Style Sheets
-
 ---
-## Citations
-
-Citations are then used in the article body with the `<d-cite>` tag.
-The key attribute is a reference to the id provided in the bibliography.
-The key attribute can take multiple ids, separated by commas.
-
-The citation is presented inline like this: <d-cite key="gregor2015draw"></d-cite> (a number that displays more information on hover).
-If you have an appendix, a bibliography is automatically created and populated in it.
-
-Distill chose a numerical inline citation style to improve readability of citation dense articles and because many of the benefits of longer citations are obviated by displaying more information on hover.
-However, we consider it good style to mention author last names if you discuss something at length and it fits into the flow well — the authors are human and it’s nice for them to have the community associate them with their work.
-
-"Code is poetry." ---<cite>Automattic</cite>
-
----
-
-## Footnotes
-
-Just wrap the text you would like to show up in a footnote in a `<d-footnote>` tag.
-The number of the footnote will be automatically generated.<d-footnote>This will become a hoverable footnote.That you can fill with relevence.</d-footnote>
-
----
-
 
 ## Procedural Generation
 
-
+<aside><p>
+The abbreviation LLms stands for "Large Learning Models".<br>
+*[LLMs] Large Learning Models
+</p></aside>
 
 
 
@@ -96,7 +73,7 @@ https://johntscott.com/wp-content/uploads/2019/02/aes.brute_.force_.work_.factor
 
 A true name is the key. The mathematical truism of a being is at risk with their true name leading to their unmaking. Judaism, those who know gods true name would have power over all of the creations, thus the Kabbalah. The Ancient Egyptian Book of the Dead is supposed to host the true names of those you meet in your afterlife as a means of controlling them. In christianity god tells Adam to name the animals, thus deeming their subservience to him. Similarly, Jacob and an angel wrestle in Genesis 32:22-32 (and in Hosea), the angel refuses to tell him their name (That's right, first post and we are already quoting philosophical feminism, paganistic structures, fantastical existentialism, computer nerdery, and the fucking Bible. Goddammit, I don't want to talk about the fucking Bible again). In some societies of Aboriginal Australians names are an extension of their bodies, to the point that when one dies, all those with that name adopt new ones as it is buried.
 
-McGrath, P. and Phillips, E. (2008), Australian findings on Aboriginal cultural practices associated with clothing, hair, possessions, and use of name of deceased persons.<d-cite key="<mcgrath2008>"></d-cite>
+McGrath, P. and Phillips, E. (2008), Australian findings on Aboriginal cultural practices associated with clothing, hair, possessions, and use of name of deceased persons.<d-footnote>McGrath, P., & Phillips, E. (2008). Aboriginal spiritual perspectives: Research finding relevant to end-of-life care. Illness, Crisis, & Loss, 16(2), 153–171. https://doi.org/10.2190/IL.16.2.e.</d-footnote>
 
 Naming things and gifting a name, you impose some power. That Time I was Reincarnated as a Slime shows this as average monsters have no name, and when named, they transform into stronger versions of themselves. (An anime is something to legitimately reference, yes?)
 Through identity, we gain meaning, so it is imposed by our parentsto call forth a precursor to reprimands. (Aside) And yes, I am relating anime, the bible, human history, and speculative fiction.
