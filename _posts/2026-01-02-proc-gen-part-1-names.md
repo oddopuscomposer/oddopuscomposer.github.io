@@ -125,20 +125,28 @@ The first time I played the intricate roguelike *Nethack*, I was spawned with a 
 Titles also hold sway and remembrance through the ages and time. Sometimes, honorifics are not as desired or controlled well by those who earn them. Anyone named Tim the Weak, Sarah Bitchen' Priestess, or Saint Hilarious Gaylord might not be what the individuals where originally hoping for.
 
 ## Reclamation of Identity and Queer Introspection
+This leads me to think about changing or discovering one's name of oneself. An often distinctly queer journey, especially for trans people exploring a more personal reflection of expression, role expectations - how they wish to be seen and addressed. They employ tactics like, during a name search, like going to a coffee slinging houses and testing out pseudonyms via magical barista witches callouts of monikers for you to test your what your spirit answers to.
 
-<aside><p> “All things are defined by names. Change the name, and you change the thing.”</p><p><em>
-― Terry Pratchett, Pyramids</em></p></aside>
-This leads me to think about changing or discovering one's name of oneself. An often queer journey for trans people exploring a more personal reflection of their expression and role expectations. They employ tactics like, during a name search, like going to a coffee slinging houses and testing out pseudonyms via magical barista witches as they supply callouts of monikers for you to test your spirit address.
+Name is recognition, and not having yours used is further social exile.<aside><p> “All things are defined by names. Change the name, and you change the thing.”</p><p><em>
+― Terry Pratchett, *Pyramids*, Part II: THe Book of the Dead, p.110</em></p></aside>
 
-Name is recognition, and not having yours used is further social exile.
+Being named is recognition; not having your name used is a small, ongoing exile. The 2019 D&D *Unearthed Arcana: Cleric, Druid, and Wizard* release puts it well: "Onomancy, or naming magic, is a method of spellcasting that uses a creature's true name to enhance a spell's effects. A true name is the name by which a self-aware creature identifies itself. This name might be the name a person was given at birth, or one a person chose or earned later in life." (p. 4)
+
+<aside><p>Honestly, the three paragraphs on Onomancy in that release are bangers: "Changing one's true name is never a quick choice; it's something that happens over time as a name becomes the creature's truth." (p. 4)</p></aside>
+
+We label ourselves, and we're labeled by others. In the spirit of Halberstam's opening chapter, "What's in a Name" — over my life I've called myself a lesbian, a dyke, queer, trans, a gay misadventurer, a neurotic biohacked futch nerd. I've been called plenty of other things too, from slurs on down.
+
+<aside><p>"Something that is named stands out in the multiverse, distinct from the tapestry of creation all around it." — *Unearthed Arcana: Cleric, Druid, and Wizard*, 2019, p. 4</p></aside>
 
 A lot of non-queer people also look at adjusting an aspect of their name, sharing last names, combining like a captain planet into some truly new hybrid surname. Sometimes a legacy is wished to be carried like a tattoo worn, and in a middle name, a person's previous surname or a family member's forename is held. Changing a name can be a big decision with consequences and many battles with the ghosts and echoes of a past (meme well, of course, I know he's me). 
+<img src="{{'assets/img/blog_images/Obiwan.gif'}}" class="img-fluid rounded z-depth-1" alt="Gif of Frieren showing her mage class necklace from the anime Frieren: Beyond Journey's End" style="float: right; margin-left: 15px; margin-bottom: 10px; width: 268px; height:158px;">
+
 
 While there are a fair few writings on the cleverness of proper naming of characters that instill visualisation and projected investments, the truth is, we often make our names in all their awkwardness. That is more in the spirit of this exercise, while I certainly curated hundreds of name pieces that are of particular interest to my style and lexicon taste, they will still be some dirpy, clumsy, peculiar outcomes, which just means that those individual narratives will have to overcome and embrace their names in all their glory.
 
 <aside><p>“Names are unique sounds and cadences of words that are attached to one specific individual-sort of like a kind of theme music.”</p><p><em>― Jim Butcher, Storm Front</em></p></aside>
 
-I have a friend who is Bobby; his birth certificate is directly Bobby, not Robert, not Bob, not Bobert. Bobby. Which, he insists, as that is the name that he has built upon and is true from all the way down to a formal living papers standpoint. You might think this is not the name for a knight or wizard, but I would say even better. It's more rememberable Bobby the Brave. more remarkable Bobby, High Wizard First Class. <img src="{{'FrierenNecklace.gif'}}" class="img-fluid rounded z-depth-1" alt="Gif of Frieren showing her mage class necklace from the anime Frieren: Beyond Journey's End" style="float: right; margin-left: 15px; margin-bottom: 10px; width: 268px; height:268px;">
+I have a friend who is Bobby; his birth certificate is directly Bobby, not Robert, not Bob, not Bobert. Bobby. Which, he insists, as that is the name that he has built upon and is true from all the way down to a formal living papers standpoint. You might think this is not the name for a knight or wizard, but I would say even better. It's more rememberable Bobby the Brave. more remarkable Bobby, High Wizard First Class. <img src="{{'assets/img/blog_images/FrierenNecklace.gif'}}" class="img-fluid rounded z-depth-1" alt="Gif of Frieren showing her mage class necklace from the anime Frieren: Beyond Journey's End" style="float: left; margin-right: 15px; margin-bottom: 10px; width: 268px; height:268px;">
  More stark, Bobby the Dark Necromancer of the Unknown Tundra. And certainly speaks to a certain world-building, Bobby, Vampire Slayer - here to fix your Miskatonic quandaries. This is all starting to feel a little over the top, so I'll move on.
 
 If allowed in the temporal diegesis of the world, any name can become impactful, even more so if innocuous. We can only slightly try to mould our addresses through nicknames in the hope of forming a barrier to our names (barrier is a powerful shielding spell), a larger bubble in which we reside that shields some of us in an unknown but often taken on a life that is greater than our birth names.
@@ -254,11 +262,8 @@ fn main() {
 Here is the web player of the rust code in action that you can run yourselfs!
  
 ## Another example
-
-
 Behold our beautiful cynosure!
 Now that we have our result, what can we deduce from it? Do we like it? What should we tweak? Obviously, a few more brute force tests might reveal more of the underlying patterns and help us form stronger opinions of likes/dislikes, pros/cons, and further developmental inklings.
-
 
 We can perhaps reverse some aspects in a kind of tmesis, interjecting some additional epithets.
 (code)
