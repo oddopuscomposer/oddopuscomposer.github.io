@@ -99,10 +99,9 @@ In his essay *The Place of Culture, Society, and Politics in Video Game World-Bu
 
 <aside><p>Once you gave a thing a name, you gave it life</p><p><em>
 - Terry Pratchett</em></p></aside>
-
 <p>
-{% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="img-fluid rounded z-depth-1" %}
-  <img src="assets/img/blog_images/LighthouseSeaCurse.gif" alt="Sea curse scene from the film The Lighthouse" style="float: left; margin-right: 15px; margin-bottom: 10px; width: 200px;">
+{% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded z-depth-1" max-width="220px" title="Sea curse scene from the film The Lighthouse" %}
+
 Names are how we address each other, how legal agreements are signature, our identity status made official. Plus we totally need a name to properly curse someone.<br>
 Names can give power and are power. Victor never names his composite creature in the book *Frankenstein* despite its clear dismay and display of considerable humanity, and so Victor never accepts the being to be treated humanely. (Look how that worked out for him, eh?) Victor never truly has power over the creature either, the thing naming is supposed to grant and calls his creation "deamon" (like the Unix system), a likely reference to a walker between heaven and earth - a superhuman of sorts as noted by Charles E. Robinson's 2017 annotated edition of *Frankenstein*.
 </p>
