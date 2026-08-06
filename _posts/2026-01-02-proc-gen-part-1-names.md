@@ -161,11 +161,8 @@ Nuns all get their Mary name; their second name is preceded by mother. Additiona
 
 We, of course, can generate our own theophorics, non-denominational and otherwise, for our zealots and clerics. Beloved of, bestowed by, blessed by, blessing from, is the spirit of, beloved of, eternal dweller of %deity% splendour of, %deity% faithful to, guided by, handmaid of, protected by, provided by,  warrior of, etc.
 
-{% include figure.liquid loading="eager" path="assets/img/blog_images/ZotePrecept32.png" class="img-fluid rounded z-depth-1" %}
-<em>32	Precept Thirty-Two: 'Names Have Power'.<br>
-Names have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own!*
-<em>*- Zote the Mighty (Hollow Knight)*</em>
-
+{% include figure.liquid loading="eager" path="assets/img/blog_images/ZotePrecept32.png" class="img-fluid rounded z-depth-1" %} <aside><p><em>	Precept Thirty-Two: 'Names Have Power'.<br>Names have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own!*
+</p><p>- Zote the Mighty (Hollow Knight)*</em></p></aside>
 
 # Code Experience
 But we are also putting the code in a details drop down!
@@ -1072,10 +1069,7 @@ Here we've added a 25% chance for a name to generate an epithet and or honorific
 
 
 ## Conclusion
-
 ### Key Insights and Improvements to Impliment
-
-#### Improvements to Implement
 How can we continue to improve to what we want, perhaps any further challenges we would like to overcome?
 
 I suppose we could head deeper into this system, building out some hypocorisms based on the forenames or their surname attributes, or just general diminutive familiar pet names for when relevant other NPCs refer to others whom they are familiar with.
