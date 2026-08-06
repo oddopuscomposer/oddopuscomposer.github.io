@@ -53,12 +53,6 @@ Along the way we'll build our own data pools to generate names, from simple rand
 ---
 
 ## Procedural Generation
-
-<aside><p>
-The abbreviation LLms stands for "Large Learning Models".<br>
-*[LLMs] Large Learning Models
-</p></aside>
-
 Procedural Generation describes the content created by an algorithm during the runtime of a program:a game world manifested through automated, parameterised systems, whose emergent results dependin part on the player’s own tendency toward apophenia, (the human tendency to perceive patterns and form reason and narrative related to technically unrelated data), around the permutations.
 <aside><p> A runtime could also be an analog operation of a board game, too, so proc-gen doesn't just exist in the digital realm!</p></aside>
 Dr. Mark R. Johnson, sole designer of the Roguelike Ultima Ratio Regium, defines procedural contentgeneration as "the writing of algorithms and systems which – within boundaries set by the designer – are unpredictable and can create in-game content which cannot be predicted until its creation."<d-footnote>Johnson, Mark R. _The Unpredictability of Gameplay_. Bloomsbury Academic, 2018, https://doi.org/10.5040/9781501321597.</d-footnote>
@@ -66,6 +60,7 @@ Dr. Mark R. Johnson, sole designer of the Roguelike Ultima Ratio Regium, defines
 Proc-gen is most often used to increase replay value and data scalability; a generative system might construct anything from a sentence to a full-level terrain layout, or event sequence, and is frequently combined with static design. For example, randomising the presence or placement of fixed entities like treasure or monsters on an otherwise authored map
 
 It’s worth distinguishing this, for the purpose of this research, from the current, much broader if chic and diluted, terminology of artificial intelligence (AI), a nominal abbreviation often synonymous with internet scraping, data infringement, and creativity decay attributed to some Large Language Models (LLMs) within the field of Machine Learning. What’s more, LLMs write their own rules, many of which we cannot see. Procedural content and generation for this research is concerned with hand-authored, designer-built rule systems and data that manifest systems of interactive emergence. 
+<aside><p>The abbreviation LLms stands for "Large Learning Models".</p><p>*[LLMs] Large Learning Models</p></aside>
 
 Handcrafted content still matters in a procedurally generated world, placed deliberately to carry narrative or guide navigational flow. As former Interplay and Obsidian Entertainment lead designerChris Avellone notes, this is a delicate process, requiring balancing so that no results overshadow each other, too much repetition risks what Dr. Kate Compton has called "10,000 bowls of oatmeal" problem - technically distinct but uniform in uninteresting results and uniquely bland. While too much variation risks the opposite problem of potential analysis paralysis of so many unique options and information that it feels hopeless or unprocessable.<d-footnote>Short, Tanya X., and Tarn Adams. Procedural Storytelling in Game Design. Edited by Tanya X. Short and Tarn Adams, Second edition., Routledge, 2018,</d-footnote>
  
@@ -74,7 +69,7 @@ The result of a procedurally generated world can typically be traced back to a s
 Due to the sheer multitudinous possibilities, procedural generation can also be notoriously fickle when testing. The potential results often being exceptionally greater than what can actually be reviewed so despite the mashing of the run key every few seconds to see what it does any longer form narrative consequences and world of systems, there is no really a practical way for us as the creators to get eyes on all the results even if were to dedicate their whole life to examining one main output from a proc-gen system.
 <aside><p>Note: a 52 deck of playing cards has more shuffling outcomes than molecules in the Milky Way... (52 factorial) 8.0658175e+67</p></aside>
 
-Procedural generation, in short, is a matter of control and intent. We can make things impactful and interesting. Temporing various algorithms and pseudorandom systems in combination with player agency makes each playthrough distinct without becoming meaningless. 
+Procedural generation, in short, is a matter of control and intent. We can make things impactful and interesting. Temporing various algorithms and pseudorandom systems in combination with player agency makes each playthrough distinct without becoming meaningless. 
 
 This is the main heart, appeal, and joy of procedural generation. There is no canonical world; it is different for each playthrough. Even as a game developer, you get to be surprised and delighted by the emergence of your creation, a personal terrarium for you or the players’ exploration.
 
@@ -83,7 +78,7 @@ This is the main heart, appeal, and joy of procedural generation. There is no ca
 
 What's in a name and Why names? Setting aside that names are a conveniently managable strings which work well to start generating and building and generating our textual world and lore.
 
-Names carry weight. They hold legacy, symbolic representation, and roles. Plus, they are a fun and friendly introduction to building textual readouts in code. Names often hold the importance of knowing or understanding the nature of something or someone. As protagonist Kothe  learns from his teacher Elodin, in *Name of the Wind*, "names have power, words have power...But a word is nothing but a painting of a fire. A name is the fire itself... a subject's true name as being comprised of everything that has gone into its shaping since its creation."<d-footnote>Rothfuss, Patrick. The Name of the Wind. DAW Books, 2007.</d-footnote>
+Names carry weight. They hold legacy, symbolic representation, and roles. Plus, they are a fun and friendly introduction to building textual readouts in code. Names often hold the importance of knowing or understanding the nature of something or someone. As protagonist Kothe learns from his teacher Elodin, in *Name of the Wind*, "names have power, words have power...But a word is nothing but a painting of a fire. A name is the fire itself... a subject's true name as being comprised of everything that has gone into its shaping since its creation."<d-footnote>Rothfuss, Patrick. The Name of the Wind. DAW Books, 2007.</d-footnote>
 
 We know the common aspect of demonology is that knowing the true name of a creature or entity holds some sway of power over them, such as summoning a demon to enact your will. Hidden names and elements of oneself that are feared to be discovered, names more reflected in the formal address we treat as a weakness. It gives pause, emphasis, and direction of the surrounding words.
 
@@ -92,36 +87,31 @@ We know the common aspect of demonology is that knowing the true name of a creat
 
 A true name is the key. The mathematical truism of a being is at risk with their true name being known leading to their unmaking. Judaism, those who know gods true name would have power over all of the creations, thus the Kabbalah. The Ancient Egyptian Book of the Dead is supposed to host the true names of those you meet in your afterlife as a means of controlling them. In christianity's Genesis, god tells Adam to name the animals, extablishing their subservience to him, while later when Jacob and an angel wrestle (Genesis 32:22-32 and in Hosea), the angel refuses to tell him their name. <aside><p>That's right, first post and we are already quoting philosophical feminism, paganistic structures, fantastical existentialism, computer nerdery, and the fucking Bible. Goddammit, I don't want to talk about the fucking Bible again</p></aside> In some societies of Aboriginal Australians names are an extension of their bodies, to the point that when one dies, all those with that name adopt new ones as it is buried.<d-footnote>McGrath, P. and Phillips, E. (2008), "Australian findings on Aboriginal cultural practices associated with clothing, hair, possessions, and use of name of deceased persons." *International Journal of Nursing Practice*, 14: 57-66. [https://doi.org/10.1111/j.1440-172X.2007.00667.x](https://doi.org/10.1111/j.1440-172X.2007.00667.x)</d-footnote>
 
-<aside><p>"fragmentary ancient magical text called the Chaldean Oracles of Zoroaster: “Change not the barbarous Names of Evocation for there are sacred Names in every language which are given by God, having in the Sacred Rites a Power Ineffable” (Westcott 57)."<br> -*Game Magic: A Designers Guide to magics systems and practice* p. 210</p></aside>
+<aside><p>"fragmentary ancient magical text called the Chaldean Oracles of Zoroaster: “Change not the barbarous Names of Evocation for there are sacred Names in every language which are given by God, having in the Sacred Rites a Power Ineffable” (Westcott 57)." -*Game Magic: A Designers Guide to magics systems and practice* p. 210</p></aside>
 
 To name something or someone, the act of giving a name, is to impose some power. The anime *That Time I was Reincarnated as a Slime* shows this as average monsters have no name, but when named, they transform into stronger versions of themselves.
 <aside>An anime is something to legitimately reference, yes?</aside>
 Through identity, we gain meaning, which is why the names our parents imposed on us doubels as a summon for repremands.
 <aside>And yes, I am relating anime, the bible, human history, and speculative fiction.</aside>
 
-In his essay *The Place of Culture, Society, and Politics in Video Game World-Building*, Mark R. Johnson discusses many elements of his culture and world generator, Ultima Ratio Regum <aside> Ultima Ratio Regum is Latin for "the last argument of kings"</aside>he talks about his system for generating names as one of the many ways to distinguish the permutated cultures. "*The game has around 50 archetypes of names, but then each archetype can either be altered randomly, or altered according to the rest of the game world, drawing on ideas like animals or plants to create a set of possible names. Once again, when the player learns a style of naming, they should be able to identify the origin of another character and then make informed choices on the back of that information."*. This connects to a core aspect of the game is a Nikki Lee
-<aside>Nikki Lee is a fine art photographer known to document her time assimilating into unusual subcategories of culture around race, age, music, professions I studied in undergrad who stuck with me. Check out her amazing 2001 work *Nikki S. Lee: Projects*. Also, tangent, but if you want to know my goto favorite photography is the work by Shana & Robert ParkeHarrison -check out their amazing book: *The Brothers Architect* or *Counterpoint*</aside>
-
-a player infiltrating and discovering culture studying from the inside, gathering deeper insight and learning the the structures and unwritten rules enough to pass. This may also resonate on a personal, lower level to a very real of sometime the subculture rullesets that people might not be familiar with masking and mimicking elements to fit in.
+In his essay *The Place of Culture, Society, and Politics in Video Game World-Building*, Mark R. Johnson discusses many elements of his culture and world generator, Ultima Ratio Regum <aside> Ultima Ratio Regum is Latin for "the last argument of kings"</aside>he talks about his system for generating names as one of the many ways to distinguish the permutated cultures. "*The game has around 50 archetypes of names, but then each archetype can either be altered randomly, or altered according to the rest of the game world, drawing on ideas like animals or plants to create a set of possible names. Once again, when the player learns a style of naming, they should be able to identify the origin of another character and then make informed choices on the back of that information."*. This connects to a core aspect of the game is a Nikki Lee <aside><p>Nikki Lee is a fine art photographer known to document her time assimilating into unusual subcategories of culture around race, age, music, professions I studied in undergrad who stuck with me. Check out her amazing 2001 work *Nikki S. Lee: Projects*. Also, tangent, but if you want to know my goto favorite photography is the work by Shana & Robert ParkeHarrison -check out their amazing book: *The Brothers Architect* or *Counterpoint*</p></aside>a player infiltrating and discovering culture studying from the inside, gathering deeper insight and learning the the structures and unwritten rules enough to pass. This may also resonate on a personal, lower level to a very real of sometime the subculture rullesets that people might not be familiar with masking and mimicking elements to fit in.
 
 
 <aside><p>Once you gave a thing a name, you gave it life</p><p><em>
 - Terry Pratchett</em></p></aside>
 
 <p>
-  <img src="/assets/img/blog_images/LighthouseSeaCurse.gi" alt="sea curse in the film The Lighthouse" style="float: left; margin-right: 15px; margin-bottom: 10px; width: 200px; height:200px;">
+{% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="img-fluid rounded z-depth-1" %}
+  <img src="assets/img/blog_images/LighthouseSeaCurse.gif" alt="sea curse in the film The Lighthouse" style="float: left; margin-right: 15px; margin-bottom: 10px; width: 268px; height:268px;">
 Names are how we address each other, how legal agreements are signature, our identity status made official. Plus we totally need a name to properly curse someone.<br>
 Names can give power and are power. Victor never names his composite creature in the book *Frankenstein* despite its clear dismay and display of considerable humanity, and so Victor never accepts the being to be treated humanely. (Look how that worked out for him, eh?) Victor never truely has power over the creature either, the thing naming is supposed to grant and calls his creation "deamon" (like the Unix system), a likely reference to a walker between heaven and earth - a superhuman of sorts as noted by Charles E. Robinson's 2017 annotated edition of *Frankenstein*.
 </p>
 
 Many procedural games do the same thing: naming a generated monster "the Butcher" instead of leaving it as "imp #4" to give it weight and projected meaning. the point is we need to be calling things more than just monster, especially those of noted quality. Diablo, PrincessRL and many games with procedural element name a procedural being to give emphasis and denote power, that these entities are of importance and worth consideration before approach.
-
-<aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who *do* things.”</p><p><em>
-― Ray Bradbury, *The October Country*</em></p></aside>
-
+<aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who *do* things.”</p><p><em>― Ray Bradbury, *The October Country*</em></p></aside>
 Names are what are called forth from parents and loved ones for aknolwdgement or admonition, In a formal setting, its whats transcribed on degrees, decrees, and identification. They are what we obscure when we do not want to be found, what we shed when starting over. Titles and honourifics, work like level ups; earned through deeds, collected achivements, while small community nicknames only used by a faction of few indicate a private in group. Its the foundational semiotics to encapsulate an entity, naming through taxonomy, but with exveptional potential uniqueness.
 
-World Builder author Mark J. P. Wolf writing on subcreation and invented languages, notes that a name "has the potential to cast a new light on the things it names, by emphasizing certain aspects about them or relating them to each in new ways through linguistic similarities" enven if, naming is a compparatively shallow acr od invntion compared to an entire language. Still a name projects to the world what something is.
+World Builder author Mark J. P. Wolf writing on subcreation and invented languages, notes that a name "has the potential to cast a new light on the things it names, by emphasizing certain aspects about them or relating them to each in new ways through linguistic similarities" even if, naming is a compparatively shallow acr od invntion compared to an entire language. Still a name projects to the world what something is.
 
 <aside><p>"Names should always have resonance, but they are given by others" - Dirk Krecker (fine artist, quote from *Typewriter Art* pg 127)</p></aside>
 
@@ -132,15 +122,12 @@ In Pokémon *nuzlocke* challanges, a self imposed gameplay based on player const
 The first time I played the intricate roguelike *Nethack*, I was spawned with a pet cat and immediately had to look up the hash command to name them (Figmus). I spent the rest of my short run, doomed run guniunly worried about my cats well being, at one point chasing her down a traped door she fell through. Not just an emergent-narrative anecdote; but naming her contributed to the made connection to this clumsy, endearing creature real in the first place.
 
 <aside><p>At the risk of over-quoting Terry Pratchett: this reminds me of *Good Omens*, where the (mildly antagonistic) Adam names his dog "Dog." Adam still adores that dog completely — the name is tautological, but the identity it points to is real.</p></aside>
-
 Titles also hold sway and remembrance through the ages and time. Sometimes, honourifics are not as desired or controlled well by those who earn them. Anyone named Tim the Weak, Sarah Bitchen' Preastess, or Saint Halarious Gaylord might not be what the individuals where originally hoping for.
 
 ## Reclamation of Identity and Queer Introspection
 
 <aside><p> “All things are defined by names. Change the name, and you change the thing.”</p><p><em>
 ― Terry Pratchett, Pyramids</em></p></aside>
-
-
 This leads me to think about changing or discovering one's name of oneself. An often queer journey for trans people exploring a more personal reflection of their expression and role expectations. They employ tactices like, during a name search, like going to a coffee slinging houses and testing out pseudonyms via magical barista witches as they supply callouts of monikers for you to test your spirit address.
 
 Name is recognition, and not having yours used is further social exile.
@@ -149,16 +136,13 @@ A lot of non-queer people also look at adjusting an aspect of their name, sharin
 
 While there are a fair few writings on the cleverness of proper naming of characters that instill visualisation and projected investments, the truth is, we often make our names in all their awkwardness. That is more in the spirit of this exercise, while I certainly curated hundreds of name pieces that are of particular interest to my style and lexicon taste, they will still be some dirpy, clumsy, peculiar outcomes, which just means that those individual narratives will have to overcome and embrace their names in all their glory.
 
-<aside><p>“Names are unique sounds and cadences of words that are attached to one specific individual-sort of like a kind of theme music.”</p><p><em>
-― Jim Butcher, Storm Front</em></p></aside>
-
+<aside><p>“Names are unique sounds and cadences of words that are attached to one specific individual-sort of like a kind of theme music.”</p><p><em>― Jim Butcher, Storm Front</em></p></aside>
 
 I have a friend who is Bobby; his birth certificate is directly Bobby, not Robert, not Bob, not Bobert. Bobby. Which, he insists, as that is the name that he has built upon and is true from all the way down to a formal living papers standpoint. You might think this is not the name for a knight or wizard, but I would say even better. It's more rememberable Bobby the Brave. more remarkable Bobby, High Wizard First Class (freren 1st class meme). More stark, Bobby the Dark Necromancer of the Unknown Tundra. And certainly speaks to a certain world-building, Bobby, Vampire Slayer - here to fix your Miskatonic quandaries. This is all starting to feel a little over the top, so I'll move on.
 
 If allowed in the temporal diegesis of the world, any name can become impactful, even more so if innocuous. We can only slightly try to mould our addresses through nicknames in the hope of forming a barrier to our names (barrier is a powerful shielding spell), a larger bubble in which we reside that shields some of us in an unknown but often taken on a life that is greater than our birth names.
 
-<aside><p>
-“It ain't what they call you, it's what you answer to.”</p><p><em> 
+<aside><p>“It ain't what they call you, it's what you answer to.”</p><p><em> 
 ― W.C. Fields</em></p></aside>
 
 When choosing a name, we get the unprecedented option to make our names mean something to ourselves or in the greater context of our culture or world. When we have a name we are granted, we can only shape it through our actions, luck, and projected perceptions. It's a rare empowering moment of self-actualization manifested from introspection.
@@ -176,14 +160,11 @@ Nuns all get their Mary name; their second name is preceded by mother. Additiona
 
 We, of course, can generate our own theophorics, non-denominational and otherwise, for our zealots and clerics. Beloved of, bestowed by, blessed by, blessing from, is the spirit of, beloved of, eternal dweller of %deity%   splendour of, %deity% faithful to, guided by, handmaid of, protected by, provided by,  warrior of, etc.
 
-
 {% include figure.liquid loading="eager" path="assets/img/blog_images/ZotePrecept32.png" class="img-fluid rounded z-depth-1" %}
 <em>32	Precept Thirty-Two: 'Names Have Power'.<br>
 Names have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own!*
 <em>*- Zote the Mighty (Hollow Knight)*</em>
 
-Heck, those who dabble in programming have many inside jokes about the challenges of naming conventions, especially when creating their variables.
-Its true names are powerful; an honorific like doctor or man of science calls for an elevated position of gained skill and knowledge. An epithet like of the queen's jeweled dagger or her of a thousand screams throws the weight of association behind the individual.
 
 # Code Experiements
 But we are also putting the code in a details drop down!
@@ -665,8 +646,10 @@ fn main() {
 #### Fine Tuning Robustness & Optimisation 
 Make some adjustments, quantize that bias.
 
-
 Let's improve this and muddle as well as we provide a plethora, or as my one of my favorite wonky mathematicians, to hear stories of Paul Erdős would say "copious quantities", which we tried to implement in part by including his surname for our data set so now our little monster can get to work generating many names of a more unique nature.
+
+Heck, those who dabble in programming have many inside jokes about the challenges of naming conventions, especially when creating their variables.
+Its true names are powerful; an honorific like doctor or man of science calls for an elevated position of gained skill and knowledge. An epithet like of the queen's jeweled dagger or her of a thousand screams throws the weight of association behind the individual.
 
 <aside><p>My brain is open - Paul Erdős</p></aside>
 
