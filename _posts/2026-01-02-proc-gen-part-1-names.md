@@ -102,7 +102,7 @@ In his essay *The Place of Culture, Society, and Politics in Video Game World-Bu
 
 <p>
 {% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="img-fluid rounded z-depth-1" %}
-  <img src="assets/img/blog_images/LighthouseSeaCurse.gif" alt="Sea curse scene from the film The Lighthouse" style="float: left; margin-right: 15px; margin-bottom: 10px; width: 200px; height:200px;">
+  <img src="assets/img/blog_images/LighthouseSeaCurse.gif" alt="Sea curse scene from the film The Lighthouse" style="float: left; margin-right: 15px; margin-bottom: 10px; width: 200px;">
 Names are how we address each other, how legal agreements are signature, our identity status made official. Plus we totally need a name to properly curse someone.<br>
 Names can give power and are power. Victor never names his composite creature in the book *Frankenstein* despite its clear dismay and display of considerable humanity, and so Victor never accepts the being to be treated humanely. (Look how that worked out for him, eh?) Victor never truly has power over the creature either, the thing naming is supposed to grant and calls his creation "deamon" (like the Unix system), a likely reference to a walker between heaven and earth - a superhuman of sorts as noted by Charles E. Robinson's 2017 annotated edition of *Frankenstein*.
 </p>
@@ -169,8 +169,10 @@ Nuns all get their Mary name; their second name is preceded by mother. Additiona
 
 We, of course, can generate our own theophorics, non-denominational and otherwise, for our zealots and clerics. Beloved of, bestowed by, blessed by, blessing from, is the spirit of, beloved of, eternal dweller of %deity% splendour of, %deity% faithful to, guided by, handmaid of, protected by, provided by,  warrior of, etc.
 
-{% include figure.liquid loading="eager" path="assets/img/blog_images/ZotePrecept32.png" class="img-fluid rounded z-depth-1" %} <aside><p><em>	Precept Thirty-Two: 'Names Have Power'.<br>Names have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own!*
+{% include figure.liquid loading="eager" path="assets/img/blog_images/ZotePrecept32.png" class="img-fluid rounded z-depth-1" %}
+<aside><p><em>	Precept Thirty-Two: 'Names Have Power'.<br>Names have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own!*
 </p><p>- Zote the Mighty (Hollow Knight)*</em></p></aside>
+
 
 # Code Experience
 But we are also putting the code in a details drop down!
