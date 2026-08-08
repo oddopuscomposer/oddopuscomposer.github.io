@@ -99,7 +99,7 @@ In his essay *The Place of Culture, Society, and Politics in Video Game World-Bu
 <p>
 <div class="row mt-2">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded z-depth-1" max-width="220px" title="Sea curse scene from the film The Lighthouse" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded z-depth-1" max-width="326px" title="Sea curse scene from the film The Lighthouse" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
     Names are how we address each other, how legal agreements are signature, our identity status made official. Plus we totally need a name to properly curse someone.<br>
@@ -131,9 +131,9 @@ Titles also hold sway and remembrance through the ages and time. Sometimes, hono
 ## Reclamation of Identity and Queer Introspection
 This leads me to think about changing or discovering one's name of oneself. An often distinctly queer journey, especially for trans people exploring a more personal reflection of expression, role expectations - how they wish to be seen and addressed. They employ tactics like, during a name search, like going to a coffee slinging houses and testing out pseudonyms via magical barista witches callouts of monikers for you to test your what your spirit answers to.
 
-Name is recognition, and not having yours used is further social exile.<aside><p> “All things are defined by names. Change the name, and you change the thing.”</p><p><em>
+Name is recognition, and not having yours used is further social exile.
+<aside><p> “All things are defined by names. Change the name, and you change the thing.”<em>
 ― Terry Pratchett, *Pyramids*, Part II: THe Book of the Dead, p.110</em></p></aside>
-
 Being named is recognition; not having your name used is a small, ongoing exile. The 2019 D&D *Unearthed Arcana: Cleric, Druid, and Wizard* release puts it well: "Onomancy, or naming magic, is a method of spellcasting that uses a creature's true name to enhance a spell's effects. A true name is the name by which a self-aware creature identifies itself. This name might be the name a person was given at birth, or one a person chose or earned later in life." (p. 4)
 
 <aside><p>Honestly, the three paragraphs on Onomancy in that release are bangers: "Changing one's true name is never a quick choice; it's something that happens over time as a name becomes the creature's truth." (p. 4)</p></aside>
