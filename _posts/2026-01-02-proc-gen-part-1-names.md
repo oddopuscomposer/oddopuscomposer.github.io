@@ -73,6 +73,7 @@ Procedural generation, in short, is a matter of control and intent. We can
 
 This is the main heart, appeal, and joy of procedural generation. There is no canonical world; it is different for each playthrough. Even as a game developer, you get to be surprised and delighted by the emergence of your creation, a personal terrarium for you or the players’ exploration.
 
+<img src="{{'assets/img/blog_images/Obiwan.gif'}}" class="rounded z-depth-1" alt="Gif of Obiwan saying of course I know him. He's me." style="float: right; margin-left: 15px; margin-bottom: 10px; width: 268px; height:158px;">
 
 ## Names?
 
@@ -94,18 +95,21 @@ To name something or someone, the act of giving a name, is to impose some power.
 Through identity, we gain meaning, which is why the names our parents imposed on us doubles as a summon for reprimands.
 <aside>And yes, I am relating anime, the bible, human history, and speculative fiction.</aside>
 
-In his essay *The Place of Culture, Society, and Politics in Video Game World-Building*, Mark R. Johnson discusses many elements of his culture and world generator, Ultima Ratio Regum <aside> Ultima Ratio Regum is Latin for "the last argument of kings"</aside>he talks about his system for generating names as one of the many ways to distinguish the permutated cultures. "*The game has around 50 archetypes of names, but then each archetype can either be altered randomly, or altered according to the rest of the game world, drawing on ideas like animals or plants to create a set of possible names. Once again, when the player learns a style of naming, they should be able to identify the origin of another character and then make informed choices on the back of that information."*. This connects to a core aspect of the game is a Nikki Lee <aside><p>Nikki Lee is a fine art photographer known to document her time assimilating into unusual subcategories of culture around race, age, music, professions I studied in undergrad who stuck with me. Check out her amazing 2001 work *Nikki S. Lee: Projects*. Also, tangent, but if you want to know my goto favorite photography is the work by Shana & Robert ParkeHarrison -check out their amazing book: *The Brothers Architect* or *Counterpoint*</p></aside>a player infiltrating and discovering culture studying from the inside, gathering deeper insight and learning the the structures and unwritten rules enough to pass. This may also resonate on a personal, lower level to a very real of sometime the subculture rulesets that people might not be familiar with masking and mimicking elements to fit in.
-
+In his essay *The Place of Culture, Society, and Politics in Video Game World-Building*, Mark R. Johnson discusses many elements of his culture and world generator, Ultima Ratio Regum he talks about his system for generating names as one of the many ways to distinguish the permutated cultures. "*The game has around 50 archetypes of names, but then each archetype can either be altered randomly, or altered according to the rest of the game world, drawing on ideas like animals or plants to create a set of possible names. <aside> Ultima Ratio Regum is Latin for "the last argument of kings"</aside>Once again, when the player learns a style of naming, they should be able to identify the origin of another character and then make informed choices on the back of that information."*. This connects to a core aspect of the game is a Nikki Lee a player infiltrating and discovering culture studying from the inside, gathering deeper insight and learning the the structures and unwritten rules enough to pass. <aside><p>Nikki Lee is a fine art photographer known to document her time assimilating into unusual subcategories of culture around race, age, music, professions I studied in undergrad who stuck with me. Check out her amazing 2001 work *Nikki S. Lee: Projects*. Also, tangent, but if you want to know my goto favorite photography is the work by Shana & Robert ParkeHarrison -check out their amazing book: *The Brothers Architect* or *Counterpoint*</p></aside>This may also resonate on a personal, lower level to a very real of sometime the subculture rulesets that people might not be familiar with masking and mimicking elements to fit in.
+<p>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded z-depth-1" max-width="220px" title="Sea curse scene from the film The Lighthouse" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    Names are how we address each other, how legal agreements are signature, our identity status made official. Plus we totally need a name to properly curse someone.<br>
+    Names can give power and are power. Victor never names his composite creature in the book *Frankenstein* despite its clear dismay and display of considerable humanity, and so Victor never accepts the being to be treated humanely. (Look how that worked out for him, eh?) Victor never truly has power over the creature either, the thing naming is supposed to grant and calls his creation "deamon" (like the Unix system), a likely reference to a walker between heaven and earth - a superhuman of sorts as noted by Charles E. Robinson's 2017 annotated edition of *Frankenstein*.
+    </div>
+</div>
+</p>
 
 <aside><p>Once you gave a thing a name, you gave it life</p><p><em>
 - Terry Pratchett</em></p></aside>
-<p>
-{% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded z-depth-1" max-width="268px" title="Sea curse scene from the film The Lighthouse" %}
-
-Names are how we address each other, how legal agreements are signature, our identity status made official. Plus we totally need a name to properly curse someone.<br>
-Names can give power and are power. Victor never names his composite creature in the book *Frankenstein* despite its clear dismay and display of considerable humanity, and so Victor never accepts the being to be treated humanely. (Look how that worked out for him, eh?) Victor never truly has power over the creature either, the thing naming is supposed to grant and calls his creation "deamon" (like the Unix system), a likely reference to a walker between heaven and earth - a superhuman of sorts as noted by Charles E. Robinson's 2017 annotated edition of *Frankenstein*.
-</p>
-
 Many procedural games do the same thing: naming a generated monster "the Butcher" instead of leaving it as "imp #4" to give it weight and projected meaning. the point is we need to be calling things more than just monster, especially those of noted quality. Diablo, PrincessRL and many games with procedural element name a procedural being to give emphasis and denote power, that these entities are of importance and worth consideration before approach.
 <aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who *do* things.”</p><p><em>― Ray Bradbury, *The October Country*</em></p></aside>
 Names are what are called forth from parents and loved ones for acknowledgement or admonition, In a formal setting, its whats transcribed on degrees, decrees, and identification. They are what we obscure when we do not want to be found, what we shed when starting over. Titles and honorifics, work like level ups; earned through deeds, collected achievements, while small community nicknames only used by a faction of few indicate a private in group. Its the foundational semiotics to encapsulate an entity, naming through taxonomy, but with exceptional potential uniqueness.
@@ -139,29 +143,14 @@ We label ourselves, and we're labeled by others. In the spirit of Halberstam's o
 <p>
 A lot of non-queer people also look at adjusting an aspect of their name, sharing last names, combining like a captain planet into some truly new hybrid surname. Sometimes a legacy is wished to be carried like a tattoo worn, and in a middle name, a person's previous surname or a family member's forename is held. Changing a name can be a big decision with consequences and many battles with the ghosts and echoes of a past 
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded z-depth-1" max-width="220px" title="Sea curse scene from the film The Lighthouse" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        Just a ton of text do al la do la do agsagasg asgadsgsdg 
-        sdfgsdfgsdfg 
-        sgfsdfgsfdgsdfhsdfhsdfhfdsh sdfg sfdg sdg f
-        sdfg sdfg 
-        sdfgfsdh hsfdhs hrhet ber
-        jjgg
-    </div>
-</div>
 
-{% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded z-depth-1" max-width="220px" title="Sea curse scene from the film The Lighthouse" %}
-<img src="{{'assets/img/blog_images/Obiwan.gif'}}" class="img-fluid rounded z-depth-1" alt="Gif of Obiwan saying of course I know him. He's me." style="float: right; margin-left: 15px; margin-bottom: 10px; width: 268px; height:158px;">
 </p>
 While there are a fair few writings on the cleverness of proper naming of characters that instill visualisation and projected investments, the truth is, we often make our names in all their awkwardness. That is more in the spirit of this exercise, while I certainly curated hundreds of name pieces that are of particular interest to my style and lexicon taste, they will still be some dirpy, clumsy, peculiar outcomes, which just means that those individual narratives will have to overcome and embrace their names in all their glory.
 
 <aside><p>“Names are unique sounds and cadences of words that are attached to one specific individual-sort of like a kind of theme music.”</p><p><em>― Jim Butcher, Storm Front</em></p></aside>
 <p>
 I have a friend who is Bobby; his birth certificate is directly Bobby, not Robert, not Bob, not Bobert. Bobby. Which, he insists, as that is the name that he has built upon and is true from all the way down to a formal living papers standpoint. You might think this is not the name for a knight or wizard, but I would say even better. It's more rememberable Bobby the Brave. more remarkable Bobby, High Wizard First Class. <img src="{{'assets/img/blog_images/FrierenNecklace.gif'}}" class="img-fluid rounded z-depth-1" alt="Gif of Frieren showing her mage class necklace from the anime Frieren: Beyond Journey's End" style="float: left; margin-right: 15px; margin-bottom: 10px; width: 268px; height:268px;">
-{% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded z-depth-1" max-width="220px" title="Sea curse scene from the film The Lighthouse" %}
+{% include figure.liquid loading="eager" path="assets/img/blog_images/FrierenNecklace.gif" class="float-left img-fluid rounded z-depth-1" max-width="256px" title="Gif of Frieren showing her mage class necklace from the anime Frieren: Beyond Journey's End" %}
 
  More stark, Bobby the Dark Necromancer of the Unknown Tundra. And certainly speaks to a certain world-building, Bobby, Vampire Slayer - here to fix your Miskatonic quandaries. This is all starting to feel a little over the top, so I'll move on.
 </p>
@@ -169,7 +158,6 @@ If allowed in the temporal diegesis of the world, any name can become impactful,
 
 <aside><p>“It ain't what they call you, it's what you answer to.”</p><p><em> 
 ― W.C. Fields</em></p></aside>
-<img src="assets/img/blog_images/Obiwan.gif" width="268px" style="float: left; margin-right: 15px; margin-bottom: 10px;" alt="Animated GIF Test" />
 
 When choosing a name, we get the unprecedented option to make our names mean something to ourselves or in the greater context of our culture or world. When we have a name we are granted, we can only shape it through our actions, luck, and projected perceptions. It's a rare empowering moment of self-actualization manifested from introspection.
 
