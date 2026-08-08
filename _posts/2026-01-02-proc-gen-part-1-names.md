@@ -149,7 +149,10 @@ While there are a fair few writings on the cleverness of proper naming of charac
 
 <aside><p>“Names are unique sounds and cadences of words that are attached to one specific individual-sort of like a kind of theme music.”</p><p><em>― Jim Butcher, Storm Front</em></p></aside>
 <p>
-I have a friend who is Bobby; his birth certificate is directly Bobby, not Robert, not Bob, not Bobert. Bobby. Which, he insists, as that is the name that he has built upon and is true from all the way down to a formal living papers standpoint. You might think this is not the name for a knight or wizard, but I would say even better. It's more rememberable Bobby the Brave. more remarkable Bobby, High Wizard First Class. <img src="{{'assets/img/blog_images/FrierenNecklace.gif'}}" class="img-fluid rounded z-depth-1" alt="Gif of Frieren showing her mage class necklace from the anime Frieren: Beyond Journey's End" style="float: left; margin-right: 15px; margin-bottom: 10px; width: 268px; height:268px;">
+I have a friend who is Bobby; his birth certificate is directly Bobby, not Robert, not Bob, not Bobert. Bobby. Which, he insists, as that is the name that he has built upon and is true from all the way down to a formal living papers standpoint. You might think this is not the name for a knight or wizard, but I would say even better. It's more rememberable Bobby the Brave. more remarkable Bobby, High Wizard First Class. <img src="{{'assets/img/blog_images/FrierenNecklace.gif'}}" alt="Gif of Frieren showing her mage class necklace from the anime Frieren: Beyond Journey's End" style="float: left; margin-right: 15px; margin-bottom: 10px; width: 268px; height:268px;">
+
+Placeholder text between.
+
 {% include figure.liquid loading="eager" path="assets/img/blog_images/FrierenNecklace.gif" class="float-left img-fluid rounded z-depth-1" max-width="256px" title="Gif of Frieren showing her mage class necklace from the anime Frieren: Beyond Journey's End" %}
 
  More stark, Bobby the Dark Necromancer of the Unknown Tundra. And certainly speaks to a certain world-building, Bobby, Vampire Slayer - here to fix your Miskatonic quandaries. This is all starting to feel a little over the top, so I'll move on.
