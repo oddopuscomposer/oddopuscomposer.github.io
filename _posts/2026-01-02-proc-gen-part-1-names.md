@@ -100,7 +100,7 @@ In his essay *The Place of Culture, Society, and Politics in Video Game World-Bu
 <aside><p>Once you gave a thing a name, you gave it life</p><p><em>
 - Terry Pratchett</em></p></aside>
 <p>
-{% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded z-depth-1" max-width="220px" title="Sea curse scene from the film The Lighthouse" %}
+{% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded z-depth-1" max-width="268px" title="Sea curse scene from the film The Lighthouse" %}
 
 Names are how we address each other, how legal agreements are signature, our identity status made official. Plus we totally need a name to properly curse someone.<br>
 Names can give power and are power. Victor never names his composite creature in the book *Frankenstein* despite its clear dismay and display of considerable humanity, and so Victor never accepts the being to be treated humanely. (Look how that worked out for him, eh?) Victor never truly has power over the creature either, the thing naming is supposed to grant and calls his creation "deamon" (like the Unix system), a likely reference to a walker between heaven and earth - a superhuman of sorts as noted by Charles E. Robinson's 2017 annotated edition of *Frankenstein*.
@@ -138,6 +138,22 @@ We label ourselves, and we're labeled by others. In the spirit of Halberstam's o
 <aside><p>"Something that is named stands out in the multiverse, distinct from the tapestry of creation all around it." — *Unearthed Arcana: Cleric, Druid, and Wizard*, 2019, p. 4</p></aside>
 <p>
 A lot of non-queer people also look at adjusting an aspect of their name, sharing last names, combining like a captain planet into some truly new hybrid surname. Sometimes a legacy is wished to be carried like a tattoo worn, and in a middle name, a person's previous surname or a family member's forename is held. Changing a name can be a big decision with consequences and many battles with the ghosts and echoes of a past 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded z-depth-1" max-width="220px" title="Sea curse scene from the film The Lighthouse" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        Just a ton of text do al la do la do agsagasg asgadsgsdg 
+        sdfgsdfgsdfg 
+        sgfsdfgsfdgsdfhsdfhsdfhfdsh sdfg sfdg sdg f
+        sdfg sdfg 
+        sdfgfsdh hsfdhs hrhet ber
+        jjgg
+    </div>
+</div>
+
+{% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded z-depth-1" max-width="220px" title="Sea curse scene from the film The Lighthouse" %}
 <img src="{{'assets/img/blog_images/Obiwan.gif'}}" class="img-fluid rounded z-depth-1" alt="Gif of Obiwan saying of course I know him. He's me." style="float: right; margin-left: 15px; margin-bottom: 10px; width: 268px; height:158px;">
 </p>
 While there are a fair few writings on the cleverness of proper naming of characters that instill visualisation and projected investments, the truth is, we often make our names in all their awkwardness. That is more in the spirit of this exercise, while I certainly curated hundreds of name pieces that are of particular interest to my style and lexicon taste, they will still be some dirpy, clumsy, peculiar outcomes, which just means that those individual narratives will have to overcome and embrace their names in all their glory.
@@ -145,6 +161,8 @@ While there are a fair few writings on the cleverness of proper naming of charac
 <aside><p>“Names are unique sounds and cadences of words that are attached to one specific individual-sort of like a kind of theme music.”</p><p><em>― Jim Butcher, Storm Front</em></p></aside>
 <p>
 I have a friend who is Bobby; his birth certificate is directly Bobby, not Robert, not Bob, not Bobert. Bobby. Which, he insists, as that is the name that he has built upon and is true from all the way down to a formal living papers standpoint. You might think this is not the name for a knight or wizard, but I would say even better. It's more rememberable Bobby the Brave. more remarkable Bobby, High Wizard First Class. <img src="{{'assets/img/blog_images/FrierenNecklace.gif'}}" class="img-fluid rounded z-depth-1" alt="Gif of Frieren showing her mage class necklace from the anime Frieren: Beyond Journey's End" style="float: left; margin-right: 15px; margin-bottom: 10px; width: 268px; height:268px;">
+{% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded z-depth-1" max-width="220px" title="Sea curse scene from the film The Lighthouse" %}
+
  More stark, Bobby the Dark Necromancer of the Unknown Tundra. And certainly speaks to a certain world-building, Bobby, Vampire Slayer - here to fix your Miskatonic quandaries. This is all starting to feel a little over the top, so I'll move on.
 </p>
 If allowed in the temporal diegesis of the world, any name can become impactful, even more so if innocuous. We can only slightly try to mould our addresses through nicknames in the hope of forming a barrier to our names (barrier is a powerful shielding spell), a larger bubble in which we reside that shields some of us in an unknown but often taken on a life that is greater than our birth names.
