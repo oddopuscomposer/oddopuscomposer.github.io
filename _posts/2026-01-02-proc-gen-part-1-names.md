@@ -48,7 +48,7 @@ Salutations & Hello,<br>
 In this inaugural article, we explore a basic definition and methods of procedural generation, starting off with some simple text engendering, as well as wander into tangents on the meaning of names and contemplate how naming relates to queer representation.
 Along the way we'll build our own data pools to generate names, from simple random pairs until we expand to exciting whimsical honorifics and epithets, using the basic coding concept of concatenations: mixing and matching words from banks a of data.<br>
 
-<aside><p>**Concatenation** is a fun coding word to describe combining two or more "strings" or rather pieces of text into one. Such as "foos" + "ball" = "**foosball**".  (╭ರ_•́) It's very in the spirit of the German language (• ᴗ • ᵕ)</p></aside>
+<aside><p>**Concatenation** is a fun coding word to describe combining two or more "strings" or rather pieces of text into one. Such as "foos" + "ball" = "**foosball**".  (╭ರ_•́) Very in the spirit of the German language (• ᴗ • ᵕ)</p></aside>
 
 ---
 
@@ -91,14 +91,11 @@ We know the common aspect of demonology is that knowing the true name of a creat
 "Speak of the devil, and they shall appear". Perhaps this is due to some king of mathematical logics. Demons fear the memory of their possibility of mortality, the layered spells which make up their essence, they have traded in and reformed over centuries, like a ship of Theseus.<d-footnote>https://johntscott.com/wp-content/uploads/2019/02/aes.brute_.force_.work_.factor.argument.pdf</d-footnote>
 
 <aside><p>A modern computer AES-256 encryption would require billions of years to brute force, not to mention exceptional amount of power required and many replications of the strongest computers currently made. - But if you know the key its easy. Also apparently, quantum computers might bea bit of a game changer.</p></aside>
-
 A true name is the key. The mathematical truism of a being is at risk with their true name being known leading to their unmaking. Judaism, those who know gods true name would have power over all of the creations, thus the Kabbalah. The Ancient Egyptian Book of the Dead is supposed to host the true names of those you meet in your afterlife as a means of controlling them. In christianity's Genesis, god tells Adam to name the animals, establishing their subservience to him, while later when Jacob and an angel wrestle (Genesis 32:22-32 and in Hosea), the angel refuses to tell him their name.
 
 <aside><p>That's right, first post and we are already quoting philosophical feminism, paganistic structures, fantastical existentialism, computer nerdery, and the fucking Bible. Goddammit, I don't want to talk about the fucking Bible again</p></aside>
 
 In some societies of Aboriginal Australians names are an extension of their bodies, to the point that when one dies, all those with that name adopt new ones as it is buried.<d-footnote>McGrath, P. and Phillips, E. (2008), "Australian findings on Aboriginal cultural practices associated with clothing, hair, possessions, and use of name of deceased persons." *International Journal of Nursing Practice*, 14: 57-66. [https://doi.org/10.1111/j.1440-172X.2007.00667.x](https://doi.org/10.1111/j.1440-172X.2007.00667.x)</d-footnote>
-
-<aside><p>"fragmentary ancient magical text called the Chaldean Oracles of Zoroaster: “Change not the barbarous Names of Evocation for there are sacred Names in every language which are given by God, having in the Sacred Rites a Power Ineffable” (Westcott 57)." -*Game Magic: A Designers Guide to magics systems and practice* p. 210</p></aside>
 
 To name something or someone, the act of giving a name, is to impose some power. The anime *That Time I was Reincarnated as a Slime* shows this as average monsters have no name, but when named, they transform into stronger versions of themselves.
 
@@ -120,11 +117,10 @@ This may also resonate on a personal, lower level to a very real of sometime the
 <p>
 <div class="row mt-2">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded z-depth-1" max-width="268px" title="Sea curse scene from the film The Lighthouse" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded" max-width="268px" title="Sea curse scene from the film The Lighthouse" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
-    Names are how we address each other, how legal agreements are signature, our identity status made official. Plus we totally need a name to properly curse someone.<br>
-    Names can give power and are power. Victor never names his composite creature in the book *Frankenstein* despite its clear dismay and display of considerable humanity, and so Victor never accepts the being to be treated humanely. 
+    Names are how we address each other, how legal agreements are signature, our identity status made official. Plus we totally need a name to properly curse someone. Names can give power and are power. Victor never names his composite creature in the book *Frankenstein* despite its clear dismay and display of considerable humanity, and so Victor never accepts the being to be treated humanely. 
     </div>
 </div>
 </p>
@@ -133,8 +129,7 @@ This may also resonate on a personal, lower level to a very real of sometime the
 <aside><p>Once you gave a thing a name, you gave it life</p><p><em>
 - Terry Pratchett</em></p></aside>
 Many procedural games do the same thing: naming a generated monster "the Butcher" instead of leaving it as "imp #4" to give it weight and projected meaning. the point is we need to be calling things more than just monster, especially those of noted quality. Diablo, PrincessRL and many games with procedural element name a procedural being to give emphasis and denote power, that these entities are of importance and worth consideration before approach.
-<aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who *do* things.”</p><p><em>― Ray Bradbury, *The October Country*</em></p></aside>
-Names are what are called forth from parents and loved ones for acknowledgement or admonition, In a formal setting, its whats transcribed on degrees, decrees, and identification. They are what we obscure when we do not want to be found, what we shed when starting over. Titles and honorifics, work like level ups; earned through deeds, collected achievements, while small community nicknames only used by a faction of few indicate a private in group. Its the foundational semiotics to encapsulate an entity, naming through taxonomy, but with exceptional potential uniqueness.
+<aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who *do* things.”</p><p><em>― Ray Bradbury, *The October Country*</em></p></aside>Names are what are called forth from parents and loved ones for acknowledgement or admonition, In a formal setting, its whats transcribed on degrees, decrees, and identification. They are what we obscure when we do not want to be found, what we shed when starting over. Titles and honorifics, work like level ups; earned through deeds, collected achievements, while small community nicknames only used by a faction of few indicate a private in group. Its the foundational semiotics to encapsulate an entity, naming through taxonomy, but with exceptional potential uniqueness.
 
 World Builder author Mark J. P. Wolf writing on subcreation and invented languages, notes that a name "has the potential to cast a new light on the things it names, by emphasizing certain aspects about them or relating them to each in new ways through linguistic similarities" even if, naming is a comparatively shallow act of invention compared to an entire language. Still a name projects to the world what something is.
 
@@ -154,8 +149,7 @@ This leads me to think about changing or discovering one's name of oneself. An o
 
 Name is recognition, and not having yours used is further social exile.
 <aside><p> “All things are defined by names. Change the name, and you change the thing.”<em>
-― Terry Pratchett, *Pyramids*, Part II: THe Book of the Dead, p.110</em></p></aside>
-Being named is recognition; not having your name used is a small, ongoing exile. The 2019 D&D *Unearthed Arcana: Cleric, Druid, and Wizard* release puts it well: "Onomancy, or naming magic, is a method of spellcasting that uses a creature's true name to enhance a spell's effects. A true name is the name by which a self-aware creature identifies itself. This name might be the name a person was given at birth, or one a person chose or earned later in life." (p. 4)
+― Terry Pratchett, *Pyramids*, Part II: THe Book of the Dead, p.110</em></p></aside> Being named is recognition; not having your name used is a small, ongoing exile. The 2019 D&D *Unearthed Arcana: Cleric, Druid, and Wizard* release puts it well: "Onomancy, or naming magic, is a method of spellcasting that uses a creature's true name to enhance a spell's effects. A true name is the name by which a self-aware creature identifies itself. This name might be the name a person was given at birth, or one a person chose or earned later in life." (p. 4)
 
 <aside><p>Honestly, the three paragraphs on Onomancy in that release are bangers: "Changing one's true name is never a quick choice; it's something that happens over time as a name becomes the creature's truth." (p. 4)</p></aside>
 
@@ -164,9 +158,8 @@ We label ourselves, and we're labeled by others. In the spirit of Halberstam's o
 <aside><p>"Something that is named stands out in the multiverse, distinct from the tapestry of creation all around it." — *Unearthed Arcana: Cleric, Druid, and Wizard*, 2019, p. 4</p></aside>
 <p>
 A lot of non-queer people also look at adjusting an aspect of their name, sharing last names, combining like a captain planet into some truly new hybrid surname. Sometimes a legacy is wished to be carried like a tattoo worn, and in a middle name, a person's previous surname or a family member's forename is held. Changing a name can be a big decision with consequences and many battles with the ghosts and echoes of a past 
-
-
 </p>
+
 While there are a fair few writings on the cleverness of proper naming of characters that instill visualisation and projected investments, the truth is, we often make our names in all their awkwardness. That is more in the spirit of this exercise, while I certainly curated hundreds of name pieces that are of particular interest to my style and lexicon taste, they will still be some dirpy, clumsy, peculiar outcomes, which just means that those individual narratives will have to overcome and embrace their names in all their glory.
 
 <aside><p>“Names are unique sounds and cadences of words that are attached to one specific individual-sort of like a kind of theme music.”</p><p><em>― Jim Butcher, Storm Front</em></p></aside>
@@ -182,27 +175,27 @@ I have a friend who is Bobby; his birth certificate is directly Bobby, not Rober
 </p>
 If allowed in the temporal diegesis of the world, any name can become impactful, even more so if innocuous. We can only slightly try to mould our addresses through nicknames in the hope of forming a barrier to our names (barrier is a powerful shielding spell), a larger bubble in which we reside that shields some of us in an unknown but often taken on a life that is greater than our birth names.
 
-<aside><p>“It ain't what they call you, it's what you answer to.”</p><p><em> 
+<aside><p>“It ain't what they call you, it's what you answer to.”<em> 
 ― W.C. Fields</em></p></aside>
 
 When choosing a name, we get the unprecedented option to make our names mean something to ourselves or in the greater context of our culture or world. When we have a name we are granted, we can only shape it through our actions, luck, and projected perceptions. It's a rare empowering moment of self-actualization manifested from introspection.
 
-<aside><p>Life ain't easy for a boy named Sue</p><p><em> - Johnny Cash - A boy named Sue</em></p><p>
+<aside><p>Life ain't easy for a boy named Sue<em> - Johnny Cash - A boy named Sue</em>
 (Accidental trans man anthem?)</p></aside>
 
 So there can be fun in authoring a character's sobriquet Scarlet Dewinter, to a personality of bubbly ray of helpful sunshine. It might not reflect traits or heritage/status (unless we get a bit meta and say winter is a prominent place in the fantasy world this character's from, and if perhaps the trait is rebelling against their name to be spiffily optimistic and energised)
 
 Nuns all get their Mary name; their second name is preceded by mother. Additionally, in Catholicism, you have popes taking on names, and it is about legacy and building on top of the previous predecessors' vibe of their work or personality. Much like the Roman cognomen surnames during ancient times.
 
-<aside><p>“What's in a name? That which we call a rose by any other name would smell as sweet.”</p><p><em> ― William Shakespeare, Romeo and Juliet</em></p></aside>
+<aside><p>“What's in a name? That which we call a rose by any other name would smell as sweet.”<em> ― William Shakespeare, Romeo and Juliet</em></p></aside>
 
 Nuns all get their Mary name; their second name is preceded by mother. Additionally, in Catholicism, you have popes taking on names, and it is about legacy and building on top of the previous predecessors' vibe of their work or personality. Much like the Roman cognomen surnames during ancient times.
 
 We, of course, can generate our own theophorics, non-denominational and otherwise, for our zealots and clerics. Beloved of, bestowed by, blessed by, blessing from, is the spirit of, beloved of, eternal dweller of %deity% splendour of, %deity% faithful to, guided by, handmaid of, protected by, provided by,  warrior of, etc.
 
 {% include figure.liquid loading="eager" path="assets/img/blog_images/ZotePrecept32.png" class="img-fluid rounded z-depth-1" %}
-<aside><p> Precept Thirty-Two: 'Names Have Power'.<br>Names have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own!</em></p><p><em>- Zote the Mighty (Hollow Knight)*</em></p></aside>
 
+<aside><p> Precept Thirty-Two: 'Names Have Power'.<br>Names have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own!<em>- Zote the Mighty (Hollow Knight)*</em></p></aside>
 
 # Code Experience
 But we are also putting the code in a details drop down!
@@ -679,6 +672,7 @@ fn main() {
 {% enddetails %}
 
 #### Fine Tuning Robustness & Optimisation 
+
 Make some adjustments, quantize that bias.
 
 Let's improve this and muddle as well as we provide a plethora, or as my one of my favorite wonky mathematicians, to hear stories of Paul Erdős would say "copious quantities", which we tried to implement in part by including his surname for our data set so now our little monster can get to work generating many names of a more unique nature.
@@ -697,6 +691,7 @@ Here are some of my favorite results so far:
 
 
 Long name with honorifics and double epithets:
+
 **Madam Wendy Redbells the Dark Tyrant of the Deep Mauw, Adept of the Queens Shadow**
 
 | Honorific | Firstname | Surname1 | Surname2 | Filler | Descriptor | Reputation | Filler | Descriptor | Place | Class | Filler | Leader | Noun   |
@@ -1106,7 +1101,9 @@ Here we've added a 25% chance for a name to generate an epithet and or honorific
 
 
 ## Conclusion
+
 ### Key Insights and Improvements to Impliment
+
 How can we continue to improve to what we want, perhaps any further challenges we would like to overcome?
 
 I suppose we could head deeper into this system, building out some hypocorisms based on the forenames or their surname attributes, or just general diminutive familiar pet names for when relevant other NPCs refer to others whom they are familiar with.
