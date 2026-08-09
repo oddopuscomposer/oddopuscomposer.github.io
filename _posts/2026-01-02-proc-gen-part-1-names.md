@@ -69,11 +69,16 @@ The result of a procedurally generated world can typically be traced back to a s
 Due to the sheer multitudinous possibilities, procedural generation can also be notoriously fickle when testing. The potential results often being exceptionally greater than what can actually be reviewed so despite the mashing of the run key every few seconds to see what it does any longer form narrative consequences and world of systems, there is no really a practical way for us as the creators to get eyes on all the results even if were to dedicate their whole life to examining one main output from a proc-gen system.
 <aside><p>Note: a 52 deck of playing cards has more shuffling outcomes than molecules in the Milky Way... (52 factorial) 8.0658175e+67</p></aside>
 
-Procedural generation, in short, is a matter of control and intent. We can make things impactful and interesting. Temporing various algorithms and pseudorandom systems in combination with player agency makes each playthrough distinct without becoming meaningless. 
+Procedural generation, in short, is a matter of control and intent. We can make things impactful and interesting. Temporing various algorithms and pseudorandom systems in combination with player agency makes each playthrough distinct without becoming meaningless.
 
-This is the main heart, appeal, and joy of procedural generation. There is no canonical world; it is different for each playthrough. Even as a game developer, you get to be surprised and delighted by the emergence of your creation, a personal terrarium for you or the players’ exploration.
-
-<img src="{{'assets/img/blog_images/Obiwan.gif'}}" class="rounded z-depth-1" alt="Gif of Obiwan saying of course I know him. He's me." style="float: right; margin-left: 15px; margin-bottom: 10px; width: 268px; height:158px;">
+<div class="row mt-2">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/Obiwan.gif" class="float-right img-fluid rounded z-depth-1" max-width="268px" title="Gif of Obiwan saying of course I know him. He's me." %}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+  This is the main heart, appeal, and joy of procedural generation. There is no canonical world; it is different for each playthrough. Even as a game developer, you get to be surprised and delighted by the emergence of your creation, a personal terrarium for you or the players’ exploration.
+    </div>
+</div>
 
 ## Names?
 
@@ -84,22 +89,38 @@ Names carry weight. They hold legacy, symbolic representation, and roles. Plus, 
 We know the common aspect of demonology is that knowing the true name of a creature or entity holds some sway of power over them, such as summoning a demon to enact your will. Hidden names and elements of oneself that are feared to be discovered, names more reflected in the formal address we treat as a weakness. It gives pause, emphasis, and direction of the surrounding words.
 
 "Speak of the devil, and they shall appear". Perhaps this is due to some king of mathematical logics. Demons fear the memory of their possibility of mortality, the layered spells which make up their essence, they have traded in and reformed over centuries, like a ship of Theseus.<d-footnote>https://johntscott.com/wp-content/uploads/2019/02/aes.brute_.force_.work_.factor.argument.pdf</d-footnote>
+
 <aside><p>A modern computer AES-256 encryption would require billions of years to brute force, not to mention exceptional amount of power required and many replications of the strongest computers currently made. - But if you know the key its easy. Also apparently, quantum computers might bea bit of a game changer.</p></aside>
 
-A true name is the key. The mathematical truism of a being is at risk with their true name being known leading to their unmaking. Judaism, those who know gods true name would have power over all of the creations, thus the Kabbalah. The Ancient Egyptian Book of the Dead is supposed to host the true names of those you meet in your afterlife as a means of controlling them. In christianity's Genesis, god tells Adam to name the animals, establishing their subservience to him, while later when Jacob and an angel wrestle (Genesis 32:22-32 and in Hosea), the angel refuses to tell him their name. <aside><p>That's right, first post and we are already quoting philosophical feminism, paganistic structures, fantastical existentialism, computer nerdery, and the fucking Bible. Goddammit, I don't want to talk about the fucking Bible again</p></aside> In some societies of Aboriginal Australians names are an extension of their bodies, to the point that when one dies, all those with that name adopt new ones as it is buried.<d-footnote>McGrath, P. and Phillips, E. (2008), "Australian findings on Aboriginal cultural practices associated with clothing, hair, possessions, and use of name of deceased persons." *International Journal of Nursing Practice*, 14: 57-66. [https://doi.org/10.1111/j.1440-172X.2007.00667.x](https://doi.org/10.1111/j.1440-172X.2007.00667.x)</d-footnote>
+A true name is the key. The mathematical truism of a being is at risk with their true name being known leading to their unmaking. Judaism, those who know gods true name would have power over all of the creations, thus the Kabbalah. The Ancient Egyptian Book of the Dead is supposed to host the true names of those you meet in your afterlife as a means of controlling them. In christianity's Genesis, god tells Adam to name the animals, establishing their subservience to him, while later when Jacob and an angel wrestle (Genesis 32:22-32 and in Hosea), the angel refuses to tell him their name.
+
+<aside><p>That's right, first post and we are already quoting philosophical feminism, paganistic structures, fantastical existentialism, computer nerdery, and the fucking Bible. Goddammit, I don't want to talk about the fucking Bible again</p></aside>
+
+In some societies of Aboriginal Australians names are an extension of their bodies, to the point that when one dies, all those with that name adopt new ones as it is buried.<d-footnote>McGrath, P. and Phillips, E. (2008), "Australian findings on Aboriginal cultural practices associated with clothing, hair, possessions, and use of name of deceased persons." *International Journal of Nursing Practice*, 14: 57-66. [https://doi.org/10.1111/j.1440-172X.2007.00667.x](https://doi.org/10.1111/j.1440-172X.2007.00667.x)</d-footnote>
 
 <aside><p>"fragmentary ancient magical text called the Chaldean Oracles of Zoroaster: “Change not the barbarous Names of Evocation for there are sacred Names in every language which are given by God, having in the Sacred Rites a Power Ineffable” (Westcott 57)." -*Game Magic: A Designers Guide to magics systems and practice* p. 210</p></aside>
 
 To name something or someone, the act of giving a name, is to impose some power. The anime *That Time I was Reincarnated as a Slime* shows this as average monsters have no name, but when named, they transform into stronger versions of themselves.
+
 <aside><p>An anime is something to legitimately reference, yes?</p></aside>
+
 Through identity, we gain meaning, which is why the names our parents imposed on us doubles as a summon for reprimands.
+
 <aside><p>And yes, I am relating anime, the bible, human history, and speculative fiction.</p></aside>
 
-In his essay *The Place of Culture, Society, and Politics in Video Game World-Building*, Mark R. Johnson discusses many elements of his culture and world generator, Ultima Ratio Regum he talks about his system for generating names as one of the many ways to distinguish the permutated cultures. "*The game has around 50 archetypes of names, but then each archetype can either be altered randomly, or altered according to the rest of the game world, drawing on ideas like animals or plants to create a set of possible names. <aside> Ultima Ratio Regum is Latin for "the last argument of kings"</aside>Once again, when the player learns a style of naming, they should be able to identify the origin of another character and then make informed choices on the back of that information."*. This connects to a core aspect of the game is a Nikki Lee a player infiltrating and discovering culture studying from the inside, gathering deeper insight and learning the the structures and unwritten rules enough to pass. <aside><p>Nikki Lee is a fine art photographer known to document her time assimilating into unusual subcategories of culture around race, age, music, professions I studied in undergrad who stuck with me. Check out her amazing 2001 work *Nikki S. Lee: Projects*. Also, tangent, but if you want to know my goto favorite photography is the work by Shana & Robert ParkeHarrison -check out their amazing book: *The Brothers Architect* or *Counterpoint*</p></aside>This may also resonate on a personal, lower level to a very real of sometime the subculture rulesets that people might not be familiar with masking and mimicking elements to fit in.
+In his essay *The Place of Culture, Society, and Politics in Video Game World-Building*, Mark R. Johnson discusses many elements of his culture and world generator, Ultima Ratio Regum he talks about his system for generating names as one of the many ways to distinguish the permutated cultures. "*The game has around 50 archetypes of names, but then each archetype can either be altered randomly, or altered according to the rest of the game world, drawing on ideas like animals or plants to create a set of possible names. 
+
+<aside><p> Ultima Ratio Regum is Latin for "the last argument of kings"</p></aside>
+
+Once again, when the player learns a style of naming, they should be able to identify the origin of another character and then make informed choices on the back of that information."*. This connects to a core aspect of the game is a Nikki Lee a player infiltrating and discovering culture studying from the inside, gathering deeper insight and learning the the structures and unwritten rules enough to pass.
+
+<aside><p>Nikki Lee is a fine art photographer known to document her time assimilating into unusual subcategories of culture around race, age, music, professions I studied in undergrad who stuck with me. Check out her amazing 2001 work *Nikki S. Lee: Projects*. Also, tangent, but if you want to know my goto favorite photography is the work by Shana & Robert ParkeHarrison -check out their amazing book: *The Brothers Architect* or *Counterpoint*</p></aside>
+
+This may also resonate on a personal, lower level to a very real of sometime the subculture rulesets that people might not be familiar with masking and mimicking elements to fit in.
 <p>
 <div class="row mt-2">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded z-depth-1" max-width="326px" title="Sea curse scene from the film The Lighthouse" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded z-depth-1" max-width="268px" title="Sea curse scene from the film The Lighthouse" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
     Names are how we address each other, how legal agreements are signature, our identity status made official. Plus we totally need a name to properly curse someone.<br>
@@ -150,10 +171,13 @@ While there are a fair few writings on the cleverness of proper naming of charac
 
 <aside><p>“Names are unique sounds and cadences of words that are attached to one specific individual-sort of like a kind of theme music.”</p><p><em>― Jim Butcher, Storm Front</em></p></aside>
 <p>
-I have a friend who is Bobby; his birth certificate is directly Bobby, not Robert, not Bob, not Bobert. Bobby. Which, he insists, as that is the name that he has built upon and is true from all the way down to a formal living papers standpoint. You might think this is not the name for a knight or wizard, but I would say even better. It's more rememberable Bobby the Brave. more remarkable Bobby, High Wizard First Class. <img src="assets/img/blog_images/FrierenNecklace.gif" alt="Gif of Frieren showing her mage class necklace from the anime Frieren: Beyond Journey's End" style="float: left; margin-right: 15px; margin-bottom: 10px; width: 268px;">
-
-Placeholder text between.
-
+<div class="row mt-2">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/FrierenNecklace.gif" class="float-left img-fluid rounded z-depth-1" max-width="268px" title="Gif of Frieren showing her mage class necklace from the anime Frieren: Beyond Journey's End" %}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+I have a friend who is Bobby; his birth certificate is directly Bobby, not Robert, not Bob, not Bobert. Bobby. Which, he insists, as that is the name that he has built upon and is true from all the way down to a formal living papers standpoint. You might think this is not the name for a knight or wizard, but I would say even better. It's more rememberable Bobby the Brave. more remarkable Bobby, High Wizard First Class. 
+    </div>
  More stark, Bobby the Dark Necromancer of the Unknown Tundra. And certainly speaks to a certain world-building, Bobby, Vampire Slayer - here to fix your Miskatonic quandaries. This is all starting to feel a little over the top, so I'll move on.
 </p>
 If allowed in the temporal diegesis of the world, any name can become impactful, even more so if innocuous. We can only slightly try to mould our addresses through nicknames in the hope of forming a barrier to our names (barrier is a powerful shielding spell), a larger bubble in which we reside that shields some of us in an unknown but often taken on a life that is greater than our birth names.
