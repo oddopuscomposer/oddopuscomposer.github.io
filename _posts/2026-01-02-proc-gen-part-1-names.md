@@ -52,7 +52,7 @@ Along the way we'll build our own data pools to generate names, from simple rand
 
 ---
 
-## Procedural Generation
+### Procedural Generation
 Procedural Generation describes the content created by an algorithm during the runtime of a program:a game world manifested through automated, parameterised systems, whose emergent results depending part on the player’s own tendency toward apophenia, (the human tendency to perceive patterns and form reason and narrative related to technically unrelated data), around the permutations.
 <aside><p> A runtime could also be an analog operation of a board game, too, so proc-gen doesn't just exist in the digital realm!</p></aside>
 Dr. Mark R. Johnson, sole designer of the Roguelike Ultima Ratio Regium, defines procedural content generation as "the writing of algorithms and systems which – within boundaries set by the designer – are unpredictable and can create in-game content which cannot be predicted until its creation."<d-footnote>Johnson, Mark R. _The Unpredictability of Gameplay_. Bloomsbury Academic, 2018, https://doi.org/10.5040/9781501321597.</d-footnote>
@@ -80,7 +80,7 @@ Procedural generation, in short, is a matter of control and intent. We can
     </div>
 </div>
 
-## Names?
+### Names?
 
 What's in a name and Why names? Setting aside that names are a conveniently manageable strings which work well to start generating and building and generating our textual world and lore.
 
@@ -109,9 +109,7 @@ In his essay *The Place of Culture, Society, and Politics in Video Game World-Bu
 
 <aside><p> Ultima Ratio Regum is Latin for "the last argument of kings"</p></aside>
 
-Once again, when the player learns a style of naming, they should be able to identify the origin of another character and then make informed choices on the back of that information."*. This connects to a core aspect of the game is a Nikki Lee a player infiltrating and discovering culture studying from the inside, gathering deeper insight and learning the the structures and unwritten rules enough to pass.
-
-<aside><p>Nikki Lee is a fine art photographer known to document her time assimilating into unusual subcategories of culture around race, age, music, professions I studied in undergrad who stuck with me. Check out her amazing 2001 work *Nikki S. Lee: Projects*. Also, tangent, but if you want to know my goto favorite photography is the work by Shana & Robert ParkeHarrison -check out their amazing book: *The Brothers Architect* or *Counterpoint*</p></aside>
+Once again, when the player learns a style of naming, they should be able to identify the origin of another character and then make informed choices on the back of that information."*. This connects to a core aspect of the game is a Nikki Lee<d-footnote>Nikki Lee is a fine art photographer known to document her time assimilating into unusual subcategories of culture around race, age, music, professions I studied in undergrad who stuck with me. Check out her amazing 2001 work *Nikki S. Lee: Projects*. Also, tangent, but if you want to know my goto favorite photography is the work by Shana & Robert ParkeHarrison -check out their amazing book: *The Brothers Architect* or *Counterpoint*</d-footnote> a player infiltrating and discovering culture studying from the inside, gathering deeper insight and learning the the structures and unwritten rules enough to pass.
 
 This may also resonate on a personal, lower level to a very real of sometime the subculture rulesets that people might not be familiar with masking and mimicking elements to fit in.
 <p>
@@ -128,8 +126,7 @@ This may also resonate on a personal, lower level to a very real of sometime the
 
 <aside><p>Once you gave a thing a name, you gave it life</p><p><em>
 - Terry Pratchett</em></p></aside>
-Many procedural games do the same thing: naming a generated monster "the Butcher" instead of leaving it as "imp #4" to give it weight and projected meaning. the point is we need to be calling things more than just monster, especially those of noted quality. Diablo, PrincessRL and many games with procedural element name a procedural being to give emphasis and denote power, that these entities are of importance and worth consideration before approach.
-<aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who *do* things.”</p><p><em>― Ray Bradbury, *The October Country*</em></p></aside>Names are what are called forth from parents and loved ones for acknowledgement or admonition, In a formal setting, its whats transcribed on degrees, decrees, and identification. They are what we obscure when we do not want to be found, what we shed when starting over. Titles and honorifics, work like level ups; earned through deeds, collected achievements, while small community nicknames only used by a faction of few indicate a private in group. Its the foundational semiotics to encapsulate an entity, naming through taxonomy, but with exceptional potential uniqueness.
+Many procedural games do the same thing: naming a generated monster "the Butcher" instead of leaving it as "imp #4" to give it weight and projected meaning. the point is we need to be calling things more than just monster, especially those of noted quality. Diablo, PrincessRL and many games with procedural element name a procedural being to give emphasis and denote power, that these entities are of importance and worth consideration before approach. <aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who *do* things.”</p><p><em>― Ray Bradbury, *The October Country*</em></p></aside>Names are what are called forth from parents and loved ones for acknowledgement or admonition, In a formal setting, its whats transcribed on degrees, decrees, and identification. They are what we obscure when we do not want to be found, what we shed when starting over. Titles and honorifics, work like level ups; earned through deeds, collected achievements, while small community nicknames only used by a faction of few indicate a private in group. Its the foundational semiotics to encapsulate an entity, naming through taxonomy, but with exceptional potential uniqueness.
 
 World Builder author Mark J. P. Wolf writing on subcreation and invented languages, notes that a name "has the potential to cast a new light on the things it names, by emphasizing certain aspects about them or relating them to each in new ways through linguistic similarities" even if, naming is a comparatively shallow act of invention compared to an entire language. Still a name projects to the world what something is.
 
@@ -144,12 +141,14 @@ The first time I played the intricate roguelike *Nethack*, I was spawned with a 
 <aside><p>At the risk of over-quoting Terry Pratchett: this reminds me of *Good Omens*, where the (mildly antagonistic) Adam names his dog "Dog." Adam still adores that dog completely — the name is tautological, but the identity it points to is real.</p></aside>
 Titles also hold sway and remembrance through the ages and time. Sometimes, honorifics are not as desired or controlled well by those who earn them. Anyone named Tim the Weak, Sarah Bitchen' Priestess, or Saint Hilarious Gaylord might not be what the individuals where originally hoping for.
 
-## Reclamation of Identity and Queer Introspection
+### Reclamation of Identity and Queer Introspection
 This leads me to think about changing or discovering one's name of oneself. An often distinctly queer journey, especially for trans people exploring a more personal reflection of expression, role expectations - how they wish to be seen and addressed. They employ tactics like, during a name search, like going to a coffee slinging houses and testing out pseudonyms via magical barista witches callouts of monikers for you to test your what your spirit answers to.
 
 Name is recognition, and not having yours used is further social exile.
 <aside><p> “All things are defined by names. Change the name, and you change the thing.”<em>
-― Terry Pratchett, *Pyramids*, Part II: THe Book of the Dead, p.110</em></p></aside> Being named is recognition; not having your name used is a small, ongoing exile. The 2019 D&D *Unearthed Arcana: Cleric, Druid, and Wizard* release puts it well: "Onomancy, or naming magic, is a method of spellcasting that uses a creature's true name to enhance a spell's effects. A true name is the name by which a self-aware creature identifies itself. This name might be the name a person was given at birth, or one a person chose or earned later in life." (p. 4)
+― Terry Pratchett, *Pyramids*, Part II: THe Book of the Dead, p.110</em></p></aside>
+
+Being named is recognition; not having your name used is a small, ongoing exile. The 2019 D&D *Unearthed Arcana: Cleric, Druid, and Wizard* release puts it well: "Onomancy, or naming magic, is a method of spellcasting that uses a creature's true name to enhance a spell's effects. A true name is the name by which a self-aware creature identifies itself. This name might be the name a person was given at birth, or one a person chose or earned later in life." (p. 4)
 
 <aside><p>Honestly, the three paragraphs on Onomancy in that release are bangers: "Changing one's true name is never a quick choice; it's something that happens over time as a name becomes the creature's truth." (p. 4)</p></aside>
 
@@ -197,7 +196,8 @@ We, of course, can generate our own theophorics, non-denominational and otherwis
 
 <aside><p> Precept Thirty-Two: 'Names Have Power'.<br>Names have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own!<em>- Zote the Mighty (Hollow Knight)*</em></p></aside>
 
-# Code Experience
+### Code Experience
+
 But we are also putting the code in a details drop down!
 
 {% details Click here to look at and run code%}
@@ -286,7 +286,8 @@ fn main() {
 
 Here is the web player of the rust code in action that you can run yourselfs!
  
-## Another example
+#### Another example
+
 Behold our beautiful cynosure!
 Now that we have our result, what can we deduce from it? Do we like it? What should we tweak? Obviously, a few more brute force tests might reveal more of the underlying patterns and help us form stronger opinions of likes/dislikes, pros/cons, and further developmental inklings.
 
@@ -1100,9 +1101,9 @@ Here we've added a 25% chance for a name to generate an epithet and or honorific
 
 
 
-## Conclusion
+### Conclusion
 
-### Key Insights and Improvements to Impliment
+#### Key Insights and Improvements to Impliment
 
 How can we continue to improve to what we want, perhaps any further challenges we would like to overcome?
 
