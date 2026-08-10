@@ -89,11 +89,9 @@ Names carry weight. They hold legacy, symbolic representation, and roles. Plus, 
 </p><p>
 We know the common aspect of demonology is that knowing the true name of a creature or entity holds some sway of power over them, such as summoning a demon to enact your will. Hidden names and elements of oneself that are feared to be discovered, names more reflected in the formal address we treat as a weakness. It gives pause, emphasis, and direction of the surrounding words.
 </p><p>
-"Speak of the devil, and they shall appear". Perhaps this is due to some king of mathematical logics. Demons fear the memory of their possibility of mortality, the layered spells which make up their essence, they have traded in and reformed over centuries, like a ship of Theseus.<d-footnote>https://johntscott.com/wp-content/uploads/2019/02/aes.brute_.force_.work_.factor.argument.pdf</d-footnote>
-</p>
+"Speak of the devil, and they shall appear". Perhaps this is due to some king of mathematical logics. Demons fear the memory of their possibility of mortality, the layered spells which make up their essence, they have traded in and reformed over centuries, like a ship of Theseus.<d-footnote>https://johntscott.com/wp-content/uploads/2019/02/aes.brute_.force_.work_.factor.argument.pdf</d-footnote></p>
 <aside><p>A modern computer AES-256 encryption would require billions of years to brute force, not to mention exceptional amount of power required and many replications of the strongest computers currently made. - But if you know the key its easy. Also apparently, quantum computers might bea bit of a game changer.</p></aside>
-<p>
-A true name is the key. The mathematical truism of a being is at risk with their true name being known leading to their unmaking. Judaism, those who know gods true name would have power over all of the creations, thus the Kabbalah. The Ancient Egyptian Book of the Dead is supposed to host the true names of those you meet in your afterlife as a means of controlling them. In christianity's Genesis, god tells Adam to name the animals, establishing their subservience to him, while later when Jacob and an angel wrestle (Genesis 32:22-32 and in Hosea), the angel refuses to tell him their name.
+<p>A true name is the key. The mathematical truism of a being is at risk with their true name being known leading to their unmaking. Judaism, those who know gods true name would have power over all of the creations, thus the Kabbalah. The Ancient Egyptian Book of the Dead is supposed to host the true names of those you meet in your afterlife as a means of controlling them. In christianity's Genesis, god tells Adam to name the animals, establishing their subservience to him, while later when Jacob and an angel wrestle (Genesis 32:22-32 and in Hosea), the angel refuses to tell him their name.
 </p>
 <aside><p>That's right, first post and we are already quoting philosophical feminism, paganistic structures, fantastical existentialism, computer nerdery, and the fucking Bible. Goddammit, I don't want to talk about the fucking Bible again</p></aside>
 <p>
@@ -165,10 +163,8 @@ Titles also hold sway and remembrance through the ages and time. Sometimes, hono
 <p>This leads me to think about changing or discovering one's name of oneself. An often distinctly queer journey, especially for trans people exploring a more personal reflection of expression, role expectations - how they wish to be seen and addressed. They employ tactics like, during a name search, like going to a coffee slinging houses and testing out pseudonyms via magical barista witches callouts of monikers for you to test your what your spirit answers to.
 </p><p>
 Name is recognition, and not having yours used is further social exile.</p>
-
 <aside><p> “All things are defined by names. Change the name, and you change the thing.”<em>
 ― Terry Pratchett, *Pyramids*, Part II: THe Book of the Dead, p.110</em></p></aside>
-
 <p>
 Being named is recognition; not having your name used is a small, ongoing exile. The 2019 D&D *Unearthed Arcana: Cleric, Druid, and Wizard* release puts it well: "Onomancy, or naming magic, is a method of spellcasting that uses a creature's true name to enhance a spell's effects. A true name is the name by which a self-aware creature identifies itself. This name might be the name a person was given at birth, or one a person chose or earned later in life." (p. 4)
 </p>
@@ -215,7 +211,7 @@ We, of course, can generate our own theophorics, non-denominational and otherwis
 
 <aside><p> Precept Thirty-Two: 'Names Have Power'.<br>Names have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own!<em>- Zote the Mighty (Hollow Knight)</em></p></aside>
 
-### Code Experience
+### Code Experiments
 
 But we are also putting the code in a details drop down!
 
@@ -1119,9 +1115,10 @@ Here we've added a 25% chance for a name to generate an epithet and or honorific
 
 
 <p>
+
 ### Conclusion
 
-#### Key Insights and Improvements to Impliment
+*Key Insights and Improvements to Impliment*
 
 How can we continue to improve to what we want, perhaps any further challenges we would like to overcome?
 
