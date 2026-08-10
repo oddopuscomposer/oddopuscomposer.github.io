@@ -100,9 +100,18 @@ In some societies of Aboriginal Australians names are an extension of their bodi
 
 To name something or someone, the act of giving a name, is to impose some power. The manga/anime *That Time I was Reincarnated as a Slime* shows this as average monsters have no name, but when named, they transform into stronger versions of themselves.
 </p>
- {% include figure.liquid loading="eager" path="assets/img/blog_images/SlimeName1.gif" class="float-left img-fluid rounded" max-width="268px" title="Anime That Time I was Reincarnated as a Slime naming sequence of the local goblin tribe" %}
-{% include figure.liquid loading="eager" path="assets/img/blog_images/SlimeName2.gif" class="float-center img-fluid rounded" max-width="268px" title="Anime That Time I was Reincarnated as a Slime naming sequence continued" %}
-{% include figure.liquid loading="eager" path="assets/img/blog_images/SlimeName3.gif" class="float-right img-fluid rounded" max-width="268px" title="Anime That Time I was Reincarnated as a Slime naming sequencee, those named changed and upgraded" %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/SlimeName1.gif" class="float-left img-fluid rounded" max-width="268px" title="Anime That Time I was Reincarnated as a Slime naming sequence of the local goblin tribe" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/SlimeName2.gif" class="float-center img-fluid rounded" max-width="268px" title="Anime That Time I was Reincarnated as a Slime naming sequence continued" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/SlimeName3.gif" class="float-right img-fluid rounded" max-width="268px" title="Anime That Time I was Reincarnated as a Slime naming sequencee, those named changed and upgraded" %}
+    </div>
+</div>
+
 <aside><p>An anime is something to legitimately reference, yes?</p></aside>
 
 Through identity, we gain meaning, which is why the names our parents imposed on us doubles as a summon for reprimands.
@@ -162,41 +171,38 @@ We label ourselves, and we're labeled by others. In the spirit of Halberstam's o
 </p>
 <aside><p>"Something that is named stands out in the multiverse, distinct from the tapestry of creation all around it." — *Unearthed Arcana: Cleric, Druid, and Wizard*, 2019, p. 4</p></aside>
 <p>
-A lot of non-queer people also look at adjusting an aspect of their name, sharing last names, combining like a captain planet into some truly new hybrid surname. Sometimes a legacy is wished to be carried like a tattoo worn, and in a middle name, a person's previous surname or a family member's forename is held. Changing a name can be a big decision with consequences and many battles with the ghosts and echoes of a past 
+Renaming isn't only a queer experience, as plenty of cis ane straight people adjust their names too: combining surnames on marriage, Captain Planet style, into something new. Changing a name might be utilised to shed ghosts or echoes of a past lineage burden, dark legacy, or hereditary identification.
 
-While there are a fair few writings on the cleverness of proper naming of characters that instill visualisation and projected investments, the truth is, we often make our names in all their awkwardness. That is more in the spirit of this exercise, while I certainly curated hundreds of name pieces that are of particular interest to my style and lexicon taste, they will still be some dirpy, clumsy, peculiar outcomes, which just means that those individual narratives will have to overcome and embrace their names in all their glory.
+While there are a fair few writings on the cleverness methods of proper naming of characters, names that instill visualisation and projected investments, the truth is, we often make our names meaning dispite all their awkwardness and that is more in the spirit of this exercise. While I certainly have curated hundreds of name elements that are of particular interest to my style and lexicographical  taste, there still be some clumsy, dirpy, and peculiar outcomes, which just means that those characters get to grow into their names and narrative the way the rest of do and overcome and embrace their names in all their glory. 
 </p>
-<aside><p>“Names are unique sounds and cadences of words that are attached to one specific individual-sort of like a kind of theme music.”</p><p><em>― Jim Butcher, Storm Front</em></p></aside>
+<aside><p>“Names are unique sounds and cadences of words that are attached to one specific individual-sort of like a kind of theme music.”</p><p><em>― Jim Butcher, Storm Front (The Dresden Files)</em></p></aside>
 <p>
 <div class="row mt-2">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_images/FrierenNecklace.gif" class="float-left img-fluid rounded z-depth-1" max-width="268px" title="Gif of Frieren showing her mage class necklace from the anime Frieren: Beyond Journey's End" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
-I have a friend who is Bobby; his birth certificate is directly Bobby, not Robert, not Bob, not Bobert. Bobby. Which, he insists, as that is the name that he has built upon and is true from all the way down to a formal living papers standpoint. You might think this is not the name for a knight or wizard, but I would say even better. It's more rememberable Bobby the Brave. more remarkable Bobby, High Wizard First Class. 
+I have a friend whose birth certificate says, simply, Bobby. Not Robert, not Bob, not Bobert - Bobby. Which, he insists, as that is the name that he has built upon and is true from all the way down to a formal living papers standpoint. You might think this is not the name for a knight or wizard, but I would argue its even better. It's more rememberable: Bobby the Brave. More remarkable: Bobby, High Wizard First Class. More stark: Bobby the Dark Necromancer of the Unknown Tundra. And certainly speaks to a certain world-building, Bobby - Vampire Slayer - here to fix your Miskatonic quandaries. This is all starting to feel a little over the top, so I'll move on.
     </div>
- More stark, Bobby the Dark Necromancer of the Unknown Tundra. And certainly speaks to a certain world-building, Bobby, Vampire Slayer - here to fix your Miskatonic quandaries. This is all starting to feel a little over the top, so I'll move on.
-</p>
-If allowed in the temporal diegesis of the world, any name can become impactful, even more so if innocuous. We can only slightly try to mould our addresses through nicknames in the hope of forming a barrier to our names (barrier is a powerful shielding spell), a larger bubble in which we reside that shields some of us in an unknown but often taken on a life that is greater than our birth names.
 
+If allowed in the temporal diegesis of the world, any name can become impactful, even more so if innocuous. Nicknames function a little like a shielding spell: a buffer between us and our given names, one that can end up outgrowing the name it was meant to soften.
+</p>
 <aside><p>“It ain't what they call you, it's what you answer to.”<em> 
 ― W.C. Fields</em></p></aside>
-
-When choosing a name, we get the unprecedented option to make our names mean something to ourselves or in the greater context of our culture or world. When we have a name we are granted, we can only shape it through our actions, luck, and projected perceptions. It's a rare empowering moment of self-actualization manifested from introspection.
-
+<p>
+When choosing a name, we get the unprecedented option to make our names mean something to ourselves or in the greater context of our culture or world. When we are given a name, we can only shape it through our actions, luck, and projected perceptions. Choosing a name is rare, an empowering moment of self-actualization manifested from introspection. An act of self-definition.
+</p>
 <aside><p>Life ain't easy for a boy named Sue<em> - Johnny Cash - A boy named Sue</em>
 (Accidental trans man anthem?)</p></aside>
-
+<p>
 So there can be fun in authoring a character's sobriquet Scarlet Dewinter, to a personality of bubbly ray of helpful sunshine. It might not reflect traits or heritage/status (unless we get a bit meta and say winter is a prominent place in the fantasy world this character's from, and if perhaps the trait is rebelling against their name to be spiffily optimistic and energised)
 
 Nuns all get their Mary name; their second name is preceded by mother. Additionally, in Catholicism, you have popes taking on names, and it is about legacy and building on top of the previous predecessors' vibe of their work or personality. Much like the Roman cognomen surnames during ancient times.
-
+</p>
 <aside><p>“What's in a name? That which we call a rose by any other name would smell as sweet.”<em> ― William Shakespeare, Romeo and Juliet</em></p></aside>
-
-Nuns all get their Mary name; their second name is preceded by mother. Additionally, in Catholicism, you have popes taking on names, and it is about legacy and building on top of the previous predecessors' vibe of their work or personality. Much like the Roman cognomen surnames during ancient times.
-
+<p>
 We, of course, can generate our own theophorics, non-denominational and otherwise, for our zealots and clerics. Beloved of, bestowed by, blessed by, blessing from, is the spirit of, beloved of, eternal dweller of %deity% splendour of, %deity% faithful to, guided by, handmaid of, protected by, provided by,  warrior of, etc.
-
+</p>
 {% include figure.liquid loading="eager" path="assets/img/blog_images/ZotePrecept32.png" class="img-fluid rounded z-depth-1" %}
 
 <aside><p> Precept Thirty-Two: 'Names Have Power'.<br>Names have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own!<em>- Zote the Mighty (Hollow Knight)*</em></p></aside>
@@ -677,6 +683,7 @@ fn main() {
 
 {% enddetails %}
 
+<p>
 #### Fine Tuning Robustness & Optimisation 
 
 Make some adjustments, quantize that bias.
@@ -685,9 +692,9 @@ Let's improve this and muddle as well as we provide a plethora, or as my one of 
 
 Heck, those who dabble in programming have many inside jokes about the challenges of naming conventions, especially when creating their variables.
 Its true names are powerful; an honorific like doctor or man of science calls for an elevated position of gained skill and knowledge. An epithet like of the queen's jeweled dagger or her of a thousand screams throws the weight of association behind the individual.
-
+</p>
 <aside><p>My brain is open - Paul Erdős</p></aside>
-
+<p>
 Here are some of my favorite results so far:
 	Doctor Wren Fastthimble the Seamer
 	Man of Science Zulo Ramcraft
@@ -705,6 +712,7 @@ Long name with honorifics and double epithets:
 | Madam     | Wendy     | Red      | bells    | the    | Dark       | Tyrant     | of the | Deep       | Mauw  | Adept | of the | Queens | Shadow |
 
 But naturally, that becomes a bit cumberson, so usually you want these styles of names less often to limit impact of name fatigue. But it could be a fun aspect ot a player character keepign track of titles, earned through biome and action reconition.
+</p>
 
 {% details More Advanced Code Examples%}
 {% tabs ExamplesThree %}
@@ -1105,7 +1113,7 @@ Here we've added a 25% chance for a name to generate an epithet and or honorific
 
 
 
-
+<p>
 ### Conclusion
 
 #### Key Insights and Improvements to Impliment
@@ -1135,5 +1143,4 @@ But that's a ramble for another day.
 
 with ludonarrative love, <br>
 Alix
-
-
+</p>
