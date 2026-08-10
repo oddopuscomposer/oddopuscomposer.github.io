@@ -127,7 +127,7 @@ Once again, when the player learns a style of naming, they should be able to ide
 This may also resonate on a personal, lower level to a very real of sometime the subculture rulesets that people might not be familiar with masking and mimicking elements to fit in.
 <p>
 <div class="row mt-2">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 float-md-left clip-spacing pr-md-4 pl-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded" max-width="268px" title="Sea curse scene from the film The Lighthouse" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
