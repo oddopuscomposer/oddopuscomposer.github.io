@@ -194,8 +194,10 @@ This is all starting to feel a little over the top, so I'll move on - If allowed
 <p>
 When choosing a name, we get the unprecedented option to make our names mean something to ourselves or in the greater context of our culture or world. When we are given a name, we can only shape it through our actions, luck, and projected perceptions. Choosing a name is rare, an empowering moment of self-actualization manifested from introspection. An act of self-definition.
 </p>
+
 <d-aside><p>Life ain't easy for a boy named Sue<em> - Johnny Cash - A boy named Sue</em>
 (Accidental trans man anthem?)</p></d-aside>
+
 <p>
 So there can be fun in authoring a character's sobriquet Scarlet Dewinter, to a personality of bubbly ray of helpful sunshine. It might not reflect traits or heritage/status (unless we get a bit meta and say winter is a prominent place in the fantasy world this character's from, and if perhaps the trait is rebelling against their name to be spiffily optimistic and energised)
 
