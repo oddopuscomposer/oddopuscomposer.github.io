@@ -184,18 +184,18 @@ While there are a fair few writings on the cleverness methods of proper naming o
         {% include figure.liquid loading="eager" path="assets/img/blog_images/FrierenNecklace.gif" class="float-left img-fluid rounded z-depth-1" max-width="268px" title="Gif of Frieren showing her mage class necklace from the anime Frieren: Beyond Journey's End" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
-I have a friend whose birth certificate says, simply, Bobby. Not Robert, not Bob, not Bobert - Bobby. Which, he insists, as that is the name that he has built upon and is true from all the way down to a formal living papers standpoint. You might think this is not the name for a knight or wizard, but I would argue its even better. It's more rememberable: Bobby the Brave. More remarkable: Bobby, High Wizard First Class. More stark: Bobby the Dark Necromancer of the Unknown Tundra. And certainly speaks to a certain world-building, Bobby - Vampire Slayer - here to fix your Miskatonic quandaries. This is all starting to feel a little over the top, so I'll move on.
+I have a friend whose birth certificate says, simply, Bobby. Not Robert, not Bob, not Bobert - Bobby. Which, he insists, as that is the name that he has built upon and is true from all the way down to a formal living papers standpoint. You might think this is not the name for a knight or wizard, but I would argue its even better. It's more rememberable: Bobby the Brave. More remarkable: Bobby, High Wizard First Class. More stark: Bobby the Dark Necromancer of the Unknown Tundra. And certainly speaks to a certain world-building, Bobby - Vampire Slayer - here to fix your Miskatonic quandaries.
 </div>
 <p>
-If allowed in the temporal diegesis of the world, any name can become impactful, even more so if innocuous. Nicknames function a little like a shielding spell: a buffer between us and our given names, one that can end up outgrowing the name it was meant to soften. </p>
+This is all starting to feel a little over the top, so I'll move on - If allowed in the temporal diegesis of the world, any name can become impactful, even more so if innocuous. Nicknames function a little like a shielding spell: a buffer between us and our given names, one that can end up outgrowing the name it was meant to soften.</p>
 
-<aside><p>“It ain't what they call you, it's what you answer to.”<em> 
-― W.C. Fields</em></p></aside>
+<d-aside><p>“It ain't what they call you, it's what you answer to.”<em> 
+― W.C. Fields</em></p></d-aside>
 <p>
 When choosing a name, we get the unprecedented option to make our names mean something to ourselves or in the greater context of our culture or world. When we are given a name, we can only shape it through our actions, luck, and projected perceptions. Choosing a name is rare, an empowering moment of self-actualization manifested from introspection. An act of self-definition.
 </p>
-<aside><p>Life ain't easy for a boy named Sue<em> - Johnny Cash - A boy named Sue</em>
-(Accidental trans man anthem?)</p></aside>
+<d-aside><p>Life ain't easy for a boy named Sue<em> - Johnny Cash - A boy named Sue</em>
+(Accidental trans man anthem?)</p></d-aside>
 <p>
 So there can be fun in authoring a character's sobriquet Scarlet Dewinter, to a personality of bubbly ray of helpful sunshine. It might not reflect traits or heritage/status (unless we get a bit meta and say winter is a prominent place in the fantasy world this character's from, and if perhaps the trait is rebelling against their name to be spiffily optimistic and energised)
 
@@ -1113,38 +1113,41 @@ Here we've added a 25% chance for a name to generate an epithet and or honorific
 
 ### Conclusion
 
-
 *Key Insights and Improvements to Impliment*
 <br>
 How can we continue to improve to what we want, perhaps any further challenges we would like to overcome?
 <p>
 We could head deeper into this system, building out some hypocorisms based on the forenames or their surname attributes, or even just general diminutive familiar pet names for when NPCs refer to others whom they are familiar with.
-</p>
+</p><p>
 Hopefully, you see the use, whether for interest or fun, TTRPG or coded game. I'll leave with one more follow-up. Consider an expansion which might scale to incorporate group names, societies, cults, & orders. We could easily reformat this to accomidate and generate secret societies or a guild of specialists.
-
+</p>
 Patterns to potentially try:
 * Group + entity 
 * description + group
 * group + description + entity
 * description + group + description entity
 ...and you could just continue expanding from there, adding places and other previously generated titles of kings and queens, like *Shadow Sisters of the Dark Realm Order of the Silver King of Terror*, or *Sacred Librarians of the Bookish Order*, or *Followers of the Radiant Sentient Bell*.
-</p><p>
+<p>
 For a group of militants or bandits, we can try combination yielding results like: The Silent Daggers, Princess Phoebe's Priestesses, The Lost Helm, The Snapdragon Knights, Lord Edwins Axe, Cauldron Fatecasters, Acorn Foxes of the Forrest. You could then craft full titles like Geraldina of the Cauldron Fatecasters. Rachel, resident witch of the Snapdragon Knights. Adrienne the Gold Vixen, most cunning of the Acorn Foxes - yes, those ones of the fore mention forest. And so forth ¯\_(ツ)_/¯
 </p><p>
 One more improvement worth noting: epithets are often awarded and given rather than chosen. We could generate some sort of global stats to keep track of kill counts, type, travel, notable action, and more to update the names of NPCs, things, and the player accordingly. Rachel Pollack, in her writing on how Persephone earns her name in the underworld after being taken by Hades ("She Who Shines in the Dark," "Pupil of the Eye"), describes how Persephone becomes conscious of herself there — gaining awareness of her own individuality by facing the underworld and shining in it anyway.<d-footnote>Gabriel, Davina Anne, editor. "Title of Specific Article." TransSisters: The Journal of Transsexual Feminism, no. 9, Summer 1995, pp. 51-52.</d-footnote> Naming, in that sense, is part of coming into being, through being named, or through the layered attributes of a life accumulating into the name someone finally uses for you.
-
+</p><p>
 What's more, names tend to be somewhat geographic in the sense that certain names carry more weight in certain places or amongst particular companies. We could link the given names from deeds/atrocities of a given biome or a group of beings. You may be known as the conquer of the frozen depths, really, to the town on the edge of the frozen depths, but the desert oasis town of Hotsville, a few regions over, probably has never heard of you exceptionally noble actions.
 </p><p>
 A traveling scholar might know your repreutation regarless, as an individual who keeps up with world events or a slime colony could even develop their own cognomen for the player (or an NPC) due to their continual killing of slimes (Caitlin the Slime Slayer). A system could cross-reference those two tiers of "who's heard of you" (geolocational and culturally) to produce a an interesting and complex recognition system even furthermore a rumor decay algorithm based around NPCs around events which deminishes over time, where epithets are built from multiple rumors, and rumors are built from multiple observed events. 
 </p><p>
 That's also a natural foundation for lore that's only discoverable locally. It could flex further based on how the player introduces themselves, or reflect something observable about their playstyle directly: the Wizard of the North, if they lean on magic; Sacred Knight of the Ten Candles, if they've earned a public title. The same logic extends to items: swords earning names through use, or by prepetuated player action like - Trog the Soup Master Goblin becoming locally famous for his soup after selling it a thousand times.
 </p>
+<div class="row mt-2">
+    <div class="col-sm-4 float-md-right clip-spacing pr-md-4 pl-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/InBurNook.gif" class="float-left img-fluid rounded" max-width="268px" title="In Bruges film gif talking about the term nooks and crannies" %}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+    So lots of cool avenues to explore.<br>But that's a ramble for another day.
+    </div>
+</div>
+<br>
 <p>
-So lots of cool avenues to explore. 
-{% include figure.liquid loading="eager" path="assets/img/blog_images/InBurNook.gif" class="float-left img-fluid rounded" max-width="268px" title="In Bruges film gif talking about the term nooks and crannies" %}
-
-But that's a ramble for another day.</p>
-</p><p>
 with ludonarrative love, <br>
 Alix
 </p>
