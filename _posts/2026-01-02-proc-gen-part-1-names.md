@@ -82,7 +82,7 @@ Names carry weight. They hold legacy, symbolic representation, and roles. Plus, 
 </p><p>
 We know the common aspect of demonology is that knowing the true name of a creature or entity holds some sway of power over them, such as summoning a demon to enact your will. Hidden names and elements of oneself that are feared to be discovered, names more reflected in the formal address we treat as a weakness. It gives pause, emphasis, and direction of the surrounding words.
 </p>
-"Speak of the devil, and they shall appear". Perhaps this is due to some king of mathematical logics. Demons fear the memory of their possibility of mortality, the layered spells which make up their essence, they have traded in and reformed over centuries, like a ship of Theseus.<d-footnote>https://johntscott.com/wp-content/uploads/2019/02/aes.brute_.force_.work_.factor.argument.pdf</d-footnote>
+<p>"Speak of the devil, and they shall appear". Perhaps this is due to some king of mathematical logics. Demons fear the memory of their possibility of mortality, the layered spells which make up their essence, they have traded in and reformed over centuries, like a ship of Theseus.<d-footnote>https://johntscott.com/wp-content/uploads/2019/02/aes.brute_.force_.work_.factor.argument.pdf</d-footnote></p>
 
 <aside><p>A modern computer AES-256 encryption would require billions of years to brute force, not to mention exceptional amount of power required and many replications of the strongest computers currently made. - But if you know the key its easy. Also apparently, quantum computers might bea bit of a game changer.</p></aside>
 
@@ -136,7 +136,7 @@ This may also resonate on a personal, lower level to a very real of sometime the
 <p>
 Many procedural games do the same thing: naming a generated monster "the Butcher" instead of leaving it as "imp #4" to give it weight and projected meaning. the point is we need to be calling things more than just monster, especially those of noted quality. Diablo, PrincessRL and many games with procedural element name a procedural being to give emphasis and denote power, that these entities are of importance and worth consideration before approach.</p>
 
-<aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who *do* things.”</p><p><em>― Ray Bradbury, *The October Country*</em></p></aside>
+<aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who do things.”</p><p><em>― Ray Bradbury, The October Country</em></p></aside>
 
 <p>Names are what are called forth from parents and loved ones for acknowledgement or admonition, In a formal setting, its whats transcribed on degrees, decrees, and identification. They are what we obscure when we do not want to be found, what we shed when starting over. Titles and honorifics, work like level ups; earned through deeds, collected achievements, while small community nicknames only used by a faction of few indicate a private in group. Its the foundational semiotics to encapsulate an entity, naming through taxonomy, but with exceptional potential uniqueness.
 </p><p>
@@ -1131,11 +1131,11 @@ A traveling scholar might know your repreutation regarless, as an individual who
 That's also a natural foundation for lore that's only discoverable locally. It could flex further based on how the player introduces themselves, or reflect something observable about their playstyle directly: the Wizard of the North, if they lean on magic; Sacred Knight of the Ten Candles, if they've earned a public title. The same logic extends to items: swords earning names through use, or by prepetuated player action like - Trog the Soup Master Goblin becoming locally famous for his soup after selling it a thousand times.
 </p>
 <div class="row mt-2">
-<div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog_images/InBurNook.gif" class="float-right img-fluid rounded" max-width="268px" title="In Bruges film gif talking about the term nooks and crannies" %}
-</div>
     <div class="col-sm mt-2 mt-md-0">
     So lots of cool avenues to explore.<br>But that's a ramble for another day.
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/InBurNook.gif" class="float-right img-fluid rounded" max-width="268px" title="In Bruges film gif talking about the term nooks and crannies" %}
     </div>
 </div>
 <br>
