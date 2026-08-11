@@ -3,38 +3,29 @@ layout: distill
 title: Procedural Generation of Text Part One Names
 description: procedural generation of names, honorifics, and epithets
 tags: procedural-generation game-studies ludonarrative rust 
-categories: Game-Design
+categories: Game-Design LGBT
 date: 2026-08-1
 featured: true
 mermaid:
   enabled: true
   zoomable: true
-citation: true
+citation: false
 tabs: true
 
-# The only thing needed is for you to set the `citation` key in the front matter to `true` Probably need to move it to the bottom or perhaps a button?
-
-bibliography: 2026-07-12.bib 
 
 #   - make sure that TOC names match the actual section names
 #     for hyperlinks within the post to work correctly.
 toc:
   - name: Subject
-    # if a section has subsections, you can add them as follows:
-    # subsections:
-    #   - name: Example Child Subsection 1
-    #   - name: Example Child Subsection 2
-  - name: Citations
-  - name: Footnotes
-  - name: Code Blocks
-  - name: Layouts
+    subsections:
+        - name: Take Away & the TL;DR
   - name: Procedural Generation
   - name: Names?
+    subsections:
+        - name: Reclamation of Identity and Queer Introspection
   - name: Code Experiments
   - name: Conclusion
 
-# Below is an example of injecting additional post-specific styles.
-# If you use this post as a template, delete this _styles block.
 ---
 
 ## Subject
@@ -185,18 +176,19 @@ While there are a fair few writings on the cleverness methods of proper naming o
     </div>
     <div class="col-sm mt-2 mt-md-0">
 I have a friend whose birth certificate says, simply, Bobby. Not Robert, not Bob, not Bobert - Bobby. Which, he insists, as that is the name that he has built upon and is true from all the way down to a formal living papers standpoint. You might think this is not the name for a knight or wizard, but I would argue its even better. It's more rememberable: Bobby the Brave. More remarkable: Bobby, High Wizard First Class. More stark: Bobby the Dark Necromancer of the Unknown Tundra. And certainly speaks to a certain world-building, Bobby - Vampire Slayer - here to fix your Miskatonic quandaries.
+    </div>
 </div>
 <p>
 This is all starting to feel a little over the top, so I'll move on - If allowed in the temporal diegesis of the world, any name can become impactful, even more so if innocuous. Nicknames function a little like a shielding spell: a buffer between us and our given names, one that can end up outgrowing the name it was meant to soften.</p>
 
-<d-aside><p>“It ain't what they call you, it's what you answer to.”<em> 
-― W.C. Fields</em></p></d-aside>
+<aside><p>“It ain't what they call you, it's what you answer to.”<em> 
+― W.C. Fields</em></p></aside>
 <p>
 When choosing a name, we get the unprecedented option to make our names mean something to ourselves or in the greater context of our culture or world. When we are given a name, we can only shape it through our actions, luck, and projected perceptions. Choosing a name is rare, an empowering moment of self-actualization manifested from introspection. An act of self-definition.
 </p>
 
-<d-aside><p>Life ain't easy for a boy named Sue<em> - Johnny Cash - A boy named Sue</em>
-(Accidental trans man anthem?)</p></d-aside>
+<aside><p>Life ain't easy for a boy named Sue<em> - Johnny Cash - A boy named Sue</em>
+(Accidental trans man anthem?)</p></aside>
 
 <p>
 So there can be fun in authoring a character's sobriquet Scarlet Dewinter, to a personality of bubbly ray of helpful sunshine. It might not reflect traits or heritage/status (unless we get a bit meta and say winter is a prominent place in the fantasy world this character's from, and if perhaps the trait is rebelling against their name to be spiffily optimistic and energised)
@@ -1123,12 +1115,12 @@ We could head deeper into this system, building out some hypocorisms based on th
 </p><p>
 Hopefully, you see the use, whether for interest or fun, TTRPG or coded game. I'll leave with one more follow-up. Consider an expansion which might scale to incorporate group names, societies, cults, & orders. We could easily reformat this to accomidate and generate secret societies or a guild of specialists.
 </p>
-Patterns to potentially try:
-* Group + entity 
-* description + group
-* group + description + entity
-* description + group + description entity
-...and you could just continue expanding from there, adding places and other previously generated titles of kings and queens, like *Shadow Sisters of the Dark Realm Order of the Silver King of Terror*, or *Sacred Librarians of the Bookish Order*, or *Followers of the Radiant Sentient Bell*.
+Patterns to potentially try:<ul>
+<li> Group + entity</li>
+<li> Description + group</li>
+<li> Group + description + entity</li>
+<li> Description + group + description entity</li></ul><br>
+...and you could just continue expanding from there, adding places and other previously generated titles of kings and queens, like Shadow Sisters of the Dark Realm Order of the Silver King of Terror, or Sacred Librarians of the Bookish Order, or Followers of the Radiant Sentient Bell.
 <p>
 For a group of militants or bandits, we can try combination yielding results like: The Silent Daggers, Princess Phoebe's Priestesses, The Lost Helm, The Snapdragon Knights, Lord Edwins Axe, Cauldron Fatecasters, Acorn Foxes of the Forrest. You could then craft full titles like Geraldina of the Cauldron Fatecasters. Rachel, resident witch of the Snapdragon Knights. Adrienne the Gold Vixen, most cunning of the Acorn Foxes - yes, those ones of the fore mention forest. And so forth ¯\_(ツ)_/¯
 </p><p>
@@ -1140,9 +1132,8 @@ A traveling scholar might know your repreutation regarless, as an individual who
 </p><p>
 That's also a natural foundation for lore that's only discoverable locally. It could flex further based on how the player introduces themselves, or reflect something observable about their playstyle directly: the Wizard of the North, if they lean on magic; Sacred Knight of the Ten Candles, if they've earned a public title. The same logic extends to items: swords earning names through use, or by prepetuated player action like - Trog the Soup Master Goblin becoming locally famous for his soup after selling it a thousand times.
 </p>
-<div class="row mt-2">
-    <div class="col-sm-4 float-md-right clip-spacing pr-md-4 pl-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog_images/InBurNook.gif" class="float-left img-fluid rounded" max-width="268px" title="In Bruges film gif talking about the term nooks and crannies" %}
+<div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/InBurNook.gif" class="float-right img-fluid rounded" max-width="268px" title="In Bruges film gif talking about the term nooks and crannies" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
     So lots of cool avenues to explore.<br>But that's a ramble for another day.
