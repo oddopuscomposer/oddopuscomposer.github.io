@@ -171,10 +171,10 @@ While there are a fair few writings on the cleverness methods of proper naming o
 </p>
 <aside><p>“Names are unique sounds and cadences of words that are attached to one specific individual-sort of like a kind of theme music.”</p><p><em>― Jim Butcher, Storm Front (The Dresden Files)</em></p></aside>
 <div class="row mt-2">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_images/FrierenNecklace.gif" class="float-left img-fluid rounded z-depth-1" max-width="268px" title="Gif of Frieren showing her mage class necklace from the anime Frieren: Beyond Journey's End" %}
     </div>
-    <div class="col-sm mt-2 mt-md-0">
+    <div class="col-8 mt-2 mt-md-0">
 I have a friend whose birth certificate says, simply, Bobby. Not Robert, not Bob, not Bobert - Bobby. Which, he insists, as that is the name that he has built upon and is true from all the way down to a formal living papers standpoint. You might think this is not the name for a knight or wizard, but I would argue its even better. It's more rememberable: Bobby the Brave. More remarkable: Bobby, High Wizard First Class. More stark: Bobby the Dark Necromancer of the Unknown Tundra. And certainly speaks to a certain world-building, Bobby - Vampire Slayer - here to fix your Miskatonic quandaries.
     </div>
 </div>
