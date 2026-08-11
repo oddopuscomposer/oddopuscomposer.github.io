@@ -1114,13 +1114,13 @@ How can we continue to improve to what we want, perhaps any further challenges w
 We could head deeper into this system, building out some hypocorisms based on the forenames or their surname attributes, or even just general diminutive familiar pet names for when NPCs refer to others whom they are familiar with.
 </p><p>
 Hopefully, you see the use, whether for interest or fun, TTRPG or coded game. I'll leave with one more follow-up. Consider an expansion which might scale to incorporate group names, societies, cults, & orders. We could easily reformat this to accomidate and generate secret societies or a guild of specialists.
-</p>
+</p><p>
 Patterns to potentially try:<ul>
 <li> Group + entity</li>
 <li> Description + group</li>
 <li> Group + description + entity</li>
-<li> Description + group + description entity</li></ul><br>
-...and you could just continue expanding from there, adding places and other previously generated titles of kings and queens, like Shadow Sisters of the Dark Realm Order of the Silver King of Terror, or Sacred Librarians of the Bookish Order, or Followers of the Radiant Sentient Bell.
+<li> Description + group + description entity</li></ul>
+...and you could just continue expanding from there, adding places and other previously generated titles of kings and queens, like Shadow Sisters of the Dark Realm Order of the Silver King of Terror, or Sacred Librarians of the Bookish Order, or Followers of the Radiant Sentient Bell.<br></p>
 <p>
 For a group of militants or bandits, we can try combination yielding results like: The Silent Daggers, Princess Phoebe's Priestesses, The Lost Helm, The Snapdragon Knights, Lord Edwins Axe, Cauldron Fatecasters, Acorn Foxes of the Forrest. You could then craft full titles like Geraldina of the Cauldron Fatecasters. Rachel, resident witch of the Snapdragon Knights. Adrienne the Gold Vixen, most cunning of the Acorn Foxes - yes, those ones of the fore mention forest. And so forth ¯\_(ツ)_/¯
 </p><p>
