@@ -74,25 +74,24 @@ Procedural generation, in short, is a matter of control and intent. We can
 </div>
 
 ### Names?
-<p>
+
 What's in a name and Why names? Setting aside that names are a conveniently manageable strings which work well to start generating and building and generating our textual world and lore.
-</p>
-<p>
+
 Names carry weight. They hold legacy, symbolic representation, and roles. Plus, they are a fun and friendly introduction to building textual readouts in code. Names often hold the importance of knowing or understanding the nature of something or someone. As protagonist Kothe learns from his teacher Elodin, in *Name of the Wind*, "names have power, words have power...But a word is nothing but a painting of a fire. A name is the fire itself... a subject's true name as being comprised of everything that has gone into its shaping since its creation."<d-footnote>Rothfuss, Patrick. The Name of the Wind. DAW Books, 2007.</d-footnote>
-</p><p>
+
 We know the common aspect of demonology is that knowing the true name of a creature or entity holds some sway of power over them, such as summoning a demon to enact your will. Hidden names and elements of oneself that are feared to be discovered, names more reflected in the formal address we treat as a weakness. It gives pause, emphasis, and direction of the surrounding words.
-</p>
-<p>"Speak of the devil, and they shall appear". Perhaps this is due to some king of mathematical logics. Demons fear the memory of their possibility of mortality, the layered spells which make up their essence, they have traded in and reformed over centuries, like a ship of Theseus.<d-footnote>https://johntscott.com/wp-content/uploads/2019/02/aes.brute_.force_.work_.factor.argument.pdf</d-footnote>
+
+"Speak of the devil, and they shall appear". Perhaps this is due to some king of mathematical logics. Demons fear the memory of their possibility of mortality, the layered spells which make up their essence, they have traded in and reformed over centuries, like a ship of Theseus.<d-footnote>https://johntscott.com/wp-content/uploads/2019/02/aes.brute_.force_.work_.factor.argument.pdf</d-footnote>
 <aside class= "l-gutter">A modern computer AES-256 encryption would require billions of years to brute force, not to mention exceptional amount of power required and many replications of the strongest computers currently made. - But if you know the key its easy. Also apparently, quantum computers might be bit of a game changer.
-</aside></p>
-<p>A true name is the key. The mathematical truism of a being is at risk with their true name being known leading to their unmaking. Judaism, those who know gods true name would have power over all of the creations, thus the Kabbalah. The Ancient Egyptian Book of the Dead is supposed to host the true names of those you meet in your afterlife as a means of controlling them. In christianity's Genesis, god tells Adam to name the animals, establishing their subservience to him, while later when Jacob and an angel wrestle (Genesis 32:22-32 and in Hosea), the angel refuses to tell him their name.
-</p>
+</aside>
+
+A true name is the key. The mathematical truism of a being is at risk with their true name being known leading to their unmaking. Judaism, those who know gods true name would have power over all of the creations, thus the Kabbalah. The Ancient Egyptian Book of the Dead is supposed to host the true names of those you meet in your afterlife as a means of controlling them. In christianity's Genesis, god tells Adam to name the animals, establishing their subservience to him, while later when Jacob and an angel wrestle (Genesis 32:22-32 and in Hosea), the angel refuses to tell him their name.
 <aside><p>That's right, first post and we are already quoting philosophical feminism, paganistic structures, fantastical existentialism, computer nerdery, and the fucking Bible. Goddammit, I don't want to talk about the fucking Bible again</p></aside>
-<p>
+
 In some societies of Aboriginal Australians names are an extension of their bodies, to the point that when one dies, all those with that name adopt new ones as it is buried.<d-footnote>McGrath, P. and Phillips, E. (2008), "Australian findings on Aboriginal cultural practices associated with clothing, hair, possessions, and use of name of deceased persons." *International Journal of Nursing Practice*, 14: 57-66. [https://doi.org/10.1111/j.1440-172X.2007.00667.x](https://doi.org/10.1111/j.1440-172X.2007.00667.x)</d-footnote>
-</p><p>
+
 To name something or someone, the act of giving a name, is to impose some power. The manga/anime *That Time I was Reincarnated as a Slime* shows this as average monsters have no name, but when named, they transform into stronger versions of themselves.
-</p>
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_images/SlimeName1.gif" class="float-left img-fluid rounded" max-width="268px" title="Anime That Time I was Reincarnated as a Slime naming sequence of the local goblin tribe" %}
@@ -106,19 +105,19 @@ To name something or someone, the act of giving a name, is to impose some power.
 </div>
 
 <aside><p>Anime is a legitimately reference, yes?</p></aside>
-<p>
+
 Through identity, we gain meaning, which is why the names our parents imposed on us doubles as a summon for reprimands.
-</p>
+
 <aside><p>And yes, I am relating anime, the bible, human history, and speculative fiction.</p></aside>
-<p>
+
 In his essay *The Place of Culture, Society, and Politics in Video Game World-Building*, Mark R. Johnson discusses many elements of his culture and world generator, Ultima Ratio Regum he talks about his system for generating names as one of the many ways to distinguish the permutated cultures. "*The game has around 50 archetypes of names, but then each archetype can either be altered randomly, or altered according to the rest of the game world, drawing on ideas like animals or plants to create a set of possible names. 
-</p>
+
 <aside><p> Ultima Ratio Regum is Latin for "the last argument of kings"</p></aside>
-<p>
+
 Once again, when the player learns a style of naming, they should be able to identify the origin of another character and then make informed choices on the back of that information."*. This connects to a core aspect of the game is a Nikki Lee<d-footnote>Nikki Lee is a fine art photographer known to document her time assimilating into unusual subcategories of culture around race, age, music, professions I studied in undergrad who stuck with me. Check out her amazing 2001 work *Nikki S. Lee: Projects*. Also, tangent, but if you want to know my goto favorite photography is the work by Shana & Robert ParkeHarrison -check out their amazing book: *The Brothers Architect* or *Counterpoint*</d-footnote> a player infiltrating and discovering culture studying from the inside, gathering deeper insight and learning the the structures and unwritten rules enough to pass.
-</p><p>
+
 This may also resonate on a personal, lower level to a very real of sometime the subculture rulesets that people might not be familiar with masking and mimicking elements to fit in.
-</p><p>
+
 <div class="row mt-2">
     <div class="col-sm-4 float-md-left clip-spacing pr-md-4 pl-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded" max-width="268px" title="Sea curse scene from the film The Lighthouse" %}
@@ -127,24 +126,24 @@ This may also resonate on a personal, lower level to a very real of sometime the
     Names are how we address each other, how legal agreements are signature, our identity status made official. Plus we totally need a name to properly curse someone. Names can give power and are power. Victor never names his composite creature in the book *Frankenstein* despite its clear dismay and display of considerable humanity, and so Victor never accepts the being to be treated humanely. 
     </div>
 </div>
-</p>
+
 (Look how that worked out for him, eh?) Victor never truly has power over the creature either, the thing naming is supposed to grant and calls his creation "deamon" (like the Unix system), a likely reference to a walker between heaven and earth - a superhuman of sorts as noted by Charles E. Robinson's 2017 annotated edition of *Frankenstein*.
 
 <aside><p>Once you gave a thing a name, you gave it life</p><p><em>
 - Terry Pratchett</em></p></aside>
-<p>
-Many procedural games do the same thing: naming a generated monster "the Butcher" instead of leaving it as "imp #4" to give it weight and projected meaning. the point is we need to be calling things more than just monster, especially those of noted quality. Diablo, PrincessRL and many games with procedural element name a procedural being to give emphasis and denote power, that these entities are of importance and worth consideration before approach.</p>
+
+Many procedural games do the same thing: naming a generated monster "the Butcher" instead of leaving it as "imp #4" to give it weight and projected meaning. the point is we need to be calling things more than just monster, especially those of noted quality. Diablo, PrincessRL and many games with procedural element name a procedural being to give emphasis and denote power, that these entities are of importance and worth consideration before approach.
 
 <aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who do things.”</p><p><em>― Ray Bradbury, The October Country</em></p></aside>
 
-<p>Names are what are called forth from parents and loved ones for acknowledgement or admonition, In a formal setting, its whats transcribed on degrees, decrees, and identification. They are what we obscure when we do not want to be found, what we shed when starting over. Titles and honorifics, work like level ups; earned through deeds, collected achievements, while small community nicknames only used by a faction of few indicate a private in group. Its the foundational semiotics to encapsulate an entity, naming through taxonomy, but with exceptional potential uniqueness.
-</p><p>
+Names are what are called forth from parents and loved ones for acknowledgement or admonition, In a formal setting, its whats transcribed on degrees, decrees, and identification. They are what we obscure when we do not want to be found, what we shed when starting over. Titles and honorifics, work like level ups; earned through deeds, collected achievements, while small community nicknames only used by a faction of few indicate a private in group. Its the foundational semiotics to encapsulate an entity, naming through taxonomy, but with exceptional potential uniqueness.
+
 World Builder author Mark J. P. Wolf writing on subcreation and invented languages, notes that a name "has the potential to cast a new light on the things it names, by emphasizing certain aspects about them or relating them to each in new ways through linguistic similarities" even if, naming is a comparatively shallow act of invention compared to an entire language. Still a name projects to the world what something is.
-</p>
+
 <aside><p>"Names should always have resonance, but they are given by others" - Dirk Krecker (fine artist, quote from *Typewriter Art* pg 127)</p></aside>
-<p>
+
 In Pokémon *nuzlocke* challenges, a self imposed gameplay based on player constraints revolving around Pokémon, one core component is to *name* every Pokémon you catch to build attachment and push against the flippant casualness the game otherwise encourages you to use cycling through intelligent creatures.
-</p>
+
 <aside><p>"Names establish character, lead into events, and create expectations."<br>— Jack Halberstam, *Trans\*: A Quick and Quirky Account of Gender Variability*, p. 2</p></aside>
 <p>
 The first time I played the intricate roguelike *Nethack*, I was spawned with a pet cat and immediately had to look up the hash command to name them (Figmus). I spent the rest of my short run, doomed run genuinely worried about my cats well being, at one point chasing her down a trapped door she fell through. Not just an emergent-narrative anecdote; but naming her contributed to the made connection to this clumsy, endearing creature real in the first place.
