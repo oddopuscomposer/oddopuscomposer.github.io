@@ -153,8 +153,8 @@ The first time I played the intricate roguelike *Nethack*, I was spawned with a 
 
 This leads me to think about changing or discovering one's name of oneself. An often distinctly queer journey, especially for trans people exploring a more personal reflection of expression, role expectations - how they wish to be seen and addressed. They employ tactics like, during a name search, like going to a coffee slinging houses and testing out pseudonyms via magical barista witches callouts of monikers for you to test your what your spirit answers to.
 
-<aside><p> “All things are defined by names. Change the name, and you change the thing.”</p><em><p>
-― Terry Pratchett, *Pyramids*, Part II: THe Book of the Dead, p.110</em></p></aside>
+<aside>“All things are defined by names. Change the name, and you change the thing.”<em><p>
+― Terry Pratchett, *Pyramids*, Part II: THe Book of the Dead, p.110</p></em></aside>
 
 Name is recognition, and not having yours used is further social exile.
 
@@ -701,9 +701,9 @@ This is how we can think of these long name with honorifics and double epithets 
 | Honorific | Firstname | Surname1 | Surname2 | Filler | Descriptor | Reputation | Filler | Descriptor | Place | Class | Filler | Leader | Noun   |
 | --------- | --------- | -------- | -------- | ------ | ---------- | ---------- | ------ | ---------- | ----- | ----- | ------ | ------ | ------ |
 | Madam     | Wendy     | Red      | bells    | the    | Dark       | Tyrant     | of the | Deep       | Mauw  | Adept | of the | Queens | Shadow |
-<p>
+
 But naturally, that becomes a bit cumberson, so usually you want these styles of names less often to limit impact of name fatigue. But it could be a fun aspect ot a player character keepign track of titles, earned through biome and action reconition.
-</p>
+
 
 {% details More Advanced Code Examples%}
 {% tabs ExamplesThree %}
