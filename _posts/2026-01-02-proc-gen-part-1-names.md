@@ -82,7 +82,7 @@ Names carry weight. They hold legacy, symbolic representation, and roles. Plus, 
 We know the common aspect of demonology is that knowing the true name of a creature or entity holds some sway of power over them, such as summoning a demon to enact your will. Hidden names and elements of oneself that are feared to be discovered, names more reflected in the formal address we treat as a weakness. It gives pause, emphasis, and direction of the surrounding words.
 
 "Speak of the devil, and they shall appear". Perhaps this is due to some king of mathematical logics. Demons fear the memory of their possibility of mortality, the layered spells which make up their essence, they have traded in and reformed over centuries, like a ship of Theseus<d-footnote>https://johntscott.com/wp-content/uploads/2019/02/aes.brute_.force_.work_.factor.argument.pdf</d-footnote>.
-<aside>A modern computer AES-256 encryption would require billions of years to brute force, not to mention exceptional amount of power required and many replications of the strongest computers currently made. - But if you know the key its easy. Also apparently, quantum computers might be bit of a game changer.</aside>
+<d-sidenote>A modern computer AES-256 encryption would require billions of years to brute force, not to mention exceptional amount of power required and many replications of the strongest computers currently made. - But if you know the key its easy. Also apparently, quantum computers might be bit of a game changer.</d-sidenote>
 
 A true name is the key. The mathematical truism of a being is at risk with their true name being known leading to their unmaking. Judaism, those who know gods true name would have power over all of the creations, thus the Kabbalah. The Ancient Egyptian Book of the Dead is supposed to host the true names of those you meet in your afterlife as a means of controlling them. In christianity's Genesis, god tells Adam to name the animals, establishing their subservience to him, while later when Jacob and an angel wrestle (Genesis 32:22-32 and in Hosea), the angel refuses to tell him their name.
 <aside><p>That's right, first post and we are already quoting philosophical feminism, paganistic structures, fantastical existentialism, computer nerdery, and the fucking Bible. Goddammit, I don't want to talk about the fucking Bible again</p></aside>
@@ -133,7 +133,7 @@ This may also resonate on a personal, lower level to a very real of sometime the
 
 Many procedural games do the same thing: naming a generated monster "the Butcher" instead of leaving it as "imp #4" to give it weight and projected meaning. the point is we need to be calling things more than just monster, especially those of noted quality. Diablo, PrincessRL and many games with procedural element name a procedural being to give emphasis and denote power, that these entities are of importance and worth consideration before approach.
 
-<aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who do things.”</p><p><em>― Ray Bradbury, The October Country</em></p></aside>
+<aside markdown="1">“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who do things.”<p><em>― Ray Bradbury, The October Country</em></p></aside>
 
 Names are what are called forth from parents and loved ones for acknowledgement or admonition, In a formal setting, its whats transcribed on degrees, decrees, and identification. They are what we obscure when we do not want to be found, what we shed when starting over. Titles and honorifics, work like level ups; earned through deeds, collected achievements, while small community nicknames only used by a faction of few indicate a private in group. Its the foundational semiotics to encapsulate an entity, naming through taxonomy, but with exceptional potential uniqueness.
 
@@ -1133,7 +1133,7 @@ That's also a natural foundation for lore that's only discoverable locally. It c
 </p>
 <div class="row mt-2">
     <div class="col-sm mt-2 mt-md-0">
-    So lots of cool avenues to explore.<br>But that's a ramble for another day.<br>
+    So lots of cool avenues to explore.<br>But that's a ramble for another day.<br><br>
     with ludonarrative love, <br>
     Alix
     </div>
