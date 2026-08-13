@@ -81,8 +81,7 @@ Names carry weight. They hold legacy, symbolic representation, and roles. Plus, 
 
 We know the common aspect of demonology is that knowing the true name of a creature or entity holds some sway of power over them, such as summoning a demon to enact your will. Hidden names and elements of oneself that are feared to be discovered, names more reflected in the formal address we treat as a weakness. It gives pause, emphasis, and direction of the surrounding words.
 
-"Speak of the devil, and they shall appear". Perhaps this is due to some king of mathematical logics. Demons fear the memory of their possibility of mortality, the layered spells which make up their essence, they have traded in and reformed over centuries, like a ship of Theseus.<d-footnote>https://johntscott.com/wp-content/uploads/2019/02/aes.brute_.force_.work_.factor.argument.pdf</d-footnote>
-
+"Speak of the devil, and they shall appear". Perhaps this is due to some king of mathematical logics. Demons fear the memory of their possibility of mortality, the layered spells which make up their essence, they have traded in and reformed over centuries, like a ship of Theseus<d-footnote>https://johntscott.com/wp-content/uploads/2019/02/aes.brute_.force_.work_.factor.argument.pdf</d-footnote>.
 <aside>A modern computer AES-256 encryption would require billions of years to brute force, not to mention exceptional amount of power required and many replications of the strongest computers currently made. - But if you know the key its easy. Also apparently, quantum computers might be bit of a game changer.</aside>
 
 A true name is the key. The mathematical truism of a being is at risk with their true name being known leading to their unmaking. Judaism, those who know gods true name would have power over all of the creations, thus the Kabbalah. The Ancient Egyptian Book of the Dead is supposed to host the true names of those you meet in your afterlife as a means of controlling them. In christianity's Genesis, god tells Adam to name the animals, establishing their subservience to him, while later when Jacob and an angel wrestle (Genesis 32:22-32 and in Hosea), the angel refuses to tell him their name.
@@ -153,21 +152,25 @@ The first time I played the intricate roguelike *Nethack*, I was spawned with a 
 
 ### Reclamation of Identity and Queer Introspection
 
-<p>This leads me to think about changing or discovering one's name of oneself. An often distinctly queer journey, especially for trans people exploring a more personal reflection of expression, role expectations - how they wish to be seen and addressed. They employ tactics like, during a name search, like going to a coffee slinging houses and testing out pseudonyms via magical barista witches callouts of monikers for you to test your what your spirit answers to.</p><p>Name is recognition, and not having yours used is further social exile </p>
+This leads me to think about changing or discovering one's name of oneself. An often distinctly queer journey, especially for trans people exploring a more personal reflection of expression, role expectations - how they wish to be seen and addressed. They employ tactics like, during a name search, like going to a coffee slinging houses and testing out pseudonyms via magical barista witches callouts of monikers for you to test your what your spirit answers to.
+
+Name is recognition, and not having yours used is further social exile.
 
 <aside><p> “All things are defined by names. Change the name, and you change the thing.”<em>
 ― Terry Pratchett, *Pyramids*, Part II: THe Book of the Dead, p.110</em></p></aside>
 
-<p>Being named is recognition; not having your name used is a small, ongoing exile. The 2019 D&D *Unearthed Arcana: Cleric, Druid, and Wizard* release puts it well: "Onomancy, or naming magic, is a method of spellcasting that uses a creature's true name to enhance a spell's effects. A true name is the name by which a self-aware creature identifies itself. This name might be the name a person was given at birth, or one a person chose or earned later in life." (p. 4)</p>
+Being named is recognition; not having your name used is a small, ongoing exile. The 2019 D&D *Unearthed Arcana: Cleric, Druid, and Wizard* release puts it well: "Onomancy, or naming magic, is a method of spellcasting that uses a creature's true name to enhance a spell's effects. A true name is the name by which a self-aware creature identifies itself. This name might be the name a person was given at birth, or one a person chose or earned later in life." (p. 4)
+
 <aside><p>Honestly, the three paragraphs on Onomancy in that release are bangers: "Changing one's true name is never a quick choice; it's something that happens over time as a name becomes the creature's truth." (p. 4)</p></aside>
-<p>We label ourselves, and we're labeled by others. In the spirit of Halberstam's opening chapter, "What's in a Name" — over my life I've called myself a lesbian, a dyke, queer, trans, a gay misadventurer, a neurotic biohacked futch nerd. I've been called plenty of other things too, from slurs on down.
-</p>
+
+We label ourselves, and we're labeled by others. In the spirit of Halberstam's opening chapter, "What's in a Name" — over my life I've called myself a lesbian, a dyke, queer, trans, a gay misadventurer, a neurotic biohacked futch nerd. I've been called plenty of other things too, from slurs on down.
+
 <aside><p>"Something that is named stands out in the multiverse, distinct from the tapestry of creation all around it." — *Unearthed Arcana: Cleric, Druid, and Wizard*, 2019, p. 4</p></aside>
-<p>
+
 Renaming isn't only a queer experience, as plenty of cis ane straight people adjust their names too: combining surnames on marriage, Captain Planet style, into something new. Changing a name might be utilised to shed ghosts or echoes of a past lineage burden, dark legacy, or hereditary identification.
 
 While there are a fair few writings on the cleverness methods of proper naming of characters, names that instill visualisation and projected investments, the truth is, we often make our names meaning dispite all their awkwardness and that is more in the spirit of this exercise. While I certainly have curated hundreds of name elements that are of particular interest to my style and lexicographical  taste, there still be some clumsy, dirpy, and peculiar outcomes, which just means that those characters get to grow into their names and narrative the way the rest of do and overcome and embrace their names in all their glory. 
-</p>
+
 <aside><p>“Names are unique sounds and cadences of words that are attached to one specific individual-sort of like a kind of theme music.”</p><p><em>― Jim Butcher, Storm Front (The Dresden Files)</em></p></aside>
 <div class="row mt-2">
     <div class="col-4 mt-3 mt-md-0">
