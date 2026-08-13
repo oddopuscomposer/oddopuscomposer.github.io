@@ -110,7 +110,7 @@ Through identity, we gain meaning, which is why the names our parents imposed on
 
 <aside><p>And yes, I am relating anime, the bible, human history, and speculative fiction.</p></aside>
 
-In his essay *The Place of Culture, Society, and Politics in Video Game World-Building*, Mark R. Johnson discusses many elements of his culture and world generator, Ultima Ratio Regum he talks about his system for generating names as one of the many ways to distinguish the permutated cultures. "*The game has around 50 archetypes of names, but then each archetype can either be altered randomly, or altered according to the rest of the game world, drawing on ideas like animals or plants to create a set of possible names. 
+In his essay *The Place of Culture, Society, and Politics in Video Game World-Building*, Mark R. Johnson discusses many elements of his culture and world generator, Ultima Ratio Regum he talks about his system for generating names as one of the many ways to distinguish the permutated cultures. "The game has around 50 archetypes of names, but then each archetype can either be altered randomly, or altered according to the rest of the game world, drawing on ideas like animals or plants to create a set of possible names." 
 
 <aside><p> Ultima Ratio Regum is Latin for "the last argument of kings"</p></aside>
 
@@ -134,8 +134,6 @@ This may also resonate on a personal, lower level to a very real of sometime the
 
 Many procedural games do the same thing: naming a generated monster "the Butcher" instead of leaving it as "imp #4" to give it weight and projected meaning. the point is we need to be calling things more than just monster, especially those of noted quality. Diablo, PrincessRL and many games with procedural element name a procedural being to give emphasis and denote power, that these entities are of importance and worth consideration before approach.
 
-<aside>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who do things.”<em>― Ray Bradbury, The October Country</em>></aside>
-
 Names are what are called forth from parents and loved ones for acknowledgement or admonition, In a formal setting, its whats transcribed on degrees, decrees, and identification. They are what we obscure when we do not want to be found, what we shed when starting over. Titles and honorifics, work like level ups; earned through deeds, collected achievements, while small community nicknames only used by a faction of few indicate a private in group. Its the foundational semiotics to encapsulate an entity, naming through taxonomy, but with exceptional potential uniqueness.
 
 World Builder author Mark J. P. Wolf writing on subcreation and invented languages, notes that a name "has the potential to cast a new light on the things it names, by emphasizing certain aspects about them or relating them to each in new ways through linguistic similarities" even if, naming is a comparatively shallow act of invention compared to an entire language. Still a name projects to the world what something is.
@@ -155,10 +153,10 @@ The first time I played the intricate roguelike *Nethack*, I was spawned with a 
 
 This leads me to think about changing or discovering one's name of oneself. An often distinctly queer journey, especially for trans people exploring a more personal reflection of expression, role expectations - how they wish to be seen and addressed. They employ tactics like, during a name search, like going to a coffee slinging houses and testing out pseudonyms via magical barista witches callouts of monikers for you to test your what your spirit answers to.
 
-Name is recognition, and not having yours used is further social exile.
-
-<aside><p> “All things are defined by names. Change the name, and you change the thing.”<em>
+<aside><p> “All things are defined by names. Change the name, and you change the thing.”</p><em><p>
 ― Terry Pratchett, *Pyramids*, Part II: THe Book of the Dead, p.110</em></p></aside>
+
+Name is recognition, and not having yours used is further social exile.
 
 Being named is recognition; not having your name used is a small, ongoing exile. The 2019 D&D *Unearthed Arcana: Cleric, Druid, and Wizard* release puts it well: "Onomancy, or naming magic, is a method of spellcasting that uses a creature's true name to enhance a spell's effects. A true name is the name by which a self-aware creature identifies itself. This name might be the name a person was given at birth, or one a person chose or earned later in life." (p. 4)
 
@@ -1125,7 +1123,9 @@ Patterns to potentially try:<ul>
 For a group of militants or bandits, we can try combination yielding results like: The Silent Daggers, Princess Phoebe's Priestesses, The Lost Helm, The Snapdragon Knights, Lord Edwins Axe, Cauldron Fatecasters, Acorn Foxes of the Forrest. You could then craft full titles like Geraldina of the Cauldron Fatecasters. Rachel, resident witch of the Snapdragon Knights. Adrienne the Gold Vixen, most cunning of the Acorn Foxes - yes, those ones of the fore mention forest. And so forth ¯\_(ツ)_/¯
 </p><p>
 One more improvement worth noting: epithets are often awarded and given rather than chosen. We could generate some sort of global stats to keep track of kill counts, type, travel, notable action, and more to update the names of NPCs, things, and the player accordingly. Rachel Pollack, in her writing on how Persephone earns her name in the underworld after being taken by Hades ("She Who Shines in the Dark," "Pupil of the Eye"), describes how Persephone becomes conscious of herself there — gaining awareness of her own individuality by facing the underworld and shining in it anyway.<d-footnote>Gabriel, Davina Anne, editor. "Title of Specific Article." TransSisters: The Journal of Transsexual Feminism, no. 9, Summer 1995, pp. 51-52.</d-footnote> Naming, in that sense, is part of coming into being, through being named, or through the layered attributes of a life accumulating into the name someone finally uses for you.
-</p><p>
+</p>
+<aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who do things.”</p><p><em>― Ray Bradbury, The October Country</em>></p><aside>
+<p>
 What's more, names tend to be somewhat geographic in the sense that certain names carry more weight in certain places or amongst particular companies. We could link the given names from deeds/atrocities of a given biome or a group of beings. You may be known as the conquer of the frozen depths, really, to the town on the edge of the frozen depths, but the desert oasis town of Hotsville, a few regions over, probably has never heard of you exceptionally noble actions.
 </p><p>
 A traveling scholar might know your repreutation regarless, as an individual who keeps up with world events or a slime colony could even develop their own cognomen for the player (or an NPC) due to their continual killing of slimes (Caitlin the Slime Slayer). A system could cross-reference those two tiers of "who's heard of you" (geolocational and culturally) to produce a an interesting and complex recognition system even furthermore a rumor decay algorithm based around NPCs around events which deminishes over time, where epithets are built from multiple rumors, and rumors are built from multiple observed events. 
