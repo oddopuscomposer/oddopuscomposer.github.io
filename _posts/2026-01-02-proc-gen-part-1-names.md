@@ -33,7 +33,9 @@ toc:
 ## Subject
 
 **Main Topic**: Procedural Generation 101, Name Creation and Myth, Ludonarrative Thoughts, Queer Representation, Rust Tinkering
-A Playlist to listen to while you read {<a href="https://music.apple.com/us/playlist/blog-post-one-proc-gen-names/pl.u-GgA5zr5CqVRE1" target="_blank">Apple Music</a>, Qobuz}
+
+**A Playlist** to listen to while you read {<a href="https://music.apple.com/us/playlist/blog-post-one-proc-gen-names/pl.u-GgA5zr5CqVRE1" target="_blank">Apple Music</a>, Qobuz}
+<br>
 
 #### Take Away & the TL;DR
 
