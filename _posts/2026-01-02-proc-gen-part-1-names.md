@@ -153,7 +153,7 @@ The first time I played the intricate roguelike *Nethack*, I was spawned with a 
 
 This leads me to think about changing or discovering one's name of oneself. An often distinctly queer journey, especially for trans people exploring a more personal reflection of expression, role expectations - how they wish to be seen and addressed. They employ tactics like, during a name search, like going to a coffee slinging houses and testing out pseudonyms via magical barista witches callouts of monikers for you to test your what your spirit answers to.
 
-<aside>“All things are defined by names. Change the name, and you change the thing.”<em><p>
+<aside><p>“All things are defined by names. Change the name, and you change the thing.”</p><em><p>
 ― Terry Pratchett, *Pyramids*, Part II: THe Book of the Dead, p.110</p></em></aside>
 
 Name is recognition, and not having yours used is further social exile.
@@ -204,7 +204,18 @@ We, of course, can generate our own theophorics, non-denominational and otherwis
 
 ### Code Experiments
 
-But we are also putting the code in a details drop down!
+Below a have code and a live webplayer of the code in drop downs so you can see some of the theory in action!
+
+
+<div class="row mt-2">
+    <div class="col-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/5by5.gif" class="float-left img-fluid rounded z-depth-1" max-width="268px" title="Faith from Buffy the Vampire Slayer TV show saying 5 by 5." %}
+    </div>
+    <div class="col-8 mt-2 mt-md-0">
+
+    </div>
+</div>
+
 
 {% details Click here to look at and run code%}
 
@@ -290,7 +301,7 @@ fn main() {
 {% enddetails %}
 
 
-Here is the web player of the rust code in action that you can run yourself!
+Above is a web player of the rust code in action that you can run yourself!
  
 #### Another example
 
@@ -1122,11 +1133,11 @@ Patterns to potentially try:<ul>
 <p>
 For a group of militants or bandits, we can try combination yielding results like: The Silent Daggers, Princess Phoebe's Priestesses, The Lost Helm, The Snapdragon Knights, Lord Edwins Axe, Cauldron Fatecasters, Acorn Foxes of the Forrest. You could then craft full titles like Geraldina of the Cauldron Fatecasters. Rachel, resident witch of the Snapdragon Knights. Adrienne the Gold Vixen, most cunning of the Acorn Foxes - yes, those ones of the fore mention forest. And so forth ¯\_(ツ)_/¯
 </p><p>
-One more improvement worth noting: epithets are often awarded and given rather than chosen. We could generate some sort of global stats to keep track of kill counts, type, travel, notable action, and more to update the names of NPCs, things, and the player accordingly. Rachel Pollack, in her writing on how Persephone earns her name in the underworld after being taken by Hades ("She Who Shines in the Dark," "Pupil of the Eye"), describes how Persephone becomes conscious of herself there — gaining awareness of her own individuality by facing the underworld and shining in it anyway.<d-footnote>Gabriel, Davina Anne, editor. "Title of Specific Article." TransSisters: The Journal of Transsexual Feminism, no. 9, Summer 1995, pp. 51-52.</d-footnote> Naming, in that sense, is part of coming into being, through being named, or through the layered attributes of a life accumulating into the name someone finally uses for you.
-</p>
+One more improvement worth noting: epithets are often awarded and given rather than chosen. We could generate some sort of global stats to keep track of kill counts, type, travel, notable action, and more to update the names of NPCs, things, and the player accordingly. Rachel Pollack, in her writing on how Persephone earns her name in the underworld after being taken by Hades ("She Who Shines in the Dark," "Pupil of the Eye"), describes how Persephone becomes conscious of herself there — gaining awareness of her own individuality by facing the underworld and shining in it anyway.<d-footnote>Gabriel, Davina Anne, editor. "Title of Specific Article." TransSisters: The Journal of Transsexual Feminism, no. 9, Summer 1995, pp. 51-52.</d-footnote> Naming, in that sense, is part of coming into being, through being named, or through the layered attributes of a life accumulating into the name someone finally uses for you.</p>
+
 <aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who do things.”</p><p><em>― Ray Bradbury, The October Country</em>></p><aside>
-<p>
-What's more, names tend to be somewhat geographic in the sense that certain names carry more weight in certain places or amongst particular companies. We could link the given names from deeds/atrocities of a given biome or a group of beings. You may be known as the conquer of the frozen depths, really, to the town on the edge of the frozen depths, but the desert oasis town of Hotsville, a few regions over, probably has never heard of you exceptionally noble actions.
+
+<p>What's more, names tend to be somewhat geographic in the sense that certain names carry more weight in certain places or amongst particular companies. We could link the given names from deeds/atrocities of a given biome or a group of beings. You may be known as the conquer of the frozen depths, really, to the town on the edge of the frozen depths, but the desert oasis town of Hotsville, a few regions over, probably has never heard of you exceptionally noble actions.
 </p><p>
 A traveling scholar might know your repreutation regarless, as an individual who keeps up with world events or a slime colony could even develop their own cognomen for the player (or an NPC) due to their continual killing of slimes (Caitlin the Slime Slayer). A system could cross-reference those two tiers of "who's heard of you" (geolocational and culturally) to produce a an interesting and complex recognition system even furthermore a rumor decay algorithm based around NPCs around events which deminishes over time, where epithets are built from multiple rumors, and rumors are built from multiple observed events. 
 </p><p>
