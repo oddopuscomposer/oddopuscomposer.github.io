@@ -306,12 +306,12 @@ String concatenation is the workhorse for generating unique identifiers — for 
 
 We'll build two datasets to work from: one leaning fantasy-epic (magic names, grand epithets), and one leaning modern (honorifics, more grounded names).
 <div class="row mt-2">
-    <div class="col-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog_images/5by5.gif" class="float-right img-fluid rounded z-depth-1" max-width="268px" title="Faith from Buffy the Vampire Slayer TV show saying 5 by 5." %}
-    </div>
     <div class="col-8 mt-2 mt-md-0">
     Each of those datasets gets concatenated into a larger result — and the more layers of concatenation we stack, the more variety we get from the same underlying pool.
     Something perhaps 5x5 Buffy-style: like forename × surname × honorific × reputation × location.
+    </div>
+    <div class="col-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/5by5.gif" class="float-right img-fluid rounded z-depth-1" max-width="268px" title="Faith from Buffy the Vampire Slayer TV show saying 5 by 5." %}
     </div>
 </div>
  
