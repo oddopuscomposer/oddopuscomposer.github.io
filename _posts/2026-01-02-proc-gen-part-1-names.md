@@ -196,8 +196,8 @@ Nuns all get their Mary name; their second name is preceded by mother. Additiona
 </p>
 <aside><p>“What's in a name? That which we call a rose by any other name would smell as sweet.”<em> ― William Shakespeare, Romeo and Juliet</em></p></aside>
 <p>We, of course, can generate our own theophorics, non-denominational and otherwise, for our zealots and clerics. Beloved of, bestowed by, blessed by, blessing from, is the spirit of, beloved of, eternal dweller of %deity% splendour of, %deity% faithful to, guided by, handmaid of, protected by, provided by,  warrior of, etc. </p>
-{% include figure.liquid loading="eager" path="assets/img/blog_images/ZotePrecept32.png" class="img-fluid rounded z-depth-1" %}
-<center><sup>Precept Thirty-Two: 'Names Have Power'.<br>Names have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own! - Zote the Mighty (Hollow Knight, 2017)</sup></center>
+{% include figure.liquid loading="eager" path="assets/img/blog_images/ZotePrecept32.png" class="img-fluid rounded z-depth-1" title="Precept Thirty-TwpNames have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own! - Zote the Mighty" %}
+<center>Hollow Knight, 2017</center>
 
 ### Code Experiments
 
@@ -714,7 +714,7 @@ Here are some of my favorite results so far:
     </div>
     <div class="col-sm mt-2 mt-md-0">
     <p>
-    <ul style="line-height: 1.2em; margin-bottom: 6px">
+    <ul style="line-height: 1em; margin-bottom: 6px">
         <li>Doctor Wren Fastthimble the Seamer</li>
         <li>Man of Science Zulo Ramcraft</li>
         <li>Jing Olddevil of the Obsidian Oath</li>
@@ -1142,7 +1142,7 @@ We could head deeper into this system, building out some hypocorisms based on th
 </p><p>
 Hopefully, you see the use, whether for interest or fun, TTRPG or coded game. I'll leave with one more follow-up. Consider an expansion which might scale to incorporate group names, societies, cults, & orders. We could easily reformat this to accomidate and generate secret societies or a guild of specialists.
 </p><p>
-Patterns to potentially try:<ul style="line-height: 1.2em; margin-bottom: 6px">
+Patterns to potentially try:<ul style="line-height: 1em; margin-bottom: 6px">
 <li> Group + entity</li>
 <li> Description + group</li>
 <li> Group + description + entity</li>
