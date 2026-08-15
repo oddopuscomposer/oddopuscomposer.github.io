@@ -1172,4 +1172,7 @@ That's also a natural foundation for lore that's only discoverable locally. It c
     </div>
 </div>
 
-{% include citation.liquid %}
+<d-appendix>
+  <hr>
+  {% include citation.liquid %}
+</d-appendix>
