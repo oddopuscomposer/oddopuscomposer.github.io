@@ -197,7 +197,7 @@ Nuns all get their Mary name; their second name is preceded by mother. Additiona
 <aside><p>“What's in a name? That which we call a rose by any other name would smell as sweet.”<em> ― William Shakespeare, Romeo and Juliet</em></p></aside>
 <p>We, of course, can generate our own theophorics, non-denominational and otherwise, for our zealots and clerics. Beloved of, bestowed by, blessed by, blessing from, is the spirit of, beloved of, eternal dweller of %deity% splendour of, %deity% faithful to, guided by, handmaid of, protected by, provided by,  warrior of, etc. </p>
 {% include figure.liquid loading="eager" path="assets/img/blog_images/ZotePrecept32.png" class="img-fluid rounded z-depth-1" title="Precept Thirty-TwpNames have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own! - Zote the Mighty" %}
-<center>Hollow Knight, 2017</center>
+<div class="row justify-content-sm-center">Hollow Knight, 2017</div>
 
 ### Code Experiments
 
@@ -1151,7 +1151,8 @@ Patterns to potentially try:<ul style="line-height: 1em; margin-bottom: 6px">
 
 For a group of militants or bandits, we can try combination yielding results like: The Silent Daggers, Princess Phoebe's Priestesses, The Lost Helm, The Snapdragon Knights, Lord Edwins Axe, Cauldron Fatecasters, Acorn Foxes of the Forrest. You could then craft full titles like Geraldina of the Cauldron Fatecasters. Rachel, resident witch of the Snapdragon Knights. Adrienne the Gold Vixen, most cunning of the Acorn Foxes - yes, those ones of the fore mention forest. And so forth *¯\_(ツ)_/¯*
 
-One more improvement worth noting: epithets are often awarded and given rather than chosen. We could generate some sort of global stats to keep track of kill counts, type, travel, notable action, and more to update the names of NPCs, things, and the player accordingly. Rachel Pollack, in her writing on how Persephone earns her name in the underworld after being taken by Hades ("She Who Shines in the Dark," "Pupil of the Eye"), describes how Persephone becomes conscious of herself there — gaining awareness of her own individuality by facing the underworld and shining in it anyway.<d-footnote>Gabriel, Davina Anne, editor. "THE AND  POWER THE PASSION: AN INTERVIEW WITH RACHEL POLLACK" TransSisters: The Journal of Transsexual Feminism, no. 9, Summer 1995, pp. 51-52.</d-footnote> Naming, in that sense, is part of coming into being, through being named, or through the layered attributes of a life accumulating into the name someone finally uses for you. <aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who do things.”</p><p><em>― Ray Bradbury, The October Country</em>></p></aside>
+One more improvement worth noting: epithets are often awarded and given rather than chosen. We could generate some sort of global stats to keep track of kill counts, type, travel, notable action, and more to update the names of NPCs, things, and the player accordingly. Rachel Pollack, in her writing on how Persephone earns her name in the underworld after being taken by Hades ("She Who Shines in the Dark," "Pupil of the Eye"), describes how Persephone becomes conscious of herself there — gaining awareness of her own individuality by facing the underworld and shining in it anyway.<d-footnote>Gabriel, Davina Anne, editor. "THE AND  POWER THE PASSION: AN INTERVIEW WITH RACHEL POLLACK" TransSisters: The Journal of Transsexual Feminism, no. 9, Summer 1995, pp. 51-52.</d-footnote> Naming, in that sense, is part of coming into being, through being named, or through the layered attributes of a life accumulating into the name someone finally uses for you.
+<aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who do things.”</p><p><em>― Ray Bradbury, The October Country</em>></p></aside>
 What's more, names tend to be somewhat geographic in the sense that certain names carry more weight in certain places or amongst particular companies. We could link the given names from deeds/atrocities of a given biome or a group of beings. You may be known as the conquer of the frozen depths, really, to the town on the edge of the frozen depths, but the desert oasis town of Hotsville, a few regions over, probably has never heard of you exceptionally noble actions.
 
 What's more, names tend to be somewhat geographic in the sense that certain names carry more weight in certain places or amongst particular companies. We could link the given names from deeds/atrocities of a given biome or a group of beings. You may be known as the conquer of the frozen depths, really, to the town on the edge of the frozen depths, but the desert oasis town of Hotsville, a few regions over, probably has never heard of you exceptionally noble actions.
@@ -1171,7 +1172,8 @@ That's also a natural foundation for lore that's only discoverable locally. It c
     </div>
 </div>
 
-<d-appendix>
-  <hr>
-  {% include citation.liquid %}
-</d-appendix>
+{% details Click here if you would like to cite this post!%}
+    {% tabs ExampleOne %}
+        {% include citation.liquid %}
+    {% endtabs %}
+{% enddetails %}
