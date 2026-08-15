@@ -59,10 +59,10 @@ Handcrafted content still matters in a procedurally generated world, placed deli
  
 The result of a procedurally generated world can typically be traced back to a single large random number, colloquially called a seed, from which the world is grown according to the designer’s authored parameters and thematic data. Each time the code runs, a new world (or part of one) is instantiated from its seed; reusing the same seed number will reproduce roughly the same initial world state (at least before the player action diverges from it), providing a super useful bookmark of sorts as a way to revisit a particular generated world and as a debugging tool.
 
-Due to the sheer multitudinous possibilities, procedural generation can also be notoriously fickle when testing. The potential results often being exceptionally greater than what can actually be reviewed so despite the mashing of the run key every few seconds to see what it does any longer form narrative consequences and world of systems, there is no really a practical way for us as the creators to get eyes on all the results even if were to dedicate their whole life to examining one main output from a proc-gen system.
-<aside><p>Note: a 52 deck of playing cards has more shuffling outcomes than molecules in the Milky Way... (52 factorial) 8.0658175e+67</p></aside>
+Due to the sheer multitudinous possibilities, procedural generation can also be notoriously fickle when testing. The potential results are often exceptionally greater than what can actually be reviewed, despite the mashing of the run key every few seconds to see what it does; any longer-form narrative consequences and world of systems, there is not really a practical way for us as the creators to get eyes on all the results even if we were to dedicate our whole lives to examining one main output from a proc-gen system.
+<aside><p>Note: a playing deck of 52 cards has more shuffling outcomes than molecules in the Milky Way... (52 factorial) 8.0658175e+67</p></aside>
 
-Procedural generation, in short, is a matter of control and intent. We can make things impactful and interesting. Temporing various algorithms and pseudorandom systems in combination with player agency makes each playthrough distinct without becoming meaningless.
+Proc-gen, in short, is a matter of control and intent. We can make things impactful and interesting by temporing various algorithms and pseudorandom systems in combination with player agency which makes each playthrough distinct without becoming meaningless.
 
 <div class="row mt-2">
     <div class="col-sm mt-3 mt-md-0">
