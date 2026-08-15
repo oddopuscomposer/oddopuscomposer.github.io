@@ -9,7 +9,7 @@ featured: true
 mermaid:
   enabled: true
   zoomable: true
-citation: false
+citation: true
 tabs: true
 
 
