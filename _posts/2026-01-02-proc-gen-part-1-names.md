@@ -143,11 +143,11 @@ World Builder author Mark J. P. Wolf writing on subcreation and invented languag
 In Pokémon *nuzlocke* challenges, a self imposed gameplay based on player constraints revolving around Pokémon, one core component is to *name* every Pokémon you catch to build attachment and push against the flippant casualness the game otherwise encourages you to use cycling through intelligent creatures.
 
 <aside><p>"Names establish character, lead into events, and create expectations."<br>— Jack Halberstam, *Trans\*: A Quick and Quirky Account of Gender Variability*, p. 2</p></aside>
-<p>
+
 The first time I played the intricate roguelike *Nethack*, I was spawned with a pet cat and immediately had to look up the hash command to name them (Figmus). I spent the rest of my short run, doomed run genuinely worried about my cats well being, at one point chasing her down a trapped door she fell through. Not just an emergent-narrative anecdote; but naming her contributed to the made connection to this clumsy, endearing creature real in the first place.
-</p>
+
 <aside><p>At the risk of over-quoting Terry Pratchett: this reminds me of *Good Omens*, where the (mildly antagonistic) Adam names his dog "Dog." Adam still adores that dog completely — the name is tautological, but the identity it points to is real.</p></aside>
-<p>Titles also hold sway and remembrance through the ages and time. Sometimes, honorifics are not as desired or controlled well by those who earn them. Anyone named Tim the Weak, Sarah Bitchen' Priestess, or Saint Hilarious Gaylord might not be what the individuals where originally hoping for.</p>
+Titles also hold sway and remembrance through the ages and time. Sometimes, honorifics are not as desired or controlled well by those who earn them. Anyone named Tim the Weak, Sarah Bitchen' Priestess, or Saint Hilarious Gaylord might not be what the individuals where originally hoping for.
 
 ### Reclamation of Identity and Queer Introspection
 
@@ -161,11 +161,9 @@ Name is recognition, and not having yours used is further social exile.
 Being named is recognition; not having your name used is a small, ongoing exile. The 2019 D&D *Unearthed Arcana: Cleric, Druid, and Wizard* release puts it well: "Onomancy, or naming magic, is a method of spellcasting that uses a creature's true name to enhance a spell's effects. A true name is the name by which a self-aware creature identifies itself. This name might be the name a person was given at birth, or one a person chose or earned later in life." (p. 4)
 
 <aside><p>Honestly, the three paragraphs on Onomancy in that release are bangers: "Changing one's true name is never a quick choice; it's something that happens over time as a name becomes the creature's truth." (p. 4)</p></aside>
-
 We label ourselves, and we're labeled by others. In the spirit of Halberstam's opening chapter, "What's in a Name" — over my life I've called myself a lesbian, a dyke, queer, trans, a gay misadventurer, a neurotic biohacked futch nerd. I've been called plenty of other things too, from slurs on down.
 
 <aside><p>"Something that is named stands out in the multiverse, distinct from the tapestry of creation all around it." — *Unearthed Arcana: Cleric, Druid, and Wizard*, 2019, p. 4</p></aside>
-
 Renaming isn't only a queer experience, as plenty of cis ane straight people adjust their names too: combining surnames on marriage, Captain Planet style, into something new. Changing a name might be utilised to shed ghosts or echoes of a past lineage burden, dark legacy, or hereditary identification.
 
 While there are a fair few writings on the cleverness methods of proper naming of characters, names that instill visualisation and projected investments, the truth is, we often make our names meaning dispite all their awkwardness and that is more in the spirit of this exercise. While I certainly have curated hundreds of name elements that are of particular interest to my style and lexicographical  taste, there still be some clumsy, dirpy, and peculiar outcomes, which just means that those characters get to grow into their names and narrative the way the rest of do and overcome and embrace their names in all their glory. 
@@ -206,16 +204,15 @@ We, of course, can generate our own theophorics, non-denominational and otherwis
 
 Below a have code and a live webplayer of the code in drop downs so you can see some of the theory in action!
 
+It all comes down to data banks: word pools, phrase corpora. The real work is vetting, reviewing, and shaping that content so the results land — both structurally and tonally. Writing in your own voice keeps generated output from feeling dry or textbook-flat. Make it interesting — which, incidentally, is also what my dissertation advisors keep begging me to do.
 
-<div class="row mt-2">
-    <div class="col-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog_images/5by5.gif" class="float-left img-fluid rounded z-depth-1" max-width="268px" title="Faith from Buffy the Vampire Slayer TV show saying 5 by 5." %}
-    </div>
-    <div class="col-8 mt-2 mt-md-0">
+The substrate of data your system draws from is where most of your authorial voice and aesthetic tone actually comes from.
 
-    </div>
-</div>
+Dr. Michael Cook, in his essay "Ethical Procedural Generation" (also in *Procedural Storytelling*), points out how much a small template decision can reveal. Take a tombstone generator: "Here lies %name% and %name%, forever in love." Are your name pools split by gender? Do you draw one from each pool, or pull freely from a shared list? That single choice quietly answers a much bigger question — whether your game world includes same-sex couples, or even allows them to be buried together. A throwaway extension to a template ends up making a real statement about your world, whether you meant it to or not.
 
+This pairs well with Bo Ruberg's observation that games communicate meaning not just through what's shown on screen, but through their underlying systems — as game scholar Ian Bogost argues, procedural systems themselves "make arguments and communicate ideologies," invoking political, social, and cultural values. And: "We must also think about how experiences of difference can be given voice (or once again be silenced) by video games' seemingly non-representational elements, such as their interactive systems, their controls, and their underlying computational logics." (Ruberg, 2019)
+
+First, a simple concatenation exercise: connecting strings — in this case, words. We'll take a small pool of forenames and surnames and randomly pair them up to see what we get. Behold our majestic results.
 
 {% details Click here to look at and run code%}
 
@@ -301,7 +298,24 @@ fn main() {
 {% enddetails %}
 
 
-Above is a web player of the rust code in action that you can run yourself!
+**Above is a web player of the rust code in action that you can run yourself!**
+
+Our first results are pretty flavorless on their own — let's add a layer of concatenation to the surname to bring in some surprise. But ee could just keep adding names to the pool, but a more efficient (and more fun) approach is to add a second layer of concatenation to the surname itself.
+
+String concatenation is the workhorse for generating unique identifiers — for people first, and eventually places and other things. I capitalized things to make the names read a bit cleaner — that'll also matter more as results get longer. This is a simple 10x10 pool, giving us 100 possible combinations — and even at that scale, patterns start repeating fast enough to break the illusion.
+
+We'll build two datasets to work from: one leaning fantasy-epic (magic names, grand epithets), and one leaning modern (honorifics, more grounded names).
+
+<div class="row mt-2">
+    <div class="col-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/5by5.gif" class="float-left img-fluid rounded z-depth-1" max-width="268px" title="Faith from Buffy the Vampire Slayer TV show saying 5 by 5." %}
+    </div>
+    <div class="col-8 mt-2 mt-md-0">
+Each of those datasets gets concatenated into a larger result — and the more layers of concatenation we stack, the more variety we get from the same underlying pool.
+
+5x5, Buffy-style: forename × surname × honorific × reputation × location.
+    </div>
+</div>
  
 #### Another example
 
@@ -1113,7 +1127,6 @@ Here we've added a 25% chance for a name to generate an epithet and or honorific
 {% endtabs %}
 {% enddetails %}
 
-
 ### Conclusion
 
 *Key Insights and Improvements to Impliment*
@@ -1136,7 +1149,6 @@ For a group of militants or bandits, we can try combination yielding results lik
 One more improvement worth noting: epithets are often awarded and given rather than chosen. We could generate some sort of global stats to keep track of kill counts, type, travel, notable action, and more to update the names of NPCs, things, and the player accordingly. Rachel Pollack, in her writing on how Persephone earns her name in the underworld after being taken by Hades ("She Who Shines in the Dark," "Pupil of the Eye"), describes how Persephone becomes conscious of herself there — gaining awareness of her own individuality by facing the underworld and shining in it anyway.<d-footnote>Gabriel, Davina Anne, editor. "Title of Specific Article." TransSisters: The Journal of Transsexual Feminism, no. 9, Summer 1995, pp. 51-52.</d-footnote> Naming, in that sense, is part of coming into being, through being named, or through the layered attributes of a life accumulating into the name someone finally uses for you.</p>
 
 <aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who do things.”</p><p><em>― Ray Bradbury, The October Country</em>></p><aside>
-
 <p>What's more, names tend to be somewhat geographic in the sense that certain names carry more weight in certain places or amongst particular companies. We could link the given names from deeds/atrocities of a given biome or a group of beings. You may be known as the conquer of the frozen depths, really, to the town on the edge of the frozen depths, but the desert oasis town of Hotsville, a few regions over, probably has never heard of you exceptionally noble actions.
 </p><p>
 A traveling scholar might know your repreutation regarless, as an individual who keeps up with world events or a slime colony could even develop their own cognomen for the player (or an NPC) due to their continual killing of slimes (Caitlin the Slime Slayer). A system could cross-reference those two tiers of "who's heard of you" (geolocational and culturally) to produce a an interesting and complex recognition system even furthermore a rumor decay algorithm based around NPCs around events which deminishes over time, where epithets are built from multiple rumors, and rumors are built from multiple observed events. 
