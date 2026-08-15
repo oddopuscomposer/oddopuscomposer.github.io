@@ -119,7 +119,7 @@ Once again, when the player learns a style of naming, they should be able to ide
 This may also resonate on a personal, lower level to a very real of sometime the subculture rulesets that people might not be familiar with masking and mimicking elements to fit in.
 
 <div class="row mt-2">
-    <div class="col-sm-4 float-md-left clip-spacing pr-md-4 pl-0">
+    <div class="col-sm-4 clip-spacing pr-md-4 pl-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_images/LighthouseSeaCurse.gif" class="float-left img-fluid rounded" max-width="268px" title="Sea curse scene from the film The Lighthouse" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
@@ -197,7 +197,7 @@ Nuns all get their Mary name; their second name is preceded by mother. Additiona
 <aside><p>“What's in a name? That which we call a rose by any other name would smell as sweet.”<em> ― William Shakespeare, Romeo and Juliet</em></p></aside>
 <p>We, of course, can generate our own theophorics, non-denominational and otherwise, for our zealots and clerics. Beloved of, bestowed by, blessed by, blessing from, is the spirit of, beloved of, eternal dweller of %deity% splendour of, %deity% faithful to, guided by, handmaid of, protected by, provided by,  warrior of, etc. </p>
 {% include figure.liquid loading="eager" path="assets/img/blog_images/ZotePrecept32.png" class="img-fluid rounded z-depth-1" %}
-*Precept Thirty-Two: 'Names Have Power'.<br>Names have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own!* - Zote the Mighty (Hollow Knight, 2017)
+<center><sup>Precept Thirty-Two: 'Names Have Power'.<br>Names have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own! - Zote the Mighty (Hollow Knight, 2017)</sup></center>
 
 ### Code Experiments
 
@@ -709,7 +709,7 @@ Its true names are powerful; an honorific like doctor or man of science calls fo
 <aside><p>My brain is open - Paul Erdős</p></aside>
 Here are some of my favorite results so far:
 <div class="row mt-2">
-    <div class="col-sm-4 float-md-left clip-spacing pr-md-4 pl-0">
+    <div class="col-sm-4 pr-md-4 pl-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_images/avatarang.gif" class="float-right img-fluid rounded" max-width="268px" title="Avatar Aang, from avatar the Last Airbender being goofy showing a silly little water trick" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
@@ -1168,7 +1168,7 @@ That's also a natural foundation for lore that's only discoverable locally. It c
     Alix
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog_images/InBurNook.gif" class="float-right img-fluid rounded" max-width="268px" title="In Bruges film gif talking about the term nooks and crannies" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/InBurNook.gif" class="float-center img-fluid rounded" max-width="268px" title="In Bruges film gif talking about the term nooks and crannies" %}
     </div>
 </div>
 
