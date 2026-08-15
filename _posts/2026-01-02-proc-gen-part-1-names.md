@@ -33,7 +33,9 @@ toc:
 ## Subject
 
 **Main Topic**: Procedural Generation 101, Name Creation and Myth, Ludonarrative Thoughts, Queer Representation, Rust Tinkering
-A Playlist to listen to while you read {<a href="https://music.apple.com/us/playlist/blog-post-one-proc-gen-names/pl.u-GgA5zr5CqVRE1" target="_blank">Apple Music</a>, Qobuz}
+
+**A Playlist** to listen to while you read {<a href="https://music.apple.com/us/playlist/blog-post-one-proc-gen-names/pl.u-GgA5zr5CqVRE1" target="_blank">Apple Music</a>, Qobuz}
+<br>
 
 #### Take Away & the TL;DR
 
@@ -1143,16 +1145,20 @@ Patterns to potentially try:<ul>
 <li> Group + description + entity</li>
 <li> Description + group + description entity</li></ul>
 ...and you could just continue expanding from there, adding places and other previously generated titles of kings and queens, like Shadow Sisters of the Dark Realm Order of the Silver King of Terror, or Sacred Librarians of the Bookish Order, or Followers of the Radiant Sentient Bell.<br></p>
-<p>
+
 For a group of militants or bandits, we can try combination yielding results like: The Silent Daggers, Princess Phoebe's Priestesses, The Lost Helm, The Snapdragon Knights, Lord Edwins Axe, Cauldron Fatecasters, Acorn Foxes of the Forrest. You could then craft full titles like Geraldina of the Cauldron Fatecasters. Rachel, resident witch of the Snapdragon Knights. Adrienne the Gold Vixen, most cunning of the Acorn Foxes - yes, those ones of the fore mention forest. And so forth ¯\_(ツ)_/¯
-</p><p>
-One more improvement worth noting: epithets are often awarded and given rather than chosen. We could generate some sort of global stats to keep track of kill counts, type, travel, notable action, and more to update the names of NPCs, things, and the player accordingly. Rachel Pollack, in her writing on how Persephone earns her name in the underworld after being taken by Hades ("She Who Shines in the Dark," "Pupil of the Eye"), describes how Persephone becomes conscious of herself there — gaining awareness of her own individuality by facing the underworld and shining in it anyway.<d-footnote>Gabriel, Davina Anne, editor. "Title of Specific Article." TransSisters: The Journal of Transsexual Feminism, no. 9, Summer 1995, pp. 51-52.</d-footnote> Naming, in that sense, is part of coming into being, through being named, or through the layered attributes of a life accumulating into the name someone finally uses for you.</p>
+
+One more improvement worth noting: epithets are often awarded and given rather than chosen. We could generate some sort of global stats to keep track of kill counts, type, travel, notable action, and more to update the names of NPCs, things, and the player accordingly. Rachel Pollack, in her writing on how Persephone earns her name in the underworld after being taken by Hades ("She Who Shines in the Dark," "Pupil of the Eye"), describes how Persephone becomes conscious of herself there — gaining awareness of her own individuality by facing the underworld and shining in it anyway.<d-footnote>Gabriel, Davina Anne, editor. "Title of Specific Article." TransSisters: The Journal of Transsexual Feminism, no. 9, Summer 1995, pp. 51-52.</d-footnote> Naming, in that sense, is part of coming into being, through being named, or through the layered attributes of a life accumulating into the name someone finally uses for you.
+
+<aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who do things.”</p><p><em>― Ray Bradbury, The October Country</em>></p></aside>
+
+What's more, names tend to be somewhat geographic in the sense that certain names carry more weight in certain places or amongst particular companies. We could link the given names from deeds/atrocities of a given biome or a group of beings. You may be known as the conquer of the frozen depths, really, to the town on the edge of the frozen depths, but the desert oasis town of Hotsville, a few regions over, probably has never heard of you exceptionally noble actions.
 
 <aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who do things.”</p><p><em>― Ray Bradbury, The October Country</em>></p><aside>
 <p>What's more, names tend to be somewhat geographic in the sense that certain names carry more weight in certain places or amongst particular companies. We could link the given names from deeds/atrocities of a given biome or a group of beings. You may be known as the conquer of the frozen depths, really, to the town on the edge of the frozen depths, but the desert oasis town of Hotsville, a few regions over, probably has never heard of you exceptionally noble actions.
 </p><p>
 A traveling scholar might know your repreutation regarless, as an individual who keeps up with world events or a slime colony could even develop their own cognomen for the player (or an NPC) due to their continual killing of slimes (Caitlin the Slime Slayer). A system could cross-reference those two tiers of "who's heard of you" (geolocational and culturally) to produce a an interesting and complex recognition system even furthermore a rumor decay algorithm based around NPCs around events which deminishes over time, where epithets are built from multiple rumors, and rumors are built from multiple observed events. 
-</p><p>
+
 That's also a natural foundation for lore that's only discoverable locally. It could flex further based on how the player introduces themselves, or reflect something observable about their playstyle directly: the Wizard of the North, if they lean on magic; Sacred Knight of the Ten Candles, if they've earned a public title. The same logic extends to items: swords earning names through use, or by prepetuated player action like - Trog the Soup Master Goblin becoming locally famous for his soup after selling it a thousand times.
 </p>
 <div class="row mt-2">
