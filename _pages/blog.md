@@ -204,7 +204,7 @@ Total site characters: {% published_posts_word_count total_characters %} (averag
 Longest post: <a href="{% published_posts_word_count longest_post_url %}">{% published_posts_word_count longest_post_title %}</a> ({% published_posts_word_count longest %} words) <br>
 Shortest post: <a href="{% published_posts_word_count shortest_post_url %}">{% published_posts_word_count shortest_post_title %}</a> ({% published_posts_word_count shortest %} words)
 </div>
-<div class="col-sm mt-2 mt-md-0">
+<div class="col-sm mt-2 mt-md-0"><br><br>
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#e83e8c', 'D1D11JFTPS');kofiwidget2.draw();</script> 
 </div>
 </div>
