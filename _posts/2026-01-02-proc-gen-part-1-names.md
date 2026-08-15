@@ -1142,7 +1142,7 @@ We could head deeper into this system, building out some hypocorisms based on th
 </p><p>
 Hopefully, you see the use, whether for interest or fun, TTRPG or coded game. I'll leave with one more follow-up. Consider an expansion which might scale to incorporate group names, societies, cults, & orders. We could easily reformat this to accomidate and generate secret societies or a guild of specialists.
 </p><p>
-Patterns to potentially try:<ul>
+Patterns to potentially try:<ul style="line-height: 1.2em; margin-bottom: 6px">
 <li> Group + entity</li>
 <li> Description + group</li>
 <li> Group + description + entity</li>
