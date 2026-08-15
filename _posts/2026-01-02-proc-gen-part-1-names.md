@@ -204,7 +204,7 @@ We, of course, can generate our own theophorics, non-denominational and otherwis
 
 ### Code Experiments
 
-Below a have code and a live webplayer of the code in drop downs so you can see some of the theory in action!
+*Below there is code and a live webplayer of said code in drop downs so you can see some of the theory in action!*
 
 It all comes down to data banks: word pools, phrase corpora. The real work is vetting, reviewing, and shaping that content so the results land — both structurally and tonally. Writing in your own voice keeps generated output from feeling dry or textbook-flat. Make it interesting — which, incidentally, is also what my dissertation advisors keep begging me to do.
 
@@ -300,7 +300,7 @@ fn main() {
 {% enddetails %}
 
 
-**Above is a web player of the rust code in action that you can run yourself!**
+*Above is a web player in the drop down of the rust code in action that you can run yourself!*
 
 Our first results are pretty flavorless on their own — let's add a layer of concatenation to the surname to bring in some surprise. But ee could just keep adding names to the pool, but a more efficient (and more fun) approach is to add a second layer of concatenation to the surname itself.
 
@@ -308,14 +308,14 @@ String concatenation is the workhorse for generating unique identifiers — for 
 
 We'll build two datasets to work from: one leaning fantasy-epic (magic names, grand epithets), and one leaning modern (honorifics, more grounded names).
 
+<br>
 <div class="row mt-2">
     <div class="col-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_images/5by5.gif" class="float-left img-fluid rounded z-depth-1" max-width="268px" title="Faith from Buffy the Vampire Slayer TV show saying 5 by 5." %}
     </div>
     <div class="col-8 mt-2 mt-md-0">
-Each of those datasets gets concatenated into a larger result — and the more layers of concatenation we stack, the more variety we get from the same underlying pool.
-
-5x5, Buffy-style: forename × surname × honorific × reputation × location.
+    Each of those datasets gets concatenated into a larger result — and the more layers of concatenation we stack, the more variety we get from the same underlying pool.
+    Something perhaps 5x5 Buffy-style: like forename × surname × honorific × reputation × location.
     </div>
 </div>
  
@@ -712,14 +712,22 @@ Heck, those who dabble in programming have many inside jokes about the challenge
 Its true names are powerful; an honorific like doctor or man of science calls for an elevated position of gained skill and knowledge. An epithet like of the queen's jeweled dagger or her of a thousand screams throws the weight of association behind the individual.
 </p>
 <aside><p>My brain is open - Paul Erdős</p></aside>
-<p>
-Here are some of my favorite results so far:<ul>
-	<li>Doctor Wren Fastthimble the Seamer</li>
-	<li>Man of Science Zulo Ramcraft</li>
-	<li>Jing Olddevil of the Obsidian Oath</li>
-	<li>Viscountum Nico Lovedevil</li>
-	<li>Selene Silverdragon, terrible cook</li></ul>
-</p>
+
+<div class="row mt-2">
+    <div class="col-sm-4 float-md-left clip-spacing pr-md-4 pl-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog_images/avatarang.gif" class="float-right img-fluid rounded" max-width="268px" title="Avatar Aang, from avatar the Last Airbender being goofy showing a silly little water trick" %}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+    <p>
+    Here are some of my favorite results so far:<ul>
+        <li>Doctor Wren Fastthimble the Seamer</li>
+        <li>Man of Science Zulo Ramcraft</li>
+        <li>Jing Olddevil of the Obsidian Oath</li>
+        <li>Viscountum Nico Lovedevil</li>
+        <li>Selene Silverdragon, terrible cook</li></ul>
+    </p>
+    </div>
+</div>
 
 This is how we can think of these long name with honorifics and double epithets being formed:
 
