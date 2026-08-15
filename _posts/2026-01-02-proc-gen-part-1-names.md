@@ -41,9 +41,9 @@ toc:
 
 Salutations & Hello,<br>
 In this inaugural article, we explore a basic definition and methods of procedural generation, starting off with some simple text engendering, as well as wander into tangents on the meaning of names and contemplate how naming relates to queer representation.
-Along the way we'll build our own data pools to generate names, from simple random pairs until we expand to exciting whimsical honorifics and epithets, using the basic coding concept of concatenations: mixing and matching words from banks a of data.<br>
+Along the way, we'll build our own data pools to generate names from simple random pairs until we expand to exciting whimsical honorifics and epithets, using the basic coding concept of concatenations: mixing and matching words from banks a of data.<br>
 
-<aside><p>**Concatenation** is a fun coding word to describe combining two or more "strings" or rather pieces of text into one. Such as "foos" + "ball" = "**foosball**".  (╭ರ_•́) Very in the spirit of the German language (• ᴗ • ᵕ)</p></aside>
+<aside><p>Concatenation** is a fun coding word to describe combining two or more "strings" or rather pieces of text into one. Such as "foos" + "ball" = "<b>foosball</b>".  (╭ರ_•́) Very in the spirit of the German language (• ᴗ • ᵕ)</p></aside>
 
 ---
 ### Procedural Generation
