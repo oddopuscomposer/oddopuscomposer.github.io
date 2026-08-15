@@ -9,7 +9,7 @@ featured: true
 mermaid:
   enabled: true
   zoomable: true
-citation: true
+citation: false
 tabs: true
 
 
@@ -1172,3 +1172,4 @@ That's also a natural foundation for lore that's only discoverable locally. It c
     </div>
 </div>
 
+{% include citation.liquid %}
