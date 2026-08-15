@@ -29,6 +29,11 @@ toc:
   - name: Conclusion
 
 ---
+<style>
+li{
+    margin: 6px 0;
+}
+</style>
 
 ## Subject
 
