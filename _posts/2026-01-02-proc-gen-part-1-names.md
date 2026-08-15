@@ -47,8 +47,8 @@ Along the way, we'll build our own data pools to generate names from simple rand
 
 ---
 ### Procedural Generation
-Procedural Generation describes the content created by an algorithm during the runtime of a program:a game world manifested through automated, parameterised systems, whose emergent results depending part on the player’s own tendency toward apophenia, (the human tendency to perceive patterns and form reason and narrative related to technically unrelated data), around the permutations.
-<aside><p> A runtime could also be an analog operation of a board game, too, so proc-gen doesn't just exist in the digital realm!</p></aside>
+Procedural Generation (proc-gen) describes the content created by an algorithm during the runtime of a program: a game world manifested through automated, parameterised systems, whose emergent results depend partly on the player’s own tendency toward apophenia, (the human tendency to perceive patterns and form reason and narrative related to technically unrelated data), around the permutations.
+<aside><p> A runtime could also be an analogue operation of a board game, too, so proc-gen doesn't just exist in the digital realm!</p></aside>
 Dr. Mark R. Johnson, sole designer of the Roguelike Ultima Ratio Regium, defines procedural content generation as "the writing of algorithms and systems which – within boundaries set by the designer – are unpredictable and can create in-game content which cannot be predicted until its creation."<d-footnote>Johnson, Mark R. _The Unpredictability of Gameplay_. Bloomsbury Academic, 2018, https://doi.org/10.5040/9781501321597.</d-footnote>
 
 Proc-gen is most often used to increase replay value and data scalability; a generative system might construct anything from a sentence to a full-level terrain layout, or event sequence, and is frequently combined with static design. For example, randomising the presence or placement of fixed entities like treasure or monsters on an otherwise authored map
