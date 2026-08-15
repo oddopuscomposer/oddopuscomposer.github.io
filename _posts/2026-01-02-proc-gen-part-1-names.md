@@ -29,11 +29,6 @@ toc:
   - name: Conclusion
 
 ---
-<style>
-li{
-    margin: 6px 0;
-}
-</style>
 
 ## Subject
 
@@ -719,7 +714,7 @@ Here are some of my favorite results so far:
     </div>
     <div class="col-sm mt-2 mt-md-0">
     <p>
-    <ul>
+    <ul style="line-height: 1.2em; margin-bottom: 6px">
         <li>Doctor Wren Fastthimble the Seamer</li>
         <li>Man of Science Zulo Ramcraft</li>
         <li>Jing Olddevil of the Obsidian Oath</li>
