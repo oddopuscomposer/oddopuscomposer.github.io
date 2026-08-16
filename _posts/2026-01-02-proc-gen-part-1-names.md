@@ -192,7 +192,7 @@ So there can be fun in authoring a character's sobriquet Scarlet Dewinter, to a 
 Nuns all get their Mary name; their second name is preceded by mother. Additionally, in Catholicism, you have popes taking on names, and it is about legacy and building on top of the previous predecessors' vibe of their work or personality. Much like the Roman cognomen surnames during ancient times.
 </p>
 <aside><p>“What's in a name? That which we call a rose by any other name would smell as sweet.”<em> ― William Shakespeare, Romeo and Juliet</em></p></aside>
-<p>We, of course, can generate our own theophorics, non-denominational and otherwise, for our zealots and clerics. Beloved of, bestowed by, blessed by, blessing from, is the spirit of, beloved of, eternal dweller of %deity% splendour of, %deity% faithful to, guided by, handmaid of, protected by, provided by,  warrior of, etc. </p>
+<p>We, of course, can generate our own theophorics, non-denominational and otherwise, for our zealots and clerics. Beloved of, bestowed by, blessed by, blessing from, is the spirit of, beloved of, eternal dweller of %deity% splendour of, %deity% faithful to, guided by, handmaid of, protected by, provided by,  warrior of, etc.</p>
 {% include figure.liquid loading="eager" path="assets/img/blog_images/ZotePrecept32.png" class="img-fluid rounded z-depth-1" title="Precept Thirty-TwpNames have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own! - Zote the Mighty" %}
 <div class="row justify-content-sm-center">Hollow Knight, 2017</div>
 
