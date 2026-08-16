@@ -110,7 +110,7 @@ Through identity, we gain meaning, which is why the names our parents imposed on
 
 <aside><p>And yes, I am relating anime, the bible, human history, and speculative fiction.</p></aside>
 
-In his essay *The Place of Culture, Society, and Politics in Video Game World-Building*, Mark R. Johnson discusses many elements of his culture and world generator, Ultima Ratio Regum he talks about his system for generating names as one of the many ways to distinguish the permutated cultures. "The game has around 50 archetypes of names, but then each archetype can either be altered randomly, or altered according to the rest of the game world, drawing on ideas like animals or plants to create a set of possible names." 
+In his essay *The Place of Culture, Society, and Politics in Video Game World-Building*, Mark R. Johnson discusses many elements of his culture and world generator, *Ultima Ratio Regum* he talks about his system for generating names as one of the many ways to distinguish the permutated cultures. "The game has around 50 archetypes of names, but then each archetype can either be altered randomly, or altered according to the rest of the game world, drawing on ideas like animals or plants to create a set of possible names."<d-footnote>Short, Tanya X., and Tarn Adams. Procedural Storytelling in Game Design. Edited by Tanya X. Short and Tarn Adams, Second edition., Routledge, 2018</d-footnote> 
 
 <aside><p> Ultima Ratio Regum is Latin for "the last argument of kings"</p></aside>
 
@@ -1173,7 +1173,7 @@ That's also a natural foundation for lore that's only discoverable locally. It c
 </div>
 
 {% details Click here if you would like to cite this post!%}
-    {% tabs ExampleOne %}
+    {% tabs Citation %}
         {% include citation.liquid %}
     {% endtabs %}
 {% enddetails %}
