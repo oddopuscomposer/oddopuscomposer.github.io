@@ -146,7 +146,7 @@ In Pokémon *nuzlocke* challenges, a self imposed gameplay based on player const
 
 The first time I played the intricate roguelike *Nethack*, I was spawned with a pet cat and immediately had to look up the hash command to name them (Figmus). I spent the rest of my short run, doomed run genuinely worried about my cats well being, at one point chasing her down a trapped door she fell through. Not just an emergent-narrative anecdote; but naming her contributed to the made connection to this clumsy, endearing creature real in the first place.
 
-<aside><p>At the risk of over-quoting Terry Pratchett: this reminds me of *Good Omens*, where the (mildly antagonistic) Adam names his dog "Dog." Adam still adores that dog completely — the name is tautological, but the identity it points to is real.</p></aside> Titles also hold sway and remembrance through the ages and time. Sometimes, honorifics are not as desired or controlled well by those who earn them. Anyone named Tim the Weak, Sarah Bitchen' Priestess, or Saint Hilarious Gaylord might not be what the individuals where originally hoping for.
+<d-footnote>At the risk of over-quoting Terry Pratchett: this reminds me of *Good Omens*, where the (mildly antagonistic) Adam names his dog "Dog." Adam still adores that dog completely — the name is tautological, but the identity it points to is real. Pratchett, Terry, and Neil Gaiman. Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch, Transworld Publishers, 2000, p. 58<d-footnote> Titles also hold sway and remembrance through the ages and time. Sometimes, honorifics are not as desired or controlled well by those who earn them. Anyone named Tim the Weak, Sarah Bitchen' Priestess, or Saint Hilarious Gaylord might not be what the individuals where originally hoping for.
 
 ### Reclamation of Identity and Queer Introspection
 
@@ -165,7 +165,7 @@ Being named is recognition; not having your name used is a small, ongoing exile.
 
 While there are a fair few writings on the cleverness methods of proper naming of characters, names that instill visualisation and projected investments, the truth is, we often make our names meaning dispite all their awkwardness and that is more in the spirit of this exercise. While I certainly have curated hundreds of name elements that are of particular interest to my style and lexicographical  taste, there still be some clumsy, dirpy, and peculiar outcomes, which just means that those characters get to grow into their names and narrative the way the rest of do and overcome and embrace their names in all their glory. 
 
-<aside><p>“Names are unique sounds and cadences of words that are attached to one specific individual-sort of like a kind of theme music.”</p><p><em>― Jim Butcher, Storm Front (The Dresden Files)</em></p></aside>
+<aside><p>“Names are unique sounds and cadences of words that are attached to one specific individual-sort of like a kind of theme music.”</p><p><em>― Butcher, Jim. Storm Front. Roc, 2000, p. 35</em></p></aside>
 <div class="row mt-2">
     <div class="col-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_images/FrierenNecklace.gif" class="float-left img-fluid rounded z-depth-1" max-width="268px" title="Gif of Frieren showing her mage class necklace from the anime Frieren: Beyond Journey's End" %}
@@ -1148,7 +1148,7 @@ Patterns to potentially try:<ul style="line-height: 1em; margin-bottom: 6px">
 For a group of militants or bandits, we can try combination yielding results like: The Silent Daggers, Princess Phoebe's Priestesses, The Lost Helm, The Snapdragon Knights, Lord Edwins Axe, Cauldron Fatecasters, Acorn Foxes of the Forrest. You could then craft full titles like Geraldina of the Cauldron Fatecasters. Rachel, resident witch of the Snapdragon Knights. Adrienne the Gold Vixen, most cunning of the Acorn Foxes - yes, those ones of the fore mention forest. And so forth ¯\_(ツ)_/¯</p>
 <p>
 One more improvement worth noting: epithets are often awarded and given rather than chosen. We could generate some sort of global stats to keep track of kill counts, type, travel, notable action, and more to update the names of NPCs, things, and the player accordingly. Rachel Pollack, in her writing on how Persephone earns her name in the underworld after being taken by Hades ("She Who Shines in the Dark," "Pupil of the Eye"), describes how Persephone becomes conscious of herself there — gaining awareness of her own individuality by facing the underworld and shining in it anyway.<d-footnote>Gabriel, Davina Anne, editor. "THE AND  POWER THE PASSION: AN INTERVIEW WITH RACHEL POLLACK" TransSisters: The Journal of Transsexual Feminism, no. 9, Summer 1995, pp. 51-52.</d-footnote> Naming, in that sense, is part of coming into being, through being named, or through the layered attributes of a life accumulating into the name someone finally uses for you.</p>
-<aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things. Yes, that's the way to put it. People who do things.”</p><p><em>― Ray Bradbury, The October Country</em>></p></aside>
+<aside><p>“It's poor judgment', said Grandpa 'to call anything by a name. We don't know what a hobgoblin or a vampire or a troll is. Could be lots of things. You can't heave them into categories with labels and say they'll act one way or another. That'd be silly. They're people. People who do things.”</p><p><em>― Bradbury, Ray. The October Country. Avon Books, 1999 pp.155-156</em>></p></aside>
 <p>What's more, names tend to be somewhat geographic in the sense that certain names carry more weight in certain places or amongst particular companies. We could link the given names from deeds/atrocities of a given biome or a group of beings. You may be known as the conquer of the frozen depths, really, to the town on the edge of the frozen depths, but the desert oasis town of Hotsville, a few regions over, probably has never heard of you exceptionally noble actions.</p>
 
 A traveling scholar might know your repreutation regarless, as an individual who keeps up with world events or a slime colony could even develop their own cognomen for the player (or an NPC) due to their continual killing of slimes (Caitlin the Slime Slayer). A system could cross-reference those two tiers of "who's heard of you" (geolocational and culturally) to produce a an interesting and complex recognition system even furthermore a rumor decay algorithm based around NPCs around events which deminishes over time, where epithets are built from multiple rumors, and rumors are built from multiple observed events. 
@@ -1172,7 +1172,14 @@ That's also a natural foundation for lore that's only discoverable locally. It c
 
     {% tab Citpost PostCite %}
 
+        In case this information has been convient and of interest here is a quick citation reference!
+
         {% include citation.liquid %}
+
+        If you found this useful, please cite this post:
+```
+Leonhart, Alexandra. (Aug 2026). Procedural Generation of Text Part One Names. https://oddopuscomposer.github.io.
+```
 
     {% endtab %}
 
