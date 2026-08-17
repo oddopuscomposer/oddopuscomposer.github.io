@@ -320,8 +320,6 @@ We can perhaps reverse some aspects in a kind of tmesis, interjecting some addit
 (code)
 You can see how making things complex can get a little muddy, so sometimes it's best to step back and think about purely what is needed to give the illusion of depth and to hone in on the theme. Is this messy? Yes, I just started learning Rust, and I have no idea what I am doing, so there are probably many better ways to do this, and hopefully by the time I am done, I will know more in the correct direction to empower my wonky creations.
 
-<aside>The Little Man pitied her. “I will give you three days’ time,” said he; “if by that time you find out my name, then you shall keep your child.”<br>“Perhaps your name is Rumpelstiltskin ?” “The devil has told you that! the devil has told you that!” cried the Little Man, and in his anger he stamped his right foot so deep into the earth that whole leg went in. And then in rage, he with both hands, that he tore himself in two.<br>- The Brothers Grimm, The Brothers. “Rumpelstiltskin.” Grimm Fairy Tales (Legend Classics), Legend Press, 2022, pp. 50-51.</aside>
-
 {% details Click here to look at and run more rust code examples%}
 
 {% tabs ExamplesTwo %}
@@ -1166,4 +1164,18 @@ That's also a natural foundation for lore that's only discoverable locally. It c
         {% include figure.liquid loading="eager" path="assets/img/blog_images/InBurNook.gif" class="float-center img-fluid rounded" max-width="268px" title="In Bruges film gif talking about the term nooks and crannies" %}
     </div>
 </div>
+
+{% details Click here if you would like to cite this post!%}
+
+    {% tabs Citation %}
+
+    {% tab Citation PostCite %}
+
+        {% include citation.liquid %}
+
+    {% endtab %}
+
+    {% endtabs %}
+    
+{% enddetails %}
 
