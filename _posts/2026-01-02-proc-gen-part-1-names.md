@@ -136,7 +136,7 @@ Many procedural games do the same thing: naming a generated monster "the Butcher
 
 Names are what are called forth from parents and loved ones for acknowledgement or admonition, In a formal setting, its whats transcribed on degrees, decrees, and identification. They are what we obscure when we do not want to be found, what we shed when starting over. Titles and honorifics, work like level ups; earned through deeds, collected achievements, while small community nicknames only used by a faction of few indicate a private in group. Its the foundational semiotics to encapsulate an entity, naming through taxonomy, but with exceptional potential uniqueness.
 
-World Builder author Mark J. P. Wolf writing on subcreation and invented languages, notes that a name "has the potential to cast a new light on the things it names, by emphasizing certain aspects about them or relating them to each in new ways through linguistic similarities" even if, naming is a comparatively shallow act of invention compared to an entire language. Still a name projects to the world what something is.
+Author Mark J. P. Wolf writing on subcreation and invented languages, notes that a name "has the potential to cast a new light on the things it names, by emphasizing certain aspects about them or relating them to each in new ways through linguistic similarities" even if, naming is a comparatively shallow act of invention compared to an entire language. Still a name projects to the world what something is.
 
 <aside><p>"Names should always have resonance, but they are given by others" - Dirk Krecker (fine artist, quote from *Typewriter Art* pg 127)</p></aside>
 
@@ -320,6 +320,7 @@ We can perhaps reverse some aspects in a kind of tmesis, interjecting some addit
 (code)
 You can see how making things complex can get a little muddy, so sometimes it's best to step back and think about purely what is needed to give the illusion of depth and to hone in on the theme. Is this messy? Yes, I just started learning Rust, and I have no idea what I am doing, so there are probably many better ways to do this, and hopefully by the time I am done, I will know more in the correct direction to empower my wonky creations.
 
+<aside>The Little Man pitied her. “I will give you three days’ time,” said he; “if by that time you find out my name, then you shall keep your child.”<br>“Perhaps your name is Rumpelstiltskin ?” “The devil has told you that! the devil has told you that!” cried the Little Man, and in his anger he stamped his right foot so deep into the earth that whole leg went in. And then in rage, he with both hands, that he tore himself in two.<br>- The Brothers Grimm, The Brothers. “Rumpelstiltskin.” Grimm Fairy Tales (Legend Classics), Legend Press, 2022, pp. 50-51.</aside>
 
 {% details Click here to look at and run more rust code examples%}
 
