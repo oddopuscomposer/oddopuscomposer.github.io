@@ -75,20 +75,20 @@ Proc-gen, in short, is a matter of control and intent. We can make things 
 
 ### Names?
 
-What's in a name and Why names? Setting aside that names are a conveniently manageable strings which work well to start generating and building and generating our textual world and lore.
+What's in a name and why names? Setting aside that names are conveniently manageable strings which work well to start building and generating our textual world and lore.
 
 Names carry weight. They hold legacy, symbolic representation, and roles. Plus, they are a fun and friendly introduction to building textual readouts in code. Names often hold the importance of knowing or understanding the nature of something or someone. As protagonist Kothe learns from his teacher Elodin, in *Name of the Wind*, "names have power, words have power...But a word is nothing but a painting of a fire. A name is the fire itself... a subject's true name as being comprised of everything that has gone into its shaping since its creation."<d-footnote>Rothfuss, Patrick. The Name of the Wind. DAW Books, 2007.</d-footnote>
 
-We know the common aspect of demonology is that knowing the true name of a creature or entity holds some sway of power over them, such as summoning a demon to enact your will. Hidden names and elements of oneself that are feared to be discovered, names more reflected in the formal address we treat as a weakness. It gives pause, emphasis, and direction of the surrounding words.
+We know the common aspect of demonology is that knowing the true name of a creature or entity holds some sway of power over them, such as summoning a demon to enact your will. Hidden names and elements of oneself are feared to be discovered and there are names that reflected in the formal address we treat as a weakness. It gives pause, emphasis, and direction of the surrounding words.
 
-"Speak of the devil, and they shall appear". Perhaps this is due to some king of mathematical logics. Demons fear the memory of their possibility of mortality, the layered spells which make up their essence, they have traded in and reformed over centuries, like a ship of Theseus<d-footnote>https://johntscott.com/wp-content/uploads/2019/02/aes.brute_.force_.work_.factor.argument.pdf</d-footnote>.
+"Speak of the devil, and they shall appear". Perhaps this is due to some king of mathematical logics. Demons fear the memory of their possibility of mortality; the layered spells which make up their essence, they have traded in and reformed over centuries, like a ship of Theseus<d-footnote>https://johntscott.com/wp-content/uploads/2019/02/aes.brute_.force_.work_.factor.argument.pdf</d-footnote>.
 
-A modern computer AES-256 encryption would require billions of years to brute force, not to mention exceptional amount of power required and many replications of the strongest computers currently made. - But if you know the key its easy. Also apparently, quantum computers might be bit of a game changer.
+A modern computer AES-256 encryption would require billions of years to brute force, not to mention the exceptional amount of power required and many replications of the strongest computers currently made. But if you know the key, it is easy. Also, apparently, quantum computers might be bit of a game changer.
 
-A true name is the key. The mathematical truism of a being is at risk with their true name being known leading to their unmaking. Judaism, those who know gods true name would have power over all of the creations, thus the Kabbalah. The Ancient Egyptian Book of the Dead is supposed to host the true names of those you meet in your afterlife as a means of controlling them. In christianity's Genesis, god tells Adam to name the animals, establishing their subservience to him, while later when Jacob and an angel wrestle (Genesis 32:22-32 and in Hosea), the angel refuses to tell him their name.
-<aside><p>That's right, first post and we are already quoting philosophical feminism, paganistic structures, fantastical existentialism, computer nerdery, and the fucking Bible. Goddammit, I don't want to talk about the fucking Bible again</p></aside>
+A true name is the key. The mathematical truism of a being is at risk with their true name being known leading to their unmaking. In Judaic, those who know God's true name would have power over all of the creations, thus the Kabbalah. The Ancient Egyptian *Book of the Dead* is supposed to host the true names of those you meet in your afterlife as a means of controlling them. In Abrahamic relgion *Book Genesis*, God tells Adam to name the animals, establishing their subservience to him, while later when Jacob and an angel wrestle (Genesis 32:22-32 and in Hosea), the angel refuses to tell him their name.
+<aside><p>That's right, first post and we are already quoting philosophical feminism, paganistic structures, fantastical existentialism, computer nerdery, and the fucking Bible.</p></aside>
 
-In some societies of Aboriginal Australians names are an extension of their bodies, to the point that when one dies, all those with that name adopt new ones as it is buried.<d-footnote>McGrath, P. and Phillips, E. (2008), "Australian findings on Aboriginal cultural practices associated with clothing, hair, possessions, and use of name of deceased persons." *International Journal of Nursing Practice*, 14: 57-66. [https://doi.org/10.1111/j.1440-172X.2007.00667.x](https://doi.org/10.1111/j.1440-172X.2007.00667.x)</d-footnote>
+In some societies of Aboriginal Australians, names are an extension of their bodies, to the point that when one dies, all those with that name adopt new ones as the dead is buried.<d-footnote>McGrath, P. and Phillips, E. (2008), "Australian findings on Aboriginal cultural practices associated with clothing, hair, possessions, and use of name of deceased persons." *International Journal of Nursing Practice*, 14: 57-66. [https://doi.org/10.1111/j.1440-172X.2007.00667.x](https://doi.org/10.1111/j.1440-172X.2007.00667.x)</d-footnote>
 
 To name something or someone, the act of giving a name, is to impose some power. The manga/anime *That Time I was Reincarnated as a Slime* shows this as average monsters have no name, but when named, they transform into stronger versions of themselves.
 
@@ -104,17 +104,17 @@ To name something or someone, the act of giving a name, is to impose some power.
     </div>
 </div>
 
-<aside><p>Anime is a legitimately reference, yes?</p></aside>
+<aside><p>Anime is a legitimate reference, right?</p></aside>
 
 Through identity, we gain meaning, which is why the names our parents imposed on us doubles as a summon for reprimands.
 
 <aside><p>And yes, I am relating anime, the bible, human history, and speculative fiction.</p></aside>
 
-In his essay *The Place of Culture, Society, and Politics in Video Game World-Building*, Mark R. Johnson discusses many elements of his culture and world generator, *Ultima Ratio Regum* he talks about his system for generating names as one of the many ways to distinguish the permutated cultures. "The game has around 50 archetypes of names, but then each archetype can either be altered randomly, or altered according to the rest of the game world, drawing on ideas like animals or plants to create a set of possible names."<d-footnote>Short, Tanya X., and Tarn Adams. Procedural Storytelling in Game Design. Edited by Tanya X. Short and Tarn Adams, Second edition., Routledge, 2018</d-footnote> 
+In his essay *The Place of Culture, Society, and Politics in Video Game World-Building*, Mark R. Johnson discusses many elements of his culture and world generator, *Ultima Ratio Regum*, he talks about his system for generating names as one of the many ways to distinguish the permutated cultures. "The game has around 50 archetypes of names, but then each archetype can either be altered randomly, or altered according to the rest of the game world, drawing on ideas like animals or plants to create a set of possible names."<d-footnote>Short, Tanya X., and Tarn Adams. Procedural Storytelling in Game Design. Edited by Tanya X. Short and Tarn Adams, Second edition., Routledge, 2018</d-footnote> 
 
 <aside><p> Ultima Ratio Regum is Latin for "the last argument of kings"</p></aside>
 
-Once again, when the player learns a style of naming, they should be able to identify the origin of another character and then make informed choices on the back of that information."*. This connects to a core aspect of the game is a Nikki Lee<d-footnote>Nikki Lee is a fine art photographer known to document her time assimilating into unusual subcategories of culture around race, age, music, professions I studied in undergrad who stuck with me. Check out her amazing 2001 work *Nikki S. Lee: Projects*. Also, tangent, but if you want to know my goto favorite photography is the work by Shana & Robert ParkeHarrison -check out their amazing book: *The Brothers Architect* or *Counterpoint*</d-footnote> a player infiltrating and discovering culture studying from the inside, gathering deeper insight and learning the the structures and unwritten rules enough to pass.
+Once again, when the player learns a style of naming, they should be able to identify the origin of another character and then make informed choices on the back of that information. This connects to a core aspect of the game as Nikki Lee<d-footnote>Nikki Lee is a fine art photographer known to document her time assimilating into unusual subcategories of culture around race, age, music, professions I studied in undergrad who stuck with me. Check out her amazing 2001 work *Nikki S. Lee: Projects*. Also, tangent, but if you want to know my goto favorite photography is the work by Shana & Robert ParkeHarrison -check out their amazing book: *The Brothers Architect* or *Counterpoint*</d-footnote> a player infiltrating and discovering culture studying from the inside and gathering deeper insight and learning the structures and unwritten rules enough to pass as "normal" in the culture.
 
 This may also resonate on a personal, lower level to a very real of sometime the subculture rulesets that people might not be familiar with masking and mimicking elements to fit in.
 
@@ -1175,5 +1175,5 @@ That's also a natural foundation for lore that's only discoverable locally. It c
 
     {% endtab %}
     {% endtabs %}
-    
+
 {% enddetails %}
