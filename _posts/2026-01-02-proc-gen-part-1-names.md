@@ -1167,14 +1167,3 @@ That's also a natural foundation for lore that's only discoverable locally. It c
     </div>
 </div>
 
-{% details Click here if you would like to cite this post!%}
-
-    {% tabs Citation %}
-    {% tab PostCite %}
-
-        {% include citation.liquid %}
-
-    {% endtab %}
-    {% endtabs %}
-
-{% enddetails %}
