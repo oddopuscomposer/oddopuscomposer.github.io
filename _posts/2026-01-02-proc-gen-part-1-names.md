@@ -1167,21 +1167,15 @@ That's also a natural foundation for lore that's only discoverable locally. It c
 </div>
 
 {% details Click here if you would like to cite this post!%}
+{% tabs Citepost %}
+{% tab Citepost PostCite %}
 
-    {% tabs Citepost %}
-
-    {% tab Citpost PostCite %}
-
-        In case this information has been convient and of interest here is a quick citation reference!
-
-        If you found this useful, please cite this post:
+        If you found this information useful, please cite this post:
 ```
 Leonhart, Alexandra. (Aug 2026). Procedural Generation of Text Part One Names. https://oddopuscomposer.github.io.
 ```
 
-    {% endtab %}
-
-    {% endtabs %}
-
+{% endtab %}
+{% endtabs %}
 {% enddetails %}
 
