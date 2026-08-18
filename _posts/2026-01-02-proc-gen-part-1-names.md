@@ -1167,11 +1167,9 @@ That's also a natural foundation for lore that's only discoverable locally. It c
 </div>
 <hr>
 
-{% details Click here if you would like to cite this post!%}
+{% details Click here if you found this information useful and wish to cite this post!%}
 {% tabs Citepost %}
 {% tab Citepost PostCite %}
-
-        If you found this information useful, please cite this post:
 
 ```pseudocode
 Leonhart, Alexandra. (Aug 2026). Procedural Generation of Text Part One Names. https://oddopuscomposer.github.io.
