@@ -144,7 +144,7 @@ In Pokémon *nuzlocke* challenges, a self imposed gameplay based on player const
 
 <aside><p>"Names establish character, lead into events, and create expectations."<br>— Jack Halberstam, <i>Trans*: A Quick and Quirky Account of Gender Variability</i>>, p. 2</p></aside>
 
-The first time I played the intricate roguelike *Nethack*, I was spawned with a pet cat and immediately had to look up the hash command to name them (Figmus). I spent the rest of my short run, doomed run genuinely worried about my cats well being, at one point chasing her down a trapped door she fell through. Not just an emergent-narrative anecdote; but naming her contributed to the made connection to this clumsy, endearing creature real in the first place.<d-footnote>At the risk of over-quoting Terry Pratchett: this reminds me of *Good Omens*, where the (mildly antagonistic) Adam names his dog "Dog." Adam still adores that dog completely — the name is tautological, but the identity it points to is real. Pratchett, Terry, and Neil Gaiman. Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch, Transworld Publishers, 2000, p. 58</d-footnote>
+The first time I played the intricate roguelike *Nethack*, I was spawned with a pet cat and immediately had to look up the hash command to name them (Figmus). I spent the rest of my short run, doomed run genuinely worried about my cats well being, at one point chasing her down a trapped door she fell through. Not just an emergent-narrative anecdote; but naming her contributed to the made connection to this clumsy, endearing creature real in the first place.<d-footnote>At the risk of over-quoting Terry Pratchett: this reminds me of *Good Omens*, where the (mildly antagonistic) Adam names his dog "Dog". Adam still adores that dog completely — the name is tautological, but the identity it points to is real. Pratchett, Terry, and Neil Gaiman. Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch, Transworld Publishers, 2000, p. 58</d-footnote> 
 
 Titles also hold sway and remembrance through the ages and time. Sometimes, honorifics are not as desired or controlled well by those who earn them. Anyone named Tim the Weak, Sarah Bitchen' Priestess, or Saint Hilarious Gaylord might not be what the individuals where originally hoping for.
 
@@ -1172,7 +1172,8 @@ That's also a natural foundation for lore that's only discoverable locally. It c
 {% tab Citepost PostCite %}
 
         If you found this information useful, please cite this post:
-```
+
+```pseudocode
 Leonhart, Alexandra. (Aug 2026). Procedural Generation of Text Part One Names. https://oddopuscomposer.github.io.
 ```
 
