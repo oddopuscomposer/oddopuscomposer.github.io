@@ -201,6 +201,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Procedural_Storytelling_in_Game_Design/";
+            },},{id: "books-queer-as-folklore",
+          title: 'Queer as Folklore',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Queer_As_Folklore/";
             },},{id: "books-queer-amp-58-a-graphic-guide",
           title: 'Queer&amp;amp;#58; A Graphic Guide',
           description: "",
