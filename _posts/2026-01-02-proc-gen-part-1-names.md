@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Procedural Generation of Text Part One Names
+title: Procedural Generation of Text
 description: procedural generation of names, honorifics, and epithets
 tags: procedural-generation game-studies ludonarrative rust LGBT
 categories: Game-Design
@@ -30,7 +30,7 @@ toc:
 
 ---
 
-## Subject
+## Part One: Names
 
 **Main Topic**: Procedural Generation 101, Name Creation and Myth, Ludonarrative Thoughts, Queer Representation, Rust Tinkering
 
