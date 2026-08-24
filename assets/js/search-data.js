@@ -30,9 +30,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-procedural-generation-of-text-part-one-names",
+            },{id: "post-procedural-generation-of-text",
         
-          title: "Procedural Generation of Text Part One Names",
+          title: "Procedural Generation of Text",
         
         description: "procedural generation of names, honorifics, and epithets",
         section: "Posts",
