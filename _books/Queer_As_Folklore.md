@@ -9,10 +9,10 @@ categories: queer-history
 tags: lgbt queer mythology
 buy_link: 
 started: 2026-08
-finished: 2026
+finished: 2026-09
 released: 2024
-stars: 3.75
+stars: 4
 goodreads_review: 
-status: Reading
+status: Finished
 ---
 I am currently reading this work, but so far I quite enjoy semantic delving into mythological creatures and the various relations to LGBTQ+ communities individually and at large.
