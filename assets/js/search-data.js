@@ -301,6 +301,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/VideoGameAtlasMappingInteractiveWorlds/";
+            },},{id: "books-the-weird-and-eerie",
+          title: 'The Weird And Eerie',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/WeirdAndEerie/";
             },},{id: "books-when-monsters-speak",
           title: 'When Monsters Speak',
           description: "",
