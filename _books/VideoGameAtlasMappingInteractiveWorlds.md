@@ -16,7 +16,7 @@ status: finished
 ---
 
 <b>Quick Synoposis</b>:
-Wonderful book full of essays focusing on Procedural Generative techniques and considerations from narrative standpoint and how to creative interesting results effectively without the results being 1000 bland bowels of oatmeal.
+Wonderful book exploring the mapping of game space in 10 games, I particularly enjoyed how the form and function illumination of the buildings granted a much deeper narrative understanding in works like Death Stranding, No Man's Sky, and how to even assess analysis totally unique spaces of procedural worlds like Minecraft and Dwarf Fortress.
 
 <b>Thoughts</b>:
-I am still compiling my notes for this book as they are a considerable amount for each of the 28 chapters.
+I am still compiling my notes for this book as they are a considerable amount for each of the game chapters.
