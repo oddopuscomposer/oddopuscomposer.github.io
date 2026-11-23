@@ -13,9 +13,9 @@ finished: 2026
 released: 2026
 stars: 
 goodreads_review:
-status: Reading
+status: Finished
 ---
 
 The Game Narrative Kaleidoscope: 100+ Essays on the Craft of Game Writing.
 
-Just started reading
+Compiling notes.
