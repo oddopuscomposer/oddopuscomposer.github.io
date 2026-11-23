@@ -13,7 +13,7 @@ finished: 2026-06
 released: 2014
 stars: 3.5
 goodreads_review: 
-status: Reading
+status: Finished
 ---
 Game Magic: A Designer's Guide to Magic Systems in Theory and Practice
 In the process of reading and compiling notes.
