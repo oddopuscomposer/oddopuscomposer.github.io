@@ -186,6 +186,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Manifestations_Of_Queerness_In_Video_Games/";
+            },},{id: "books-mapping-it-out-an-alternative-atlas-of-contemporary-cartographies",
+          title: 'Mapping It Out An Alternative Atlas of Contemporary Cartographies',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/MappingItOut/";
             },},{id: "books-nethack",
           title: 'Nethack',
           description: "",
