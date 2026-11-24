@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Mapping It Out An Alternative Atlas of Contemporary Cartographies
+title: Mapping It Out&#58; An Alternative Atlas of Contemporary Cartographies
 author: by Hans Ulrich Obrist
 cover: assets/img/book_covers/Mapping_It_Out.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
