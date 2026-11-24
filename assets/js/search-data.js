@@ -116,11 +116,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Codex%20Seraphinianus/";
-            },},{id: "books-cyberpl-amp-64-y-amp-58-communicating-online",
-          title: 'Cyberpl&amp;amp;#64;y&amp;amp;#58; Communicating Online',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/Cyberplay/";
             },},{id: "books-end-to-end-procedural-generation-in-caves-of-qud-gdc",
           title: 'End-to-End Procedural Generation in Caves of Qud (GDC)',
           description: "",
@@ -301,6 +296,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Typewriter_Art/";
+            },},{id: "books-videogame-architecture-amp-58-building-virtual-spaces",
+          title: 'Videogame Architecture&amp;amp;#58; Building Virtual Spaces',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/VideoGameArchitectureBuildingVirtualSpaces/";
             },},{id: "books-videogame-atlas-amp-58-mapping-interactive-worlds",
           title: 'Videogame Atlas&amp;amp;#58; Mapping Interactive Worlds',
           description: "",
