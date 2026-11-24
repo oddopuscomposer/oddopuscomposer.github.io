@@ -321,6 +321,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/World-Builders_on_World-Building/";
+            },},{id: "books-you-are-here-amp-58-personal-geographies-and-other-maps-of-the-imagination",
+          title: 'You Are Here&amp;amp;#58; Personal Geographies and Other Maps of the Imagination',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/YouAreHere/";
             },},{id: "news-new-website-is-live-and-i-m-working-out-some-of-the-wrinkles-sparkles-blush",
           title: 'New website is live, and I’m working out some of the wrinkles! :sparkles:...',
           description: "",
